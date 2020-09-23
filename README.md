@@ -4,7 +4,7 @@
 
 ### Content
 
-1. 
+1. [Two Sum](Solved/1-Two-Sum/Two-Sum.md)
 2. [Add Two Numbers](Solved/2-Add-Two-Numbers/Add-Two-Numbers.md)
 3. 
 4. 
