@@ -8,8 +8,10 @@
 2. [Add Two Numbers](Solved/2-Add-Two-Numbers/Add-Two-Numbers.md)
 3. 
 4. 
-5. 
-6. [ZigZag Conversion](Solved/6-ZigZag-Conversion-ZigZag-Conversion.md)
+5. [Longest Palindromic Substring](Solved/5-Longest-Palindromic-Substring/Longest-Palindromic-Substring.md)
+6. [ZigZag Conversion](Solved/6-ZigZag-Conversion/ZigZag-Conversion.md)
+7. 
+8. [String to Integer (atoi)](Solved/8-String-to-Integer/String-to-Integer.md)
 
 
 
