@@ -1,6 +1,6 @@
 # Leetcode
 
-[![java](https://img.shields.io/badge/Language-Java-red)]()[![python](https://img.shields.io/badge/Language-Python-blue)]()
+[![https://img.shields.io/badge/Language-Java-red](https://img.shields.io/badge/Language-Java-red)]()[![https://img.shields.io/badge/Language-Python-blue](https://img.shields.io/badge/Language-Python-blue)]()
 
 ### Content
 
