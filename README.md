@@ -19,6 +19,8 @@
 13. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) [Roman To Integer](Solved/13-Roman-To-Integer/Roman-To-Integer.md)
 14. [![](https://img.shields.io/badge/-Easy-%235cb85c.svg) Longest Common Prefix](Solved/14-Longest-Common-Prefix/Longest-Common-Prefix.md)
 15. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [3Sum](Solved/15-3Sum/3Sum.md)
+16. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [3Sum Closest](Solved/16-3Sum-Closest/3Sum-Closest.md)
+17. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [Letter Combinations of a Phone Number](Solved/17-Letter-Combinations-of-a-Phone-Number/Letter-Combinations-of-a-Phone-Number.md)
 
 
 
