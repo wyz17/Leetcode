@@ -23,6 +23,8 @@
 
 ### 代码
 
+##### Java
+
 ``` java
 class Solution {
     public int myAtoi(String str) {
@@ -51,9 +53,9 @@ class Solution {
 
 
 
-### Tips
+# Java Tips
 
-#### 判断int整型溢出处理
+### 判断int整型溢出处理
 
 - **if(res >= (Integer.MAX_VALUE / 10))**
 - 在这道题中的判断：
@@ -61,7 +63,7 @@ class Solution {
 
 
 
-#### 判断字符是否是数字的方法
+### 判断字符是否是数字的方法
 
 - **Character.isDigit('c')**
 
@@ -77,7 +79,7 @@ public class Test {
 
 
 
-#### 相似问题返回正负的处理方法
+### 相似问题返回正负的处理方法
 
 - 可以用一个 **int flg = 1 / -1** 来表示
 - 最后的返回值是 **flg * res** 就好（boolean没有int方便）

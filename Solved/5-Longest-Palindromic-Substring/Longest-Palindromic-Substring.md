@@ -25,6 +25,8 @@
 
 #### 代码
 
+##### Java
+
 ``` java
 class Solution {
     public String longestPalindrome(String s) {
@@ -76,6 +78,8 @@ class Solution {
 
 
 #### 代码
+
+##### Java
 
 ``` java
 class Solution {

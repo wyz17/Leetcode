@@ -21,6 +21,8 @@
 15. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [3Sum](Solved/15-3Sum/3Sum.md)
 16. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [3Sum Closest](Solved/16-3Sum-Closest/3Sum-Closest.md)
 17. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [Letter Combinations of a Phone Number](Solved/17-Letter-Combinations-of-a-Phone-Number/Letter-Combinations-of-a-Phone-Number.md)
+18. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [4Sum](Solved/18-4Sum/4Sum.md)
+19. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [Remove Nth Node From End of List](Solved/19-Remove-Nth-Node-From-End-of-List/Remove-Nth-Node-From-End-of-List)  
 
 
 

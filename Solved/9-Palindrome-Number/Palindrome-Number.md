@@ -45,7 +45,7 @@ Leetcode中要求不用字符串的方法，pass
 
 #### 代码
 
-#### Java
+##### Java
 
 ``` python
 class Solution {

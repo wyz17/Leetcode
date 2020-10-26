@@ -31,7 +31,7 @@
 
 #### 代码
 
-#### Java
+##### Java
 
 ``` python
 class Solution {
@@ -62,7 +62,7 @@ class Solution {
 
 
 
-#### Python3
+##### Python
 
 ```python
 class Solution:
@@ -90,7 +90,7 @@ class Solution:
 
 
 
-### Python知识点
+## Python知识点
 
 - python中list排序
 

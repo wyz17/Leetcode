@@ -74,7 +74,7 @@ class Solution {
 
 
 
-#### 注意点
+# Java Tips
 
 - 注意溢出处理校验方式，new_res/10 != old_res时则说明有溢出
 

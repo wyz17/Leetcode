@@ -1,4 +1,4 @@
-# 2. Add Two Numbers
+# 1. Two Sum
 
 ### 题目
 
@@ -24,7 +24,7 @@
 
 #### 代码
 
-#### Python
+##### Python
 
 ``` python
 class Solution(object):
@@ -55,6 +55,16 @@ class Solution(object):
 
 
 
+#### 复杂度
+
+时间：```O(n)```
+
+空间：```O(n)```
+
+从时间复杂度的角度来看，第一层for循环是O(n)，字典采用的是hash函数的结构，所以在 x in dict的查找过程中，时间复杂度为O(1)，而这里没用到index查询，而是直接获取value值，而字典的Get Item的复杂度也是O(1),所以整个算法的时间复杂度为O(n),不过这里的空间复杂度是O(n),用空间换时间
+
+
+
 #### 代码
 
 ##### Python
@@ -72,23 +82,15 @@ class Solution(object):
 
 
 
-#### 复杂度
-
-时间：```O(n)```
-
-空间：```O(n)```
-
-从时间复杂度的角度来看，第一层for循环是O(n)，字典采用的是hash函数的结构，所以在 x in dict的查找过程中，时间复杂度为O(1)，而这里没用到index查询，而是直接获取value值，而字典的Get Item的复杂度也是O(1),所以整个算法的时间复杂度为O(n),不过这里的空间复杂度是O(n),用空间换时间
 
 
+# Python知识点
 
-### Python知识点
+### enumerate() 函数
 
-- #### enumerate() 函数
-
-  - **enumerate(sequence, [start = 0])**
-  - sequence -- 一个序列、迭代器或其他支持迭代对象
-  - start -- 下标起始位置
+- **enumerate(sequence, [start = 0])**
+- sequence -- 一个序列、迭代器或其他支持迭代对象
+- start -- 下标起始位置
 
 ```python
 >>>seasons = ['Spring', 'Summer', 'Fall', 'Winter']
@@ -110,11 +112,11 @@ class Solution(object):
 
 
 
-- #### **字典（Dictionary）**
+### **字典（Dictionary）**
 
-  - 格式：`d = {key1 : value1, key2 : value2 }`
-  - 键一般是唯一的，如果重复最后的一个键值对会替换前面的，值不需要唯一
-  - 值可以取任何数据类型，但键必须是不可变的，如字符串，数字或元组
+- 格式：`d = {key1 : value1, key2 : value2 }`
+- 键一般是唯一的，如果重复最后的一个键值对会替换前面的，值不需要唯一
+- 值可以取任何数据类型，但键必须是不可变的，如字符串，数字或元组
 
 ```python
 dict = {'Alice': '2341', 'Beth': '9102', 'Cecil': '3258'}
