@@ -22,10 +22,10 @@
 16. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [3Sum Closest](Solved/16-3Sum-Closest/3Sum-Closest.md)
 17. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [Letter Combinations of a Phone Number](Solved/17-Letter-Combinations-of-a-Phone-Number/Letter-Combinations-of-a-Phone-Number.md)
 18. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [4Sum](Solved/18-4Sum/4Sum.md)
-19. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [Remove Nth Node From End of List](Solved/19-Remove-Nth-Node-From-End-of-List/Remove-Nth-Node-From-End-of-List)  
-20. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) [Valid Parentheses](Solved/20-Valid-Parentheses/Valid-Parentheses)  
-21. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) [Merge Two Sorted Lists](Solved/21-Merge-Two-Sorted-Lists/Merge-Two-Sorted-Lists)  
-22. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [Generate Parentheses](Solved/22-Generate-Parentheses/Generate-Parentheses)  
+19. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [Remove Nth Node From End of List](Solved/19-Remove-Nth-Node-From-End-of-List/Remove-Nth-Node-From-End-of-List.md)  
+20. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) [Valid Parentheses](Solved/20-Valid-Parentheses/Valid-Parentheses.md)  
+21. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) [Merge Two Sorted Lists](Solved/21-Merge-Two-Sorted-Lists/Merge-Two-Sorted-Lists.md)  
+22. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [Generate Parentheses](Solved/22-Generate-Parentheses/Generate-Parentheses.md)  
 
 
 
