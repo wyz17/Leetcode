@@ -84,17 +84,16 @@ class Solution:
 
 #### 步骤
 
-- 利用dfs递归遍历
+- 利用双指针，第一个指针为i，第二个指针为n+i
+- 当第二个指针到达末端的时候，第一个指针就指向要删除的节点
 
 
 
 #### 复杂度
 
-时间：` O(4^n)`
+时间：` O(L)`
 
-空间：` O(4^n + n)`
-
-![image-20201025172200156](/Users/weiyizhi/Library/Application Support/typora-user-images/image-20201025172200156.png)
+空间：` O(1)`
 
 
 
@@ -104,33 +103,23 @@ class Solution:
 
 ```java
 class Solution {
-    public List<String> letterCombinations(String digits) {
-        Map<Character, char[]> map = new HashMap<>();
-        map.put('2', new char[]{'a', 'b', 'c'});
-        map.put('3', new char[]{'d', 'e', 'f'});
-        map.put('4', new char[]{'g', 'h', 'i'});
-        map.put('5', new char[]{'j', 'k', 'l'});
-        map.put('6', new char[]{'m', 'n', 'o'});
-        map.put('7', new char[]{'p', 'q', 'r', 's'});
-        map.put('8', new char[]{'t', 'u', 'v'});
-        map.put('9', new char[]{'w', 'x', 'y', 'z'});
-        
-        List<String> res = new ArrayList<>();
-        if(digits.length() == 0) return res;
-        
-        dfs(digits, res, map, 0, "");
-        return res;
-    }
-    
-    private void dfs(String digits, List<String> res, Map<Character, char[]> map, int start, String cur){
-        //dfs的退出条件
-        if(start >= digits.length()){
-            res.add(cur);
-            return;
+    public ListNode removeNthFromEnd(ListNode head, int n) {
+        ListNode res = new ListNode(0);
+        res.next = head;
+        ListNode p1 = res;
+        ListNode p2 = res;  //防止出现.next为空指针的情况，这里p.next指向head
+        while(n >= 0){
+            p2 = p2.next;
+            n--;
         }
-        for(char c: map.get(digits.charAt(start))){
-            dfs(digits, res, map, start + 1, cur + c);
+        
+        while(p2 != null){
+            p1 = p1.next;
+            p2 = p2.next;
         }
+        
+        p1.next = p1.next.next;
+        return res.next;
     }
 }
 ```
@@ -141,52 +130,20 @@ class Solution {
 
 ```python
 class Solution:
-    def letterCombinations(self, digits: str) -> List[str]:
-        dict = {'2':['a','b','c'],
-                '3':['d','e','f'],
-                '4':['g','h','i'],
-                '5':['j','k','l'],
-                '6':['m','n','o'],
-                '7':['p','q','r','s'],
-                '8':['t','u','v'],
-                '9':['w','x','y','z']
-               }
-        res = []
-        length = len(digits)
-        
-        if digits == "":
-            return res
-        
-        def dfs(num, string, res):
-            if num == length:
-                res.append(string)
-                return
-            for letters in dict[digits[num]]:
-                dfs(num + 1, string + letters, res)
-        
-        dfs(0, "", res)
-        return res
+    def removeNthFromEnd(self, head: ListNode, n: int) -> ListNode:
+        res = ListNode(0)
+        res.next = head
+        p1 = res
+        p2 = res
+        while n >= 0:
+            p2 = p2.next
+            n = n - 1
+        while p2 != None:
+            p1 = p1.next
+            p2 = p2.next
+        p1.next = p1.next.next
+        return res.next
 ```
-
-python代码相对java来说太简洁了...
-
-
-
-### 思路 - BFS
-
-这里需要用到队列去做 
-
-to be continue
-
-
-
-#### 复杂度
-
-时间：` O(4^n)`
-
-空间：` O(2 * 4^n)`
-
-![image-20201025175201455](/Users/weiyizhi/Library/Application Support/typora-user-images/image-20201025175201455.png)
 
 
 
