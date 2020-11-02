@@ -8,19 +8,20 @@
 
 
 
-### 思路1 - 迭代法
+### 思路1 - 递归 - Backtracking
 
 #### 步骤
 
-- 直接遍历ListNode求解就好
+- DFS递归求解
+- 注意判断当右括号在做括号前面的情况，即左边需要添加的括号数量小于右括号，则是无效情况
 
 
 
 #### 复杂度
 
-时间：` O(L(m+n))`
+参见lc上
 
-空间：` O(1)`
+![image-20201102002336035](/Users/weiyizhi/Library/Application Support/typora-user-images/image-20201102002336035.png)
 
 
 
@@ -30,25 +31,20 @@
 
 ``` java
 class Solution {
-    public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
-        if(l1 == null) return l2;
-        if(l2 == null) return l1;
-        ListNode res = new ListNode(0);
-        ListNode cur = res;
-        res.next = l1.val > l2.val ? l2 : l1;
-        while(l1 != null && l2 != null){
-            if(l1.val < l2.val){
-                cur.next = l1;
-                l1 = l1.next;
-            }
-            else{
-                cur.next = l2;
-                l2 = l2.next;   
-            }
-            cur = cur.next;
+    public List<String> generateParenthesis(int n) {
+        ArrayList<String> res = new ArrayList<>();
+        generateParenthesisDFS(n, n, "", res);
+        return res;
+    }
+    
+    private void generateParenthesisDFS(int left, int right, String str, List<String> res){
+        if(left < 0 || right < 0 || left > right) return;
+        if(left == 0 && right == 0){
+            res.add(str);
+            return;
         }
-        cur.next = l1 == null ? l2 : l1;
-        return res.next;
+        generateParenthesisDFS(left - 1, right, str + "(", res);
+        generateParenthesisDFS(left, right - 1, str + ")", res);
     }
 }
 ```
@@ -58,48 +54,49 @@ class Solution {
 ##### Python
 
 ```python
-class Solution(object):
-    def mergeTwoLists(self, l1, l2):
-        """
-        :type l1: ListNode
-        :type l2: ListNode
-        :rtype: ListNode
-        """
-        if l1 == None:
-            return l2
-        if l2 == None:
-            return l1
-        res = ListNode(0)
-        cur = res
-        res.next = l2 if l1.val > l2.val else l1
-        while l1 != None and l2 != None:
-            if l1.val > l2.val:
-                cur.next = l2
-                l2 = l2.next
-            else:
-                cur.next = l1
-                l1 = l1.next
-            cur = cur.next
-        cur.next = l1 if l1 != None else l2
-        return res.next
-            
+class Solution:
+    def generateParenthesis(self, n: int) -> List[str]:
+        res = []
+        def generateParenthesisDFS(left, right, output):
+            if left < 0 or right < 0 or left < right:
+                return
+            if left == 0 and right == 0:
+                res.append(output)
+            generateParenthesisDFS(left - 1, right, output + ')')
+            generateParenthesisDFS(left, right - 1, output + '(')
+        generateParenthesisDFS(n, n, '')
+        return res            
 ```
 
 
 
-### 思路2 - 递归法
+### 思路2 - DP
 
 #### 步骤
 
-- 将上面的方法变成递归
+- 观察规律
+
+```
+P[0]= [""]
+
+P[1] = [()] = "("+P[0]+")"+P[0]
+
+P[2] = [()(),(())] = "("+P[0]+")"+P[1] , "("+P[1]+")" +P[0]
+
+P[3] = [()()(),()(()),(())(),(()()),((()))] = "("+P[0]+")"+P[2] , "("+P[1]+")"+P[1], "("+P[2]+")" +P[0]
+```
+
+- 得出结论 **P[i] =  "(" + P[i - j - 1] + ")" + P[j]    ( j < i, j = 0, 1, 2, ......)**
+
+理解中ing
 
 
 
 #### 复杂度
 
-时间：` O(L(m+n))`
+时间 & 空间
 
-空间：` O(1)`
+均与上述方法一样
 
 
 
@@ -122,22 +119,3 @@ class Solution {
 	}
 }
 ```
-
-
-
-##### Python
-
-```python
-class Solution(object):
-    def mergeTwoLists(self, l1, l2):
-    if not l1 or not l2:
-        return l1 or l2
-    if l1.val < l2.val:
-        l1.next = self.mergeTwoLists(l1.next, l2)
-        return l1
-    else:
-        l2.next = self.mergeTwoLists(l1, l2.next)
-        return l2
-            
-```
-
