@@ -2,9 +2,28 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-red.svg)  ![Python](https://img.shields.io/badge/Language-Python-blue.svg)
 
-[TOC] 
+Daily Leetcode
 
-### Content
+
+
+## Contents
+
+<!--ts-->
+   * [Leetcode](#leetcode)
+      * [Contents](#contents)
+         * [Problems](#problems)
+         * [Template](#template)
+         * [Notes](#notes)
+            * [Java](#java)
+            * [Python](#python)
+
+<!-- Added by: weiyizhi, at: 2020年12月12日 星期六 16时21分55秒 CST -->
+
+<!--te-->
+
+
+
+### Problems
 
 1. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) [Two Sum](Solved/1-Two-Sum/Two-Sum.md)
 2. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [Add Two Numbers](Solved/2-Add-Two-Numbers/Add-Two-Numbers.md)
@@ -40,16 +59,15 @@
 
 
 
-
-121. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg)[ Best Time to Buy and Sell Stock](Solved/121-Best-Time-to-Buy-and-Sell-Stock/Best-Time-to-Buy-and-Sell-Stock.md)  
-
-
-
-141. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) [Linked List Cycle](Solved/141-Linked-List-Cycle/Linked-List-Cycle.md)  
+121 ![](https://img.shields.io/badge/-Easy-%235cb85c.svg)[ Best Time to Buy and Sell Stock](Solved/121-Best-Time-to-Buy-and-Sell-Stock/Best-Time-to-Buy-and-Sell-Stock.md)  
 
 
 
-640. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)[Solve the Equation](Solved/640-Solve-the-Equation/Solve-the-Equation.md)
+141 ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) [Linked List Cycle](Solved/141-Linked-List-Cycle/Linked-List-Cycle.md)  
+
+
+
+640 ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)[Solve the Equation](Solved/640-Solve-the-Equation/Solve-the-Equation.md)
 
 
 
@@ -58,8 +76,6 @@ To be continue!
 
 
 ### Template
-
-
 
 
 
