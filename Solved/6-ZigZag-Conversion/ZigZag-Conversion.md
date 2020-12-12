@@ -1,4 +1,4 @@
-# 2. ZigZag Conversion
+# 6. ZigZag Conversion
 
 ### 题目
 

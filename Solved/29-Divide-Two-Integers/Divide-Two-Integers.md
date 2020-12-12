@@ -44,21 +44,65 @@
 
 
 
+### 思路2 - 超时了
+
+#### 步骤
+
+- 将除法转化为减法
+
+
+
+#### 复杂度
+
+时间：` O(dividend/divisor)`
+
+空间：` O(1)`
+
+
+
+#### 代码
+
+##### Python
+
+```python
+class Solution:
+    def divide(self, dividend: int, divisor: int) -> int:
+        if divisor == 0:
+            return 0
+        res = 0
+        minint = -sys.maxsize
+        maxint = sys.maxsize - 1
+        if (divisor > 0 and dividend > 0) or (divisor < 0 and dividend < 0):
+            flg = True
+        else:
+            flg = False
+            
+        dividend = abs(dividend)
+        divisor = abs(divisor)
+        while dividend > 0:
+            dividend -= divisor
+            if dividend < 0:
+                break
+            res = res + 1
+        if res > maxint or res < minint:
+            return maxint
+        else:
+            return res if flg == True else 0 - res
+```
+
+
+
 ## Python知识点
 
-### String取子串的方法
+### Python三元表达式
 
-```
-str = ’0123456789′
-print str[0:3] #截取第一位到第三位的字符
-print str[:] #截取字符串的全部字符
-print str[6:] #截取第七个字符到结尾
-print str[:-3] #截取从头开始到倒数第三个字符之前
-print str[2] #截取第三个字符
-print str[-1] #截取倒数第一个字符
-print str[::-1] #创造一个与原字符串顺序相反的字符串
-print str[-3:-1] #截取倒数第三位与倒数第一位之前的字符
-print str[-3:] #截取倒数第三位到结尾
-print str[:-5:-3] #逆序截取，具体啥意思没搞明白？
+三元表达式
+
+res='zuo' if x > y else 'you'
+
+如果条件成立返回zuo 不成立返回you 中间是条件判断这就是三元表达式
+
+```python
+ return res if flg == True else 0 - res
 ```
 

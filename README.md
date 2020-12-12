@@ -2,6 +2,8 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-red.svg)  ![Python](https://img.shields.io/badge/Language-Python-blue.svg)
 
+[TOC] 
+
 ### Content
 
 1. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) [Two Sum](Solved/1-Two-Sum/Two-Sum.md)
@@ -32,7 +34,7 @@
 26. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg)[ Remove Duplicates from Sorted Array](Solved/26-Remove-Duplicates-from-Sorted-Array/Remove-Duplicates-from-Sorted-Array.md)  
 27. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) [Remove Elements](Solved/27-Remove-Elements/Remove-Elements.md)
 28. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) [Implement strStr()](Solved/28-Implement-strStr()/Implement-strStr().md)  
-29. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [Divide Two Integers X](Solved/29-Divide-Two-Integers/Divide-Two-Integers.md)  
+29. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [Divide Two Integers](Solved/29-Divide-Two-Integers/Divide-Two-Integers.md)  
 30. ![](https://img.shields.io/badge/-Hard-red.svg) [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)
 31. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [Next Permutation X](Solved/31-Next-Permutation/Next-Permutation.md)
 
@@ -49,5 +51,26 @@
 
 640. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)[Solve the Equation](Solved/640-Solve-the-Equation/Solve-the-Equation.md)
 
+
+
+To be continue!
+
+
+
 ### Template
 
+
+
+
+
+### Notes
+
+#### Java
+
+[Java Tips](Java/Java.md)
+
+
+
+#### Python
+
+[Python Tips](Python/Python.md)
