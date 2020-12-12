@@ -11,19 +11,19 @@ Daily Leetcode
 <!--ts-->
    * [Leetcode](#leetcode)
       * [Contents](#contents)
-         * [Problems](#problems)
-         * [Template](#template)
-         * [Notes](#notes)
-            * [Java](#java)
-            * [Python](#python)
+      * [Problems](#problems)
+      * [Template](#template)
+      * [Notes](#notes)
+         * [Java](#java)
+         * [Python](#python)
 
-<!-- Added by: weiyizhi, at: 2020年12月12日 星期六 16时21分55秒 CST -->
+<!-- Added by: weiyizhi, at: 2020年12月12日 星期六 16时27分58秒 CST -->
 
 <!--te-->
 
 
 
-### Problems
+## Problems
 
 1. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) [Two Sum](Solved/1-Two-Sum/Two-Sum.md)
 2. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [Add Two Numbers](Solved/2-Add-Two-Numbers/Add-Two-Numbers.md)
@@ -67,7 +67,7 @@ Daily Leetcode
 
 
 
-640 ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)[Solve the Equation](Solved/640-Solve-the-Equation/Solve-the-Equation.md)
+640 ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [Solve the Equation](Solved/640-Solve-the-Equation/Solve-the-Equation.md)
 
 
 
@@ -75,18 +75,18 @@ To be continue!
 
 
 
-### Template
+## Template
 
 
 
-### Notes
+## Notes
 
-#### Java
+### Java
 
 [Java Tips](Java/Java.md)
 
 
 
-#### Python
+### Python
 
 [Python Tips](Python/Python.md)
