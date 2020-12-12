@@ -59,7 +59,7 @@ Daily Leetcode
 
 
 
-121 ![](https://img.shields.io/badge/-Easy-%235cb85c.svg)[ Best Time to Buy and Sell Stock](Solved/121-Best-Time-to-Buy-and-Sell-Stock/Best-Time-to-Buy-and-Sell-Stock.md)  
+121 ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) [ Best Time to Buy and Sell Stock](Solved/121-Best-Time-to-Buy-and-Sell-Stock/Best-Time-to-Buy-and-Sell-Stock.md)  
 
 
 
@@ -67,7 +67,7 @@ Daily Leetcode
 
 
 
-640 ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)[Solve the Equation](Solved/640-Solve-the-Equation/Solve-the-Equation.md)
+640 ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [Solve the Equation](Solved/640-Solve-the-Equation/Solve-the-Equation.md)
 
 
 
