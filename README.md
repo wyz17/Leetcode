@@ -59,7 +59,7 @@ Daily Leetcode
 
 
 
-121 ![](https://img.shields.io/badge/-Easy-%235cb85c.svg)[ Best Time to Buy and Sell Stock](Solved/121-Best-Time-to-Buy-and-Sell-Stock/Best-Time-to-Buy-and-Sell-Stock.md)  
+121 ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) [ Best Time to Buy and Sell Stock](Solved/121-Best-Time-to-Buy-and-Sell-Stock/Best-Time-to-Buy-and-Sell-Stock.md)  
 
 
 
