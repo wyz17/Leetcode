@@ -8,13 +8,21 @@
 
 意思是这个数组下一个最大的全排列
 
+
+
+
+
 ### 思路
+
+![Next Permutation](https://leetcode.com/media/original_images/31_Next_Permutation.gif)
 
 #### 步骤
 
-- 这个不能傻瓜了
-- 这个边角case真是令人窒息
-- 不想写
+- 这里使用的方法非常巧妙！
+- 因为要求出来的是当前排列组合的下一个最大值，所以思路就是
+  - 从数组末尾往前遍历，按照升序遍历，直到找到第一个为降序的数字
+  - 根据这个降序的数字，我们再从他后面找，找到那个只比他小一点点的数，两者换位置
+  - 换完位置之后数组剩下的数只需要逆序就好了
 
 
 
@@ -31,7 +39,41 @@
 ##### Java
 
 ```java
-
+class Solution {
+    public void nextPermutation(int[] nums) {
+        //find out element need to be swapped
+        int i = nums.length - 2;
+        while(i >= 0 && nums[i] >= nums[i + 1]) {
+            i--;
+        }
+        
+        if(i >= 0) {
+            int j = nums.length - 1;
+            while(j >= 0 && nums[j] <= nums[i]) {
+                j--;
+            }
+            swap(nums, i, j);
+        }
+        reverse(nums, i+1);
+    }
+    
+    private void reverse(int[] nums, int start) {
+        int i = start, j = nums.length - 1;
+        while(i < j){
+           swap(nums, i, j); 
+            i++;
+            j--;
+        }
+    }
+    
+    //Swap pos i and pos j
+    private int[] swap(int[] nums, int i, int j){
+        int tmp = nums[j];
+        nums[j] = nums[i];
+        nums[i] = tmp;
+        return nums;
+    }
+}
 ```
 
 
@@ -39,26 +81,33 @@
 ##### Python
 
 ```python
-
+class Solution:
+    def nextPermutation(self, nums: List[int]) -> None:
+        """
+        Do not return anything, modify nums in-place instead.
+        """
+        # find out min element in asdending order from back to front
+        i = len(nums) - 2
+        while i >= 0 and nums[i] >= nums[i + 1]:
+            i = i - 1
+        if i >= 0:
+            j = len(nums) - 1
+            while j >= 0 and nums[j] <= nums[i]:
+                j = j - 1
+            self.swap(nums, i, j)
+        self.reverse(nums, i + 1)
+    
+    def reverse(self, nums, start):
+        i = start
+        j = len(nums) - 1
+        while i < j:
+            self.swap(nums, i, j)
+            i = i + 1
+            j = j - 1
+        return nums
+            
+    def swap(self, nums, i, j):
+        nums[i], nums[j] = nums[j], nums[i]
 ```
 
-
-
-## Python知识点
-
-### String取子串的方法
-
-```
-str = ’0123456789′
-print str[0:3] #截取第一位到第三位的字符
-print str[:] #截取字符串的全部字符
-print str[6:] #截取第七个字符到结尾
-print str[:-3] #截取从头开始到倒数第三个字符之前
-print str[2] #截取第三个字符
-print str[-1] #截取倒数第一个字符
-print str[::-1] #创造一个与原字符串顺序相反的字符串
-print str[-3:-1] #截取倒数第三位与倒数第一位之前的字符
-print str[-3:] #截取倒数第三位到结尾
-print str[:-5:-3] #逆序截取，具体啥意思没搞明白？
-```
 

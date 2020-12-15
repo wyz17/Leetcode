@@ -67,7 +67,8 @@ public class Test {
 
 ### 一行新建list的方法
 
-**Arrays.asList()**
+- **Arrays.asList()**
+
 
 ```java
 res.add(Arrays.asList(nums[i], nums[j], nums[l], nums[r]));

@@ -125,6 +125,25 @@ del dict          # 删除字典
 
 
 
+### Python中交换函数一行代码搞定
+
+- Python以引用方式管理对象，你可以交换引用，但通常不能交换内存中的对象值
+  - ```python
+    def swap(t1, t2):
+        t2, t1 = t1, t2
+        return
+    ```
+
+- 交换数组值的例子
+
+  - ```python
+    def swap(self, nums, i, j):
+        nums[i], nums[j] = nums[j], nums[i]
+        return nums
+    ```
+
+    
+
 ### Python中list排序
 
 ```python
@@ -206,14 +225,34 @@ Python中没有null
 
 
 
-### Python replace Java
+### Python Tips
 
 - def方法一定要定义在使用前（与java不同）
+
 - python数据结构中带索引的集合可以使用dict（替换java中的map）
-
-
-
-### Python Tips
 
 - 自己调用自己的时候记得加self.xxx
 
+  - 定义的时候也要加上self！
+
+  - sample参考：
+
+  - ```python
+    class Solution:
+        def nextPermutation(self, nums: List[int]) -> None:
+            self.reverse(nums, i)
+        
+        def reverse(self, nums, start):
+            i = start
+            j = len(nums) - 1
+            while i <= j:
+                swap(nums, i, j)
+                i = i + 1
+                j = j - 1
+            return nums
+                
+    ```
+
+    
+
+    

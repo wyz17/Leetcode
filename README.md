@@ -55,7 +55,7 @@ Daily Leetcode
 28. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) [Implement strStr()](Solved/28-Implement-strStr()/Implement-strStr().md)  
 29. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [Divide Two Integers](Solved/29-Divide-Two-Integers/Divide-Two-Integers.md)  
 30. ![](https://img.shields.io/badge/-Hard-red.svg) [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)
-31. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [Next Permutation X](Solved/31-Next-Permutation/Next-Permutation.md)
+31. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [Next Permutation](Solved/31-Next-Permutation/Next-Permutation.md)
 
 
 
