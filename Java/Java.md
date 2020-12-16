@@ -74,3 +74,15 @@ public class Test {
 res.add(Arrays.asList(nums[i], nums[j], nums[l], nums[r]));
 ```
 
+
+
+### 二分查找不要直接用（ low + high）/ 2
+
+- 用这个
+
+  ```java
+  int mid = left + (right - left) / 2;
+  ```
+
+- 避免溢出
+

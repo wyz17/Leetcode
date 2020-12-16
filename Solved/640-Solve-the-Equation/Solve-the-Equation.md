@@ -170,9 +170,3 @@ class Solution:
 ```
 
 
-
-## Python知识点
-
-### Python中没有charAt的方法
-
-- 使用的话直接string[i]就好

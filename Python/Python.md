@@ -165,6 +165,18 @@ print(MAX_INT)
 
 
 
+### Python中没有Integer.MAX_VALUE的方法
+
+- 替换参考：正负无穷
+
+  - ```python
+    float("inf"), float("-inf")
+    ```
+
+
+
+
+
 ### List删除元素的方法
 
 - del：根据索引删除元素
@@ -197,6 +209,12 @@ print str[:-5:-3] #逆序截取，具体啥意思没搞明白？
 
 
 
+### Python中没有charAt的方法
+
+- 使用的话直接string[i]就好
+
+
+
 ### Python三元表达式
 
 三元表达式
@@ -222,6 +240,19 @@ res='zuo' if x > y else 'you'
 Python中没有null
 
 - 替代：None
+
+
+
+### Python除法
+
+- Python 2.2
+  - 要引用： from __future__ import division
+  - " / "就表示 浮点数除法，返回浮点结果
+  - " // "表示整数除法。
+
+- Python 3以后：
+  - " / "就表示 浮点数除法，返回浮点结果
+  - " // "表示整数除法。
 
 
 

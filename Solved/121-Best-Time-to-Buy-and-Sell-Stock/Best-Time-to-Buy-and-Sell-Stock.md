@@ -64,12 +64,3 @@ class Solution:
 
 
 
-## Python知识点
-
-### Python中没有Integer.MAX_VALUE的方法
-
-- 替换参考：正负无穷
-
-  - ```python
-    float("inf"), float("-inf")
-    ```
