@@ -67,6 +67,37 @@ del dict          # 删除字典
 
 
 
+### 集合（Set）
+
+- 集合中不可以出现重复的元素
+- 初始化
+  - 创建一个空集合必须用 **set()** 而不是 **{ }**，因为 **{ }** 是用来创建一个空字典。
+  - ``` s = {}```
+- 添加元素
+  - ``` s.update( x )```
+  - 将元素 x 添加到集合 s 中，如果元素已存在，则不进行任何操作。
+- 移除元素
+  - ``` s.remove( x )```
+  - 将元素 x 从集合 s 中移除，如果元素不存在，则会发生错误。
+- 清空集合
+  - ``` s.clear( x )```
+
+
+
+### List（列表）
+
+- del：根据索引删除元素
+  - `del listname[index]`
+  - `del listname[start : end]`：删除中间一段连续的元素
+- pop()：根据索引删除元素
+  - `listname.pop(index)`
+  - listname 表示列表名称，index 表示索引值。如果不写 index 参数，默认会删除列表中的最后一个元素
+- remove()：根据元素值删除元素
+  - remove() 方法只会删除第一个和指定值相同的元素，而且必须保证该元素是存在的，否则会引发 ValueError 错误
+- clear()：删除列表所有元素
+
+
+
 ## Others
 
 ### enumerate() 函数
@@ -95,6 +126,29 @@ del dict          # 删除字典
 
 
 
+### Python字符串拼接方法 & 效率
+
+- 直接通过加号(+)操作符连接
+	- ```python
+    website = 'python' + 'tab' + '.com'
+    ```
+	- 使用简单直接，但效率低，因为python中字符串是不可变的类型，使用 + 连接两个字符串时会生成一个新的字符串，生成新的字符串就需要重新申请内存，当连续相加的字符串很多时(a+b+c+d+e+f+...) ，效率低下就是必然的了
+
+
+- join方法
+	- ```python
+  listStr =  ['python', 'tab', '.com'] 
+  website = ''.join(listStr)
+	  ```
+	- 使用略复杂，但对多个字符进行连接时效率高，只会有一次内存的申请。而且如果是对list的字符进行连接的时候，这种方法必须是首选
+
+- **替换**（pick这个！）
+	
+  - ```python
+	website = '%s%s%s' % ('python', 'tab', '.com')
+	  ```
+	- 字符串格式化，这种方法非常用
+
 
 
 ### zip函数：用来快速生成映射
@@ -107,12 +161,9 @@ del dict          # 删除字典
   xy = zip(x, y)
   print xy
   ```
-
 - 运行的结果是：
 
   [(1, 4), (2, 5), (3, 6)]
-
-
 
 
 
@@ -176,18 +227,6 @@ print(MAX_INT)
 
 
 
-
-### List删除元素的方法
-
-- del：根据索引删除元素
-  - `del listname[index]`
-  - `del listname[start : end]`：删除中间一段连续的元素
-- pop()：根据索引删除元素
-  - `listname.pop(index)`
-  - listname 表示列表名称，index 表示索引值。如果不写 index 参数，默认会删除列表中的最后一个元素
-- remove()：根据元素值删除元素
-  - remove() 方法只会删除第一个和指定值相同的元素，而且必须保证该元素是存在的，否则会引发 ValueError 错误
-- clear()：删除列表所有元素
 
 
 

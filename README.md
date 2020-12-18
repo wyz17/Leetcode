@@ -61,6 +61,7 @@ Daily Leetcode
 34. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)[Find First and Last Position of Element in Sorted Array](Solved/34-Find-First-and-Last-Position-of-Element-in-Sorted-Array/Find-First-and-Last-Position-of-Element-in-Sorted-Array.md)
 
 35. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg)[Search Insert Position](Solved/35-Search-Insert-Position/Search-Insert-Position.md)
+36. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [Valid Sudoku](Solved/36-Valid-Sudoku/Valid-Sudoku.md)
 
 
 
