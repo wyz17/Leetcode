@@ -57,8 +57,12 @@ Daily Leetcode
 30. ![](https://img.shields.io/badge/-Hard-red.svg) [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)
 31. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [Next Permutation](Solved/31-Next-Permutation/Next-Permutation.md)
 32. ![](https://img.shields.io/badge/-Hard-red.svg) [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)  
-33. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)[Next Permutation](Solved/31-Next-Permutation/Next-Permutation.md)
-34. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)[Search in Rotated Sorted Array](Solved/32-Search-in-Rotated-Sorted-Array/Search-in-Rotated-Sorted-Array.md)
+33. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)[Search in Rotated Sorted Array](Solved/32-Search-in-Rotated-Sorted-Array/Search-in-Rotated-Sorted-Array.md)
+34. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)[Find First and Last Position of Element in Sorted Array](Solved/34-Find-First-and-Last-Position-of-Element-in-Sorted-Array/Find-First-and-Last-Position-of-Element-in-Sorted-Array.md)
+
+35. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg)[Search Insert Position](Solved/35-Search-Insert-Position/Search-Insert-Position.md)
+
+
 
 
 
