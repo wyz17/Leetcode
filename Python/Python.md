@@ -84,7 +84,7 @@ del dict          # 删除字典
 
 
 
-### List（列表）
+### 列表（List）
 
 - del：根据索引删除元素
   - `del listname[index]`
@@ -100,6 +100,15 @@ del dict          # 删除字典
 
 ## Others
 
+### 循环
+
+- **for i in range 循环**
+  - Python中for i in range循环中的i值是不可以在循环中改变的
+  - 每一次语句都会给i值重新赋值
+  - 如果要在循环的过程中更改i的值（step），最好用while循环去做
+
+
+
 ### enumerate() 函数
 
 - **enumerate(sequence, [start = 0])**
@@ -107,7 +116,7 @@ del dict          # 删除字典
 - start -- 下标起始位置
 
 ```python
->>>seasons = ['Spring', 'Summer', 'Fall', 'Winter']
+>>> seasons = ['Spring', 'Summer', 'Fall', 'Winter']
 >>> list(enumerate(seasons))
 [(0, 'Spring'), (1, 'Summer'), (2, 'Fall'), (3, 'Winter')]
 >>> list(enumerate(seasons, start=1))       # 下标从 1 开始
