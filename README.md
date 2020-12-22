@@ -25,16 +25,16 @@ Daily Leetcode
 
 ## Problems
 
-1. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) [Two Sum](Solved/1-Two-Sum/Two-Sum.md)
+1. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg)&ensp; &ensp;[Two Sum](Solved/1-Two-Sum/Two-Sum.md)
 2. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [Add Two Numbers](Solved/2-Add-Two-Numbers/Add-Two-Numbers.md)
 3. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) 
-4. ![](https://img.shields.io/badge/-Hard-red.svg) [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)  
+4. ![](https://img.shields.io/badge/-Hard-red.svg)&ensp;&ensp; [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)  
 5. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [Longest Palindromic Substring](Solved/5-Longest-Palindromic-Substring/Longest-Palindromic-Substring.md)
 6. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [ZigZag Conversion](Solved/6-ZigZag-Conversion/ZigZag-Conversion.md)
-7. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) [Reverse Integer](Solved/7-Reverse-Integer/Reverse-Integer.md)
+7. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) &ensp;&ensp;[Reverse Integer](Solved/7-Reverse-Integer/Reverse-Integer.md)
 8. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [String to Integer (atoi)](Solved/8-String-to-Integer/String-to-Integer.md)
-9. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) [Palindrome Number](Solved/9-Palindrome-Number/Palindrome-Number.md)
-10. ![](https://img.shields.io/badge/-Hard-red.svg)[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)
+9. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg)&ensp;&ensp; [Palindrome Number](Solved/9-Palindrome-Number/Palindrome-Number.md)
+10. ![](https://img.shields.io/badge/-Hard-red.svg)&ensp;&ensp;[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)
 11. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [Container With Most Water](Solved/11-Container-With-Most-Water/Container-With-Most-Water.md)
 12. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [Integer To Roman](Solved/12-Integer-To-Roman/Integer-To-Roman.md)
 13. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) [Roman To Integer](Solved/13-Roman-To-Integer/Roman-To-Integer.md)
@@ -61,8 +61,9 @@ Daily Leetcode
 34. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [Find First and Last Position of Element in Sorted Array](Solved/34-Find-First-and-Last-Position-of-Element-in-Sorted-Array/Find-First-and-Last-Position-of-Element-in-Sorted-Array.md)
 35. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) [Search Insert Position](Solved/35-Search-Insert-Position/Search-Insert-Position.md)
 36. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [Valid Sudoku](Solved/36-Valid-Sudoku/Valid-Sudoku.md)
-37. ![](https://img.shields.io/badge/-Hard-red.svg)[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)
+37. ![](https://img.shields.io/badge/-Hard-red.svg) [Sudoku Solver](https://leetcode.com/problems/sudoku-solver)
 38. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) [Count and Say](Solved/38-Count-and-Say/Count-and-Say.md)
+39. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) [Combination Sum](Solved/39-Combination-Sum/Combination-Sum.md)
 
 
 
@@ -85,6 +86,8 @@ To be continue!
 
 
 ## Templates
+
+https://leetcode.com/problems/combination-sum/discuss/16502/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partitioning)
 
 
 
