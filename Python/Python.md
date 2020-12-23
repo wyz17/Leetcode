@@ -86,15 +86,40 @@ del dict          # 删除字典
 
 ### 列表（List）
 
-- del：根据索引删除元素
-  - `del listname[index]`
-  - `del listname[start : end]`：删除中间一段连续的元素
-- pop()：根据索引删除元素
-  - `listname.pop(index)`
-  - listname 表示列表名称，index 表示索引值。如果不写 index 参数，默认会删除列表中的最后一个元素
-- remove()：根据元素值删除元素
-  - remove() 方法只会删除第一个和指定值相同的元素，而且必须保证该元素是存在的，否则会引发 ValueError 错误
-- clear()：删除列表所有元素
+#### 操作
+
+- 删除操作
+  
+  - del：根据索引删除元素
+    - `del listname[index]`
+    - `del listname[start : end]`：删除中间一段连续的元素
+  - pop()：根据索引删除元素
+    - `listname.pop(index)`
+    - listname 表示列表名称，index 表示索引值。如果不写 index 参数，默认会删除列表中的最后一个元素
+  - remove()：根据元素值删除元素
+    - remove() 方法只会删除第一个和指定值相同的元素，而且必须保证该元素是存在的，否则会引发 ValueError 错误
+  - clear()：删除列表所有元素
+  
+- 添加操作
+
+  - append()
+  
+  - 加号
+  
+    - ``` python
+      li = ['a', 'b', 'mpilgrim']
+      li = li + ['example', 'new']
+      li += ['two']
+      ```
+
+
+
+#### python中的[1 : ]、[ : : -1]、X[ : , m : n ] 和 X[ 1 , : ]
+
+- [1 : ]：意思是去掉列表中第一个元素（下标为0），去后面的元素进行操作
+- [ : : -1]：a[::-1]相当于 a[-1:-len(a)-1:-1]，也就是从最后一个元素到第一个元素复制一遍。
+- X[ : , m : n ]：取所有数据的第m到n-1列数据，含左不含右
+- X[ 1 , : ]：取所有行的第1个数据
 
 
 

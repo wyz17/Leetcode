@@ -12,12 +12,13 @@ Daily Leetcode
    * [Leetcode](#leetcode)
       * [Contents](#contents)
       * [Problems](#problems)
-      * [Template](#template)
+      * [Templates](#templates)
+         * [Backtracking](#backtracking)
       * [Notes](#notes)
          * [Java](#java)
          * [Python](#python)
 
-<!-- Added by: weiyizhi, at: 2020年12月12日 星期六 16时27分58秒 CST -->
+<!-- Added by: weiyizhi, at: 2020年12月22日 星期二 17时26分15秒 CST -->
 
 <!--te-->
 
@@ -64,6 +65,14 @@ Daily Leetcode
 37. ![](https://img.shields.io/badge/-Hard-red.svg) &ensp;&ensp;&ensp;[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)
 38. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) &ensp;&ensp;&ensp;[Count and Say](Solved/38-Count-and-Say/Count-and-Say.md)
 39. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Combination Sum](Solved/39-Combination-Sum/Combination-Sum.md)
+40. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Combination Sum II](Solved/40-Combination-Sum-II/Combination-Sum-II.md)
+41. ![](https://img.shields.io/badge/-Hard-red.svg) &ensp;&ensp;&ensp;[First Missing Positive](https://leetcode.com/problems/first-missing-positive)
+42. ![](https://img.shields.io/badge/-Hard-red.svg) &ensp;&ensp;&ensp;[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) 
+43. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Multiply Strings](Solved/43-Multiply-Strings/Multiply-Strings.md)
+
+
+
+
 
 
 
@@ -87,7 +96,9 @@ To be continue!
 
 ## Templates
 
-https://leetcode.com/problems/combination-sum/discuss/16502/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partitioning)
+### Backtracking
+
+- [Backtracking](Templates/Backtracking.md)
 
 
 
