@@ -24,7 +24,10 @@
 
 ## Data Structure
 
+### HashMap
 
+- get()：指定键映射到的值，如果此映射不包含键的映射，则为NULL。
+- put()：当存在这个key的时候,会覆盖掉原来的value并返回oldvalue,也就是旧值。
 
 ## Others
 

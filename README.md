@@ -69,6 +69,12 @@ Daily Leetcode
 41. ![](https://img.shields.io/badge/-Hard-red.svg) &ensp;&ensp;&ensp;[First Missing Positive](https://leetcode.com/problems/first-missing-positive)
 42. ![](https://img.shields.io/badge/-Hard-red.svg) &ensp;&ensp;&ensp;[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) 
 43. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Multiply Strings](Solved/43-Multiply-Strings/Multiply-Strings.md)
+44. ![](https://img.shields.io/badge/-Hard-red.svg) &ensp;&ensp;&ensp;[Wildcard Matching](https://leetcode.com/problems/wildcard-matching)
+45. ![](https://img.shields.io/badge/-Hard-red.svg) &ensp;&ensp;&ensp;[Jump Game II](https://leetcode.com/problems/jump-game-ii)  
+46. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Permutations](Solved/46-Permutations/Permutations.md)
+47. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Permutations II](Solved/47-Permutations-II/Permutations-II.md)
+48. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Rotate Image](Solved/48-Rotate-Image/Rotate-Image.md)
+49. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Group Anagrams](Solved/49-Group-Anagrams/Group-Anagrams.md)
 
 
 
