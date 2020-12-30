@@ -18,7 +18,7 @@ Daily Leetcode
          * [Java](#java)
          * [Python](#python)
 
-<!-- Added by: weiyizhi, at: 2020年12月22日 星期二 17时26分15秒 CST -->
+<!-- Added by: weiyizhi, at: 2020年12月28日 星期一 16时22分55秒 CST -->
 
 <!--te-->
 
@@ -50,11 +50,11 @@ Daily Leetcode
 22. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Generate Parentheses](Solved/22-Generate-Parentheses/Generate-Parentheses.md)  
 23. ![](https://img.shields.io/badge/-Hard-red.svg)&ensp;&ensp;&ensp; [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)  
 24. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Swap Nodes in Pairs](Solved/24-Swap-Nodes-in-Pairs/Swap-Nodes-in-Pairs.md)  
-25. ![](https://img.shields.io/badge/-Hard-red.svg) &ensp;&ensp;&ensp;[ Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)  
+25. ![](https://img.shields.io/badge/-Hard-red.svg)&ensp;&ensp;&ensp;[ Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)  
 26. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) &ensp;&ensp;&ensp;[ Remove Duplicates from Sorted Array](Solved/26-Remove-Duplicates-from-Sorted-Array/Remove-Duplicates-from-Sorted-Array.md)  
 27. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) &ensp;&ensp;&ensp;[Remove Elements](Solved/27-Remove-Elements/Remove-Elements.md)
 28. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg)&ensp;&ensp;&ensp; [Implement strStr()](Solved/28-Implement-strStr()/Implement-strStr().md)  
-29. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)&ensp; [Divide Two Integers](Solved/29-Divide-Two-Integers/Divide-Two-Integers.md)  
+29. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Divide Two Integers](Solved/29-Divide-Two-Integers/Divide-Two-Integers.md)  
 30. ![](https://img.shields.io/badge/-Hard-red.svg) &ensp;&ensp;&ensp;[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)
 31. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Next Permutation](Solved/31-Next-Permutation/Next-Permutation.md)
 32. ![](https://img.shields.io/badge/-Hard-red.svg) &ensp;&ensp;&ensp;[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)  
@@ -75,6 +75,12 @@ Daily Leetcode
 47. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Permutations II](Solved/47-Permutations-II/Permutations-II.md)
 48. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Rotate Image](Solved/48-Rotate-Image/Rotate-Image.md)
 49. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Group Anagrams](Solved/49-Group-Anagrams/Group-Anagrams.md)
+50. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Pow(x, n)](Solved/50-powx-n/powx-n.md)
+51. ![](https://img.shields.io/badge/-Hard-red.svg) &ensp;&ensp;&ensp;[N-Queens](https://leetcode.com/problems/n-queens)  
+52. ![](https://img.shields.io/badge/-Hard-red.svg) &ensp;&ensp;&ensp;[N-Queens II](https://leetcode.com/problems/n-queens-ii)  
+53. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) &ensp;&ensp;&ensp;[Maximum Subarray](Solved/53-Maximum-Subarray/Maximum-Subarray.md)
+54. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)&ensp; [Spiral Matrix](Solved/54-Spiral-Matrix/Spiral-Matrix.md)
+55. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)&ensp; [Jump Game](Solved/55-Jump-Game/Jump-Game.md)
 
 
 
