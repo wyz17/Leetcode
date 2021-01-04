@@ -81,6 +81,8 @@ Daily Leetcode
 53. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) &ensp;&ensp;&ensp;[Maximum Subarray](Solved/53-Maximum-Subarray/Maximum-Subarray.md)
 54. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)&ensp; [Spiral Matrix](Solved/54-Spiral-Matrix/Spiral-Matrix.md)
 55. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)&ensp; [Jump Game](Solved/55-Jump-Game/Jump-Game.md)
+56. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)&ensp; [Merge Intervals](Solved/56-Merge-Intervals/Merge-Intervals.md)
+57. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)&ensp; [Insert Intervals](Solved/57-Insert-Intervals/Insert-Intervals.md)
 
 
 

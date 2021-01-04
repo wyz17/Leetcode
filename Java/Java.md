@@ -31,6 +31,26 @@
 
 ## Others
 
+### Arrays.sort()
+
+- ```java
+  Arrays.sort(int[] a)
+  ```
+
+  - 这种形式是对一个数组的所有元素进行排序，并且是按从小到大的顺序
+  
+- ```java
+  Arrays.sort(int[] a, int fromIndex, int toIndex)
+  ```
+
+  - 这种形式是对数组部分排序，也就是对数组 a 的下标从 fromIndex 到 toIndex - 1的元素排序，注意：下标为toIndex的元素不参与排序哦
+- ```java
+  Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
+  ```
+  - 自定义排序 
+
+
+
 ### 溢出处理
 
 注意溢出处理校验方式，new_res/10 != old_res时则说明有溢出
