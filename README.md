@@ -83,6 +83,7 @@ Daily Leetcode
 55. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)&ensp; [Jump Game](Solved/55-Jump-Game/Jump-Game.md)
 56. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)&ensp; [Merge Intervals](Solved/56-Merge-Intervals/Merge-Intervals.md)
 57. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)&ensp; [Insert Intervals](Solved/57-Insert-Intervals/Insert-Intervals.md)
+58. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) &ensp;&ensp;&ensp;[Length of Last Word](Solved/58-Length-of-Last-Word/Length-of-Last-Word.md)
 
 
 
