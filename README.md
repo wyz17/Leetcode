@@ -85,7 +85,9 @@ Daily Leetcode
 57. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)&ensp; [Insert Intervals](Solved/57-Insert-Intervals/Insert-Intervals.md)
 58. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) &ensp;&ensp;&ensp;[Length of Last Word](Solved/58-Length-of-Last-Word/Length-of-Last-Word.md)
 59. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)&ensp; [Spiral Matrix II](Solved/59-Spiral-Matrix-II/Spiral-Matrix-II.md)
-60. ![](https://img.shields.io/badge/-Hard-red.svg) &ensp;&ensp;&ensp;[Permutation Sequence](https://leetcode.com/problems/permutation-sequence) 
+60. ![](https://img.shields.io/badge/-Hard-red.svg) &ensp;&ensp;&ensp;[Permutation Sequence](https://leetcode.com/problems/permutation-sequence)
+61. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)&ensp; [Rotate List](Solved/61-Rotate-List/Rotate-List.md)
+62. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)&ensp; [Unique Paths](Solved/62-Unique-Paths/Unique-Paths.md)
 
 
 
