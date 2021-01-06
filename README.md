@@ -88,6 +88,7 @@ Daily Leetcode
 60. ![](https://img.shields.io/badge/-Hard-red.svg) &ensp;&ensp;&ensp;[Permutation Sequence](https://leetcode.com/problems/permutation-sequence)
 61. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)&ensp; [Rotate List](Solved/61-Rotate-List/Rotate-List.md)
 62. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)&ensp; [Unique Paths](Solved/62-Unique-Paths/Unique-Paths.md)
+63. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)&ensp; [Unique Paths II](Solved/63-Unique-Paths-II/Unique-Paths-II.md)
 
 
 
