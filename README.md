@@ -89,6 +89,14 @@ Daily Leetcode
 61. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)&ensp; [Rotate List](Solved/61-Rotate-List/Rotate-List.md)
 62. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)&ensp; [Unique Paths](Solved/62-Unique-Paths/Unique-Paths.md)
 63. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)&ensp; [Unique Paths II](Solved/63-Unique-Paths-II/Unique-Paths-II.md)
+64. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)&ensp; [Minimum Path Sum](Solved/64-Minimum-Path-Sum/Minimum-Path-Sum.md)
+65. ![](https://img.shields.io/badge/-Hard-red.svg) &ensp;&ensp;&ensp;[Valid Number](https://leetcode.com/problems/valid-number) 
+66. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) &ensp;&ensp;&ensp;[Plus One](Solved/66-Plus-One/Plus-One.md)
+67. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) &ensp;&ensp;&ensp;[Add Binary](Solved/67-Add-Binary/Add-Binary.md)
+68. ![](https://img.shields.io/badge/-Hard-red.svg) &ensp;&ensp;&ensp;[Text Justification](https://leetcode.com/problems/text-justification)
+69. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) &ensp;&ensp;&ensp;[Sqrt(x)](Solved/69-Sqrtx/Sqrtx.md)
+70. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) &ensp;&ensp;&ensp;[Climbing Stairs](Solved/70-Climbing-Stairs/Climbing-Stairs.md)
+71. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)&ensp; [Simplify Path](Solved/71-Simplify-Path/Simplify-Path.md)
 
 
 

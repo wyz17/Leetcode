@@ -15,7 +15,8 @@
 - dp一下：和前一题 [Unique Paths](Solved/62-Unique-Paths/Unique-Paths.md) 的思路一样
 - 状态方程：```dp[i][j] = dp[i - 1][j] + dp[i][j - 1];```
 - 意思是每一步的当前path是自己左边 + 上面 path之和
-- 
+
+  
 
 
 
