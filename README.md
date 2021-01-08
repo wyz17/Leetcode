@@ -97,6 +97,8 @@ Daily Leetcode
 69. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) &ensp;&ensp;&ensp;[Sqrt(x)](Solved/69-Sqrtx/Sqrtx.md)
 70. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) &ensp;&ensp;&ensp;[Climbing Stairs](Solved/70-Climbing-Stairs/Climbing-Stairs.md)
 71. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)&ensp; [Simplify Path](Solved/71-Simplify-Path/Simplify-Path.md)
+72. ![](https://img.shields.io/badge/-Hard-red.svg) &ensp;&ensp;&ensp;[Edit Distance](https://leetcode.com/problems/edit-distance)
+73. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)&ensp; [Set Matrix Zeroes](Solved/73-Set-Matrix-Zeroes/Set-Matrix-Zeroes.md)
 
 
 

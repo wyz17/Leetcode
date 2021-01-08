@@ -8,14 +8,12 @@
 
 
 
-### 思路 - Dynamic Programming
+### 思路1 - Stack
 
 #### 步骤
 
-- 状态方程：```dp[i] = dp[i - 1] + dp[i - 2];```
-
-
-递归这里会超时
+- 栈比较好理解，处理好何时出栈入栈就好
+- 这里注意最后调接口将stack转为list
 
 
 
@@ -33,17 +31,35 @@
 
 ```java
 class Solution {
-    public int climbStairs(int n) {
-        if(n == 0 || n == 1)
-            return 1;
-        int[] dp = new int[n+1];
-        dp[1] = 1;
-        dp[2] = 2;
-        
-        for(int i = 3; i < dp.length; i++){
-            dp[i] = dp[i - 1] + dp[i - 2];
+    // faster
+    public String simplifyPath(String path) {
+        Deque<String> stack = new LinkedList<>();
+        for (String dir : path.split("/")) {
+            if (dir.equals("..") && !stack.isEmpty())
+                stack.pop();
+            else if (!dir.equals(".") && !dir.equals("") && !dir.equals("..")) stack.push(dir);
         }
-        return dp[n];   
+        StringBuffer res = new StringBuffer("");
+        for (String dir : stack) {
+            res.insert(0, dir);
+            res.insert(0, "/");
+        }
+        return res.toString().equals("") ? "/" : res.toString();
+    }  
+    
+    public String simplifyPath2(String path) {
+        Stack<String> stk = new Stack<String>();
+        String[] p = path.split("\\/+");
+        if(p.length == 0) return "/";
+        p[0] = ".";
+        for(String i : p) {
+            if(!i.equals(".") && !i.equals(".."))
+                stk.push(i);
+            if(!stk.isEmpty() && i.equals("..") && !i.equals("") )
+                stk.pop();
+        }
+        List<String> list = new ArrayList(stk);
+        return "/" + String.join("/", list);
     }
 }
 ```
@@ -54,25 +70,13 @@ class Solution {
 
 ```python
 class Solution:
-    def climbStairs(self, n: int) -> int:
-        steps = [1, 1]
-        for i in range(2, n + 1, 1):
-            steps.append(steps[i - 1] + steps[i - 2])
-        return steps[n]
-    
-    def climbStairs2(self, n: int) -> int:
-        if n == 0 or n == 1:
-            return 1
-        dp = [0] * (n + 1)
-        dp[1] = 1
-        dp[2] = 2
-        for i in range(3, n + 1, 1):
-            dp[i] = dp[i - 1] + dp[i - 2]
-        return dp[n]
+    def simplifyPath(self, path: str) -> str:
+        p = path.split("/")
+        stk = []
+        for i in p:
+            if i != "." and i != ".." and i != "":
+                stk.append(i)
+            if len(stk) != 0 and i == "..":
+                stk.pop()
+        return '/' + '/'.join(stk)
 ```
-
-
-
-###### StefanPochmann大佬解法
-
-https://leetcode.com/problems/climbing-stairs/discuss/25296/3-4-short-lines-in-every-language

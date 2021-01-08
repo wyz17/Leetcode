@@ -29,6 +29,48 @@
 - get()：指定键映射到的值，如果此映射不包含键的映射，则为NULL。
 - put()：当存在这个key的时候,会覆盖掉原来的value并返回oldvalue,也就是旧值。
 
+
+
+### Deque 双端队列
+
+- 普通队列（一端进另一端出）
+  - `Queue queue = new LinkedList()` 或 `Deque deque = new LinkedList()`
+- 双端队列（两端都可进出）
+  - `Deque deque = new LinkedList()`
+- 堆栈
+  - `Deque deque = new LinkedList()`
+  - 注意：Java堆栈Stack类已经过时，Java官方推荐使用Deque替代Stack使用。Deque堆栈操作方法：push()、pop()、peek()。
+
+| 第一个元素 (头部) | **最后一个元素 (尾部)** |               |              |              |
+| ----------------- | ----------------------- | ------------- | ------------ | ------------ |
+|                   | *抛出异常*              | *特殊值*      | *抛出异常*   | *特殊值*     |
+| **插入**          | addFirst(e)             | offerFirst(e) | addLast(e)   | offerLast(e) |
+| **删除**          | removeFirst()           | pollFirst()   | removeLast() | pollLast()   |
+| **检查**          | getFirst()              | peekFirst()   | getLast()    | peekLast()   |
+
+Deque接口扩展（继承）了 Queue 接口。在将双端队列用作队列时，将得到 FIFO（先进先出）行为。将元素添加到双端队列的末尾，从双端队列的开头移除元素。从 Queue 接口继承的方法完全等效于 Deque 方法，如下表所示：
+
+| **Queue方法** | **等效Deque方法** |
+| ------------- | ----------------- |
+| add add(e)    | addLast(e)        |
+| offer(e)      | offerLast(e)      |
+| remove()      | removeFirst()     |
+| poll()        | pollFirst()       |
+| element()     | getFirst()        |
+| peek()        | peekFirst()       |
+
+双端队列也可用作 LIFO（后进先出）堆栈。应优先使用此接口而不是遗留 Stack 类。在将双端队列用作堆栈时，元素被推入双端队列的开头并从双端队列开头弹出。堆栈方法完全等效于 Deque 方法，如下表所示：
+
+| **堆栈方法** | **等效Deque方法** |
+| ------------ | ----------------- |
+| push(e)      | addFirst(e)       |
+| pop()        | removeFirst()     |
+| peek()       | peekFirst()       |
+
+
+
+
+
 ## Others
 
 ### Arrays.sort()
