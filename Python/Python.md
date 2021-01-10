@@ -175,7 +175,98 @@ if not list_2:
     sorted(fruits, key=len, reverse=True)
     ```
 
-    
+
+
+
+### collections.Counter()用法
+
+我们先看一个简单的例子：
+
+```python
+#统计词频
+colors = ['red', 'blue', 'red', 'green', 'blue', 'blue']
+result = {}
+for color in colors:
+    if result.get(color)==None:
+        result[color]=1
+    else:
+        result[color]+=1
+print (result)
+#{'red': 2, 'blue': 3, 'green': 1}
+```
+
+下面我们看用Counter怎么实现：
+
+```python
+from collections import Counter
+colors = ['red', 'blue', 'red', 'green', 'blue', 'blue']
+c = Counter(colors)
+print (dict(c))
+```
+
+
+
+可以创建一个空的Counter：
+
+```python
+cnt = Counter()
+```
+
+之后在空的Counter上进行一些操作。
+也可以创建的时候传进去一个迭代器（数组，字符串，字典等）：
+
+```python
+c = Counter('gallahad')                 # 传进字符串
+c = Counter({'red': 4, 'blue': 2})      # 传进字典
+c = Counter(cats=4, dogs=8)             # 传进元组
+```
+
+判断是否包含某元素，可以转化为dict然后通过dict判断，Counter也带有函数可以判断：
+
+```python
+c = Counter(['eggs', 'ham'])
+c['bacon']                              # 不存在就返回0
+#0
+```
+
+删除元素：
+
+```python
+c['sausage'] = 0                        # counter entry with a zero count
+del c['sausage']   
+```
+
+获得所有元素：
+
+```python
+c = Counter(a=4, b=2, c=0, d=-2)
+list(c.elements())
+#['a', 'a', 'a', 'a', 'b', 'b']
+```
+
+查看最常见出现的k个元素：
+
+```python
+Counter('abracadabra').most_common(3)
+#[('a', 5), ('r', 2), ('b', 2)]
+```
+
+Counter更新：
+
+```python
+c = Counter(a=3, b=1)
+d = Counter(a=1, b=2)
+c + d                       # 相加
+#Counter({'a': 4, 'b': 3})
+c - d                       # 相减，如果小于等于0，删去
+#Counter({'a': 2})
+c & d                       # 求最小
+#Counter({'a': 1, 'b': 1})
+c | d                       # 求最大
+#Counter({'a': 3, 'b': 2})
+```
+
+
 
 ### enumerate() 函数
 

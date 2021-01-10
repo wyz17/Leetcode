@@ -99,6 +99,10 @@ Daily Leetcode
 71. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)&ensp; [Simplify Path](Solved/71-Simplify-Path/Simplify-Path.md)
 72. ![](https://img.shields.io/badge/-Hard-red.svg) &ensp;&ensp;&ensp;[Edit Distance](https://leetcode.com/problems/edit-distance)
 73. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)&ensp; [Set Matrix Zeroes](Solved/73-Set-Matrix-Zeroes/Set-Matrix-Zeroes.md)
+74. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)&ensp; [Search a 2D Matrix](Solved/74-Search-a-2D-Matrix/Search-a-2D-Matrix.md)
+75. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)&ensp; [Sort Colors](Solved/75-Sort-Colors/Sort-Colors.md)
+76. ![](https://img.shields.io/badge/-Hard-red.svg) &ensp;&ensp;&ensp;[Minimum Window Substring](Solved/76-Minimum-Window-Substring/Minimum-Window-Substring.md)
+77. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Combinations](Solved/77-Combinations/Combinations.md)
 
 
 
@@ -129,6 +133,7 @@ To be continue!
 ### Backtracking
 
 - [Backtracking](Templates/Backtracking.md)
+- [Sliding Window](Templates/Sliding-Window.md)
 
 
 
