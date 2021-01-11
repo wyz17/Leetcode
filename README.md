@@ -103,6 +103,8 @@ Daily Leetcode
 75. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)&ensp; [Sort Colors](Solved/75-Sort-Colors/Sort-Colors.md)
 76. ![](https://img.shields.io/badge/-Hard-red.svg) &ensp;&ensp;&ensp;[Minimum Window Substring](Solved/76-Minimum-Window-Substring/Minimum-Window-Substring.md)
 77. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Combinations](Solved/77-Combinations/Combinations.md)
+78. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Subsets](Solved/78-Subsets/Subsets.md)
+79. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Word-Search](Solved/79-Word-Search/Word-Search.md)
 
 
 
