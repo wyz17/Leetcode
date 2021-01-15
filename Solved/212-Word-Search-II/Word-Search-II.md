@@ -1,14 +1,18 @@
 
 
-# 79. Word Search
+# 212. Word Search II
 
 ### 题目
 
-链接：https://leetcode.com/problems/word-search/
+链接：https://leetcode.com/problems/word-search-ii/
 
 
 
-### 思路 - DFS
+### 思路 - Trie
+
+https://leetcode.com/problems/word-search-ii/discuss/59780/Java-15ms-Easiest-Solution-(100.00)
+
+
 
 #### 步骤
 

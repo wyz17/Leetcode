@@ -50,8 +50,8 @@ Daily Leetcode
 22. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Generate Parentheses](Solved/22-Generate-Parentheses/Generate-Parentheses.md)  
 23. ![](https://img.shields.io/badge/-Hard-red.svg)&ensp;&ensp;&ensp; [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)  
 24. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Swap Nodes in Pairs](Solved/24-Swap-Nodes-in-Pairs/Swap-Nodes-in-Pairs.md)  
-25. ![](https://img.shields.io/badge/-Hard-red.svg)&ensp;&ensp;&ensp;[ Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)  
-26. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) &ensp;&ensp;&ensp;[ Remove Duplicates from Sorted Array](Solved/26-Remove-Duplicates-from-Sorted-Array/Remove-Duplicates-from-Sorted-Array.md)  
+25. ![](https://img.shields.io/badge/-Hard-red.svg)&ensp;&ensp;&ensp;[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)  
+26. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) &ensp;&ensp;&ensp;[Remove Duplicates from Sorted Array](Solved/26-Remove-Duplicates-from-Sorted-Array/Remove-Duplicates-from-Sorted-Array.md)  
 27. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) &ensp;&ensp;&ensp;[Remove Elements](Solved/27-Remove-Elements/Remove-Elements.md)
 28. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg)&ensp;&ensp;&ensp; [Implement strStr()](Solved/28-Implement-strStr()/Implement-strStr().md)  
 29. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Divide Two Integers](Solved/29-Divide-Two-Integers/Divide-Two-Integers.md)  
@@ -104,11 +104,15 @@ Daily Leetcode
 76. ![](https://img.shields.io/badge/-Hard-red.svg) &ensp;&ensp;&ensp;[Minimum Window Substring](Solved/76-Minimum-Window-Substring/Minimum-Window-Substring.md)
 77. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Combinations](Solved/77-Combinations/Combinations.md)
 78. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Subsets](Solved/78-Subsets/Subsets.md)
-79. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Word-Search](Solved/79-Word-Search/Word-Search.md)
-
-
-
-
+79. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Word-Search](Solved/79-Word-Search/Word-Search.md) R
+80. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Remove Duplicates from Sorted Array II](Solved/80-Remove-Duplicates-from-Sorted-Array-II/Remove-Duplicates-from-Sorted-Array-II.md)
+81. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Search in Rotated Sorted Array II](Solved/81-Search-in-Rotated-Sorted-Array-II/Search-in-Rotated-Sorted-Array-II.md)
+82. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Remove Duplicates from Sorted List II](Solved/82-Remove-Duplicates-from-Sorted-List-II/Remove-Duplicates-from-Sorted-List-II.md)
+83. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) &ensp;&ensp;&ensp;[Remove Duplicates from Sorted List](Solved/83-Remove-Duplicates-from-Sorted-List/Remove-Duplicates-from-Sorted-List.md)
+84. ![](https://img.shields.io/badge/-Hard-red.svg) &ensp;&ensp;&ensp;[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)
+85. ![](https://img.shields.io/badge/-Hard-red.svg) &ensp;&ensp;&ensp;[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle)
+86. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Partition List](Solved/86-Partition-List/Partition-List.md)
+87. ![](https://img.shields.io/badge/-Hard-red.svg) &ensp;&ensp;&ensp;[Scramble String](https://leetcode.com/problems/scramble-string)
 
 
 
@@ -120,7 +124,7 @@ Daily Leetcode
 
 141 ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) &ensp;&ensp;&ensp;[Linked List Cycle](Solved/141-Linked-List-Cycle/Linked-List-Cycle.md)  
 
-
+212 ![](https://img.shields.io/badge/-Hard-red.svg) &ensp;&ensp;&ensp;[Word-Search II](Solved/212-Word-Search-II/Word-Search-II.md) 
 
 640 ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)&ensp; [Solve the Equation](Solved/640-Solve-the-Equation/Solve-the-Equation.md)
 
@@ -135,6 +139,11 @@ To be continue!
 ### Backtracking
 
 - [Backtracking](Templates/Backtracking.md)
+
+
+
+### Sliding Window
+
 - [Sliding Window](Templates/Sliding-Window.md)
 
 
