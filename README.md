@@ -113,6 +113,7 @@ Daily Leetcode
 85. ![](https://img.shields.io/badge/-Hard-red.svg) &ensp;&ensp;&ensp;[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle)
 86. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Partition List](Solved/86-Partition-List/Partition-List.md)
 87. ![](https://img.shields.io/badge/-Hard-red.svg) &ensp;&ensp;&ensp;[Scramble String](https://leetcode.com/problems/scramble-string)
+88. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg)&ensp; &ensp;&ensp;[Merge Sorted Array](Solved/88-Merge-Sorted-Array/Merge-Sorted-Array.md)
 
 
 
