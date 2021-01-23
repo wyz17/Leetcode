@@ -9,6 +9,7 @@ Source：[LeetCode大佬的post](https://leetcode.com/problems/combination-sum/d
 ### Contents
 
 <!--ts-->
+
    * [Backtracking](#backtracking)
          * [Contents](#contents)
       * [Combination Sum](#combination-sum)
@@ -27,37 +28,47 @@ Source：[LeetCode大佬的post](https://leetcode.com/problems/combination-sum/d
 
 
 
-## Combination Sum
+## Code
 
-### Solved
+## Complexity
+
+## Problems
+
+### Combination Sum
 
 [Combination Sum](../Solved/39-Combination-Sum/Combination-Sum.md)
 
 
 
-### Code
+### Combination Sum II
 
 
 
-## Combination Sum II
+### Palindrome Partitioning
 
 
 
-## Palindrome Partitioning
+### Permutations
 
 
 
-## Permutations
+### Permutations II
 
 
 
-## Permutations II
+### Subsets
 
 
 
-## Subsets
+### Subsets II
 
 
 
-## Subsets II
+## DFS & Backtracking
 
+| -                | DFS                                                          | Backtracking                                                 |
+| ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Target Structure | Actual Tree/Graph Structure                                  | Any type of structure where portions of the domain can be eliminated (Chess Board, matrix, implicit tree) |
+| Definition       | A specific form of backtracking related to searching tree/graph structures | Traverse from the end and prune unacceptable cases           |
+| Start-At Point   | Root of the Tree                                             | End of the Goal                                              |
+| Moving Direction | From the root to each branch                                 | From the end moving backwards                                |

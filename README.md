@@ -117,8 +117,8 @@ Daily Leetcode
 89. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Gray Code](Solved/89-Gray-Code/Gray-Code.md)
 90. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Subsets II](Solved/90-Subsets-II/Subsets-II.md)
 91. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Decode Ways](Solved/91-Decode-Ways/Decode-Ways.md)
-
-
+92. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Reverse Linked List II](Solved/92-Reverse-Linked-List-II/Reverse-Linked-List-II.md)
+93. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Restore IP Addresses](Solved/93-Restore-IP-Addresses/Restore-IP-Addresses.md)
 
 
 
@@ -127,6 +127,8 @@ Daily Leetcode
 
 
 141 ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) &ensp;&ensp;&ensp;[Linked List Cycle](Solved/141-Linked-List-Cycle/Linked-List-Cycle.md)  
+
+206 ![](https://img.shields.io/badge/-Easy-%235cb85c.svg)&ensp; &ensp;&ensp;[Reverse Linked List](Solved/206-Reverse-Linked-List/Reverse-Linked-List.md)
 
 212 ![](https://img.shields.io/badge/-Hard-red.svg) &ensp;&ensp;&ensp;[Word-Search II](Solved/212-Word-Search-II/Word-Search-II.md) 
 
