@@ -124,10 +124,15 @@ Daily Leetcode
 96. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Unique Binary Search Trees](Solved/96-Unique-Binary-Search-Trees/Unique-Binary-Search-Trees.md)
 97. ![](https://img.shields.io/badge/-Hard-red.svg) &ensp;&ensp;&ensp;[Interleaving String](https://leetcode.com/problems/interleaving-string) 
 98. ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) &ensp;[Validate Binary Search Tree](Solved/98-Validate-Binary-Search-Tree/Validate-Binary-Search-Tree.md)
+99. ![](https://img.shields.io/badge/-Hard-red.svg) &ensp;&ensp;&ensp;[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree)
+100. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) &ensp;&ensp;&ensp;[Same Tree](Solved/100-Same-Tree/Same-Tree.md)
+101. ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) &ensp;&ensp;&ensp;[Symmetric Tree](Solved/101-Symmetric-Tree/Symmetric-Tree.md)
 
 
 
- 100 ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) &ensp;&ensp;&ensp;[Same-Tree](Solved/100-Same-Tree/Same-Tree.md)
+
+
+
 
 121 ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) &ensp;&ensp;&ensp;[Best Time to Buy and Sell Stock](Solved/121-Best-Time-to-Buy-and-Sell-Stock/Best-Time-to-Buy-and-Sell-Stock.md)  
 
