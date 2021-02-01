@@ -8,18 +8,19 @@
 
 
 
-### 思路 - Binary Search
+### 思路
 
 #### 步骤
 
-- 注意 mid 与 l / r重复情况的判断
-- 注意判断的边界值
+- 新初始化链表头res作为虚拟头节点
+- 再初始化链表结点prev用来保存连接时head的前一个节点
+- 之后判断操作head就好
 
 
 
 #### 复杂度
 
-时间：` O(NlogN)`
+时间：` O(N)`
 
 空间：` O(1)`
 
@@ -31,34 +32,22 @@
 
 ```java
 class Solution {
-    public boolean search(int[] nums, int target) {
-        int l = 0;
-        int r = nums.length - 1;
-        
-        while(l <= r) {
-            int mid = l + (r - l) / 2;
-            if(target == nums[mid]) {
-                return true;
-            }
-            if(nums[mid] < nums[r] || nums[mid] < nums[l]) {
-                if (target > nums[mid] && target <= nums[r]) {
-                    l = mid + 1;
-                } else {
-                    r = mid - 1;
+    public ListNode deleteDuplicates(ListNode head) {
+        ListNode res = new ListNode(0, head);
+        ListNode prev = res;
+        while(head != null) {
+            if(head.next != null && head.val == head.next.val) {
+                while(head.next != null && head.val == head.next.val) {
+                    head = head.next;
                 }
+                prev.next = head.next;
+            } else {
+                prev = prev.next;
             }
-            else if(nums[mid] > nums[l] || nums[mid] > nums[r]) {
-                if (target < nums[mid] && target >= nums[l]) {
-                    r = mid - 1;
-                } else {
-                    l = mid + 1;
-                }
-            }
-            else {
-                r--;
-            }
+            head = head.next;
         }
-        return false;
+        return res.next;
+        
     }
 }
 ```
@@ -69,28 +58,18 @@ class Solution {
 
 ```python
 class Solution:
-    def search(self, nums: List[int], target: int) -> bool:
-        l = 0
-        r = len(nums) - 1
-        
-        while l <= r:
-            mid = l + (r - l) // 2
-            if target == nums[mid]:
-                return True
-            while l < mid and nums[l] == nums[mid]:
-                l += 1
-            if nums[mid] < nums[r] or nums[mid] < nums[l]:
-                if target > nums[mid] and target <= nums[r]:
-                    l = mid + 1
-                else:
-                    r = mid - 1
+    def deleteDuplicates(self, head: ListNode) -> ListNode:
+        res = ListNode(0, head)
+        prev = res
+        while(head != None):
+            if head.next != None and head.val == head.next.val:
+                while head.next != None and head.val == head.next.val:
+                    head = head.next
+                prev.next = head.next
             else:
-                if target < nums[mid] and target >= nums[l]:
-                    r = mid - 1
-                else:
-                    l = mid + 1
-                
-        return False
+                prev = prev.next
+            head = head.next
+        return res.next
 ```
 
 
