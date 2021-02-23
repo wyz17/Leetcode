@@ -142,7 +142,12 @@ Daily Leetcode
 |111|[Minimum Depth of Binary Tree](Solved/111-Minimum-Depth-of-Binary-Tree/Minimum-Depth-of-Binary-Tree.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:ballot_box_with_check: Solutions|
 |112|[Path Sum](Solved/112-Path-Sum/Path-Sum.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:ballot_box_with_check: Solutions|
 |113|[Path Sum II](Solved/113-Path-Sum-II/Path-Sum-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:ballot_box_with_check: Solutions|
-|114|[Flatten Binary Tree to Linked List](Solved/114-Flatten-Binary-Tree-to-Linked-List/Flatten-Binary-Tree-to-Linked-List.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)||
+|114|[Flatten Binary Tree to Linked List](Solved/114-Flatten-Binary-Tree-to-Linked-List/Flatten-Binary-Tree-to-Linked-List.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:ballot_box_with_check: Complexity|
+|115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
+|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
+|117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
+|118|[Pascal's Triangle](Solved/108-Pascals-Triangle/Pascals-Triangle.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
+|119|[Pascal's Triangle II](Solved/109-Pascals-Triangle-II/Pascals-Triangle-II.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)||
 |121|[Best Time to Buy and Sell Stock](Solved/121-Best-Time-to-Buy-and-Sell-Stock/Best-Time-to-Buy-and-Sell-Stock.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg) |:heavy_check_mark:|
 |141|[Linked List Cycle](Solved/141-Linked-List-Cycle/Linked-List-Cycle.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |206|[Reverse Linked List](Solved/206-Reverse-Linked-List/Reverse-Linked-List.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
