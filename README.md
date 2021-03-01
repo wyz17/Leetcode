@@ -147,8 +147,11 @@ Daily Leetcode
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
 |118|[Pascal's Triangle](Solved/108-Pascals-Triangle/Pascals-Triangle.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
-|119|[Pascal's Triangle II](Solved/109-Pascals-Triangle-II/Pascals-Triangle-II.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)||
-|121|[Best Time to Buy and Sell Stock](Solved/121-Best-Time-to-Buy-and-Sell-Stock/Best-Time-to-Buy-and-Sell-Stock.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg) |:heavy_check_mark:|
+|119|[Pascal's Triangle II](Solved/109-Pascals-Triangle-II/Pascals-Triangle-II.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
+|120|[Triangle](Solved/120-Triangle/Triangle.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
+|121|[Best Time to Buy and Sell Stock](Solved/121-Best-Time-to-Buy-and-Sell-Stock/Best-Time-to-Buy-and-Sell-Stock.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
+|122|[Best Time to Buy and Sell Stock II](Solved/122-Best-Time-to-Buy-and-Sell-Stock-II/Best-Time-to-Buy-and-Sell-Stock-II.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
+|123|[Best Time to Buy and Sell Stock III](Solved/123-Best-Time-to-Buy-and-Sell-Stock-III/Best-Time-to-Buy-and-Sell-Stock-III.md)|![](https://img.shields.io/badge/-Hard-red.svg)||
 |141|[Linked List Cycle](Solved/141-Linked-List-Cycle/Linked-List-Cycle.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |206|[Reverse Linked List](Solved/206-Reverse-Linked-List/Reverse-Linked-List.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |212|[Word Search II](Solved/212-Word-Search-II/Word-Search-II.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
