@@ -499,6 +499,14 @@ Python中没有null
                 
     ```
 
-    
 
-    
+
+
+### Python isalnum()方法
+
+- Python isalnum() 方法检测字符串是否由字母和数字组成
+
+- ```python
+  str.isalnum()
+  ```
+
