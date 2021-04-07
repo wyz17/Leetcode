@@ -32,17 +32,7 @@
 ##### Java
 
 ```java
-class Solution {
-    public int sumNumbers(TreeNode root) {
-        return sum(root, 0);
-    }
-    
-    private int sum(TreeNode root, int res) {
-        if(root == null) return 0;
-        if (root.right == null && root.left == null) return res * 10 + root.val;
-        return sum(root.right, res * 10 + root.val) + sum(root.left, res * 10 + root.val);
-    }
-}
+
 ```
 
 
@@ -50,38 +40,7 @@ class Solution {
 ##### Python
 
 ```python
-class Solution:
-    def sumNumbers(self, root: TreeNode) -> int:
-        nums = []
-        res = 0
-        self.dfs(root, nums, 0)
-        for num in nums:
-            res += num
-        return res
-        
-        
-        
-    def dfs(self, root, res, num):
-        if not root:
-            return
-        # num = num + str(root.val)
-        num = num * 10 + root.val
-        if not root.left and not root.right:
-            res.append(num)
-        self.dfs(root.left, res, num)
-        self.dfs(root.right, res, num)
- 
-# 优化2
-class Solution:
-    def sumNumbers(self, root: TreeNode) -> int:
-        return self.sum(root, 0)
-    
-    def sum(self, root, res):
-        if not root:
-            return 0
-        if not root.left and not root.right:
-            return res * 10 + root.val
-        return self.sum(root.left, res * 10 + root.val) + self.sum(root.right, res * 10 + root.val)
+
 ```
 
 

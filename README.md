@@ -158,12 +158,12 @@ Daily Leetcode
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
 |129|[Sum Root to Leaf Numbers](Solved/129-Sum-Root-to-Leaf-Numbers/Sum-Root-to-Leaf-Numbers.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
-|130|[Surrounded Regions](Solved/130-Surrounded-Regions/Surrounded-Regions.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)||
+|130|[Surrounded Regions](Solved/130-Surrounded-Regions/Surrounded-Regions.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
 |141|[Linked List Cycle](Solved/141-Linked-List-Cycle/Linked-List-Cycle.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |206|[Reverse Linked List](Solved/206-Reverse-Linked-List/Reverse-Linked-List.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |212|[Word Search II](Solved/212-Word-Search-II/Word-Search-II.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
 |234|[Palindrome Linked List](Solved/234-Palindrome-Linked-List/Palindrome-Linked-List.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
-|474|[Ones and Zeroes](Solved/474-Ones-and-Zeroes/Ones-and-Zeroes.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)||
+|474|[Ones and Zeroes](Solved/474-Ones-and-Zeroes/Ones-and-Zeroes.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |640|[Solve the Equation](Solved/640-Solve-the-Equation/Solve-the-Equation.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 
 
