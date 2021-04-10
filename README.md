@@ -1,6 +1,6 @@
 # Leetcode
 
-![Java](https://img.shields.io/badge/Language-Java-red.svg)  ![Python](https://img.shields.io/badge/Language-Python-blue.svg)
+![Java](https://img.shields.io/badge/Language-Java-red.svg)  ![Python](https://img.shields.io/badge/Language-Python-blue.svg)  ![JavaScript](https://img.shields.io/badge/Language-JavaScript-orange.svg)
 
 Daily Leetcode
 
@@ -55,7 +55,7 @@ Daily Leetcode
 |24|[Swap Nodes in Pairs](Solved/24-Swap-Nodes-in-Pairs/Swap-Nodes-in-Pairs.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
 |26|[Remove Duplicates from Sorted Array](Solved/26-Remove-Duplicates-from-Sorted-Array/Remove-Duplicates-from-Sorted-Array.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
-|27|[Remove Elements](Solved/27-Remove-Elements/Remove-Elements.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:ballot_box_with_check: JAVA|
+|27|[Remove Elements](Solved/27-Remove-Elements/Remove-Elements.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |28|[Implement strStr()](Solved/28-Implement-strStr()/Implement-strStr().md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:ballot_box_with_check: JAVA|
 |29|[Divide Two Integers](Solved/29-Divide-Two-Integers/Divide-Two-Integers.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
@@ -108,7 +108,7 @@ Daily Leetcode
 |77|[Combinations](Solved/77-Combinations/Combinations.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:ballot_box_with_check: Complexity|
 |78|[Subsets](Solved/78-Subsets/Subsets.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:ballot_box_with_check: Complexity|
 |79|[Word Search](Solved/79-Word-Search/Word-Search.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:ballot_box_with_check: Complexity|
-|80|[Remove Duplicates from Sorted ArrayII](Solved/80-Remove-Duplicates-from-Sorted-Array-II/Remove-Duplicates-from-Sorted-Array-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
+|80|[Remove Duplicates from Sorted Array II](Solved/80-Remove-Duplicates-from-Sorted-Array-II/Remove-Duplicates-from-Sorted-Array-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |81|[Search in Rotated Sorted Array II](Solved/81-Search-in-Rotated-Sorted-Array-II/Search-in-Rotated-Sorted-Array-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |82|[Remove Duplicates from Sorted List II](Solved/82-Remove-Duplicates-from-Sorted-List-II/Remove-Duplicates-from-Sorted-List-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |83|[Remove Duplicates from Sorted List](Solved/83-Remove-Duplicates-from-Sorted-List/Remove-Duplicates-from-Sorted-List.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
@@ -160,6 +160,7 @@ Daily Leetcode
 |129|[Sum Root to Leaf Numbers](Solved/129-Sum-Root-to-Leaf-Numbers/Sum-Root-to-Leaf-Numbers.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |130|[Surrounded Regions](Solved/130-Surrounded-Regions/Surrounded-Regions.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
 |141|[Linked List Cycle](Solved/141-Linked-List-Cycle/Linked-List-Cycle.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
+|189|[Rotate Array](Solved/189-Rotate-Array/Rotate-Array.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)||
 |206|[Reverse Linked List](Solved/206-Reverse-Linked-List/Reverse-Linked-List.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |212|[Word Search II](Solved/212-Word-Search-II/Word-Search-II.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
 |234|[Palindrome Linked List](Solved/234-Palindrome-Linked-List/Palindrome-Linked-List.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
@@ -168,7 +169,17 @@ Daily Leetcode
 
 
 
+## Classcification
 
+https://cspiration.com/leetcodeClassification
+
+### Array
+
+| No | Solutions | Difficulity |
+| :--: | ------------------------------------------------------------ | :-----------------------------------------------------: |
+|27|[Remove Elements](Solved/27-Remove-Elements/Remove-Elements.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|
+|26|[Remove Duplicates from Sorted Array](Solved/26-Remove-Duplicates-from-Sorted-Array/Remove-Duplicates-from-Sorted-Array.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|
+|80|[Remove Duplicates from Sorted Array II](Solved/80-Remove-Duplicates-from-Sorted-Array-II/Remove-Duplicates-from-Sorted-Array-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|
 
 
 
@@ -209,3 +220,9 @@ https://leetcode.com/problems/validate-binary-search-tree/discuss/32112/Learn-on
 ### Python
 
 [Python Tips](Python/Python.md)
+
+
+
+### JavaScript
+
+[JavaScript Tips](JavaScript/JavaScript.md)

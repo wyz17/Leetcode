@@ -12,7 +12,12 @@
 
 #### 步骤
 
-- 傻瓜步骤2号
+- java
+  - 双指针法，交换元素
+  - 循环从前面开始遍历，可以用一个指针指向当前元素，另一个指针去判断是否是需要保留的值
+  - 返回原数组，只需要前面部分的数组是ans就好
+- python
+  - 傻瓜解法
 
 
 
@@ -26,6 +31,25 @@
 
 #### 代码
 
+##### Java
+
+```java
+class Solution {
+    public int removeElement(int[] nums, int val) {
+        int i = 0;
+        for(int j = 0; j < nums.length; j++) {
+            if(nums[j] != val) {
+                nums[i] = nums[j];
+                i++;
+            }
+        }
+        return i;
+    }
+}
+```
+
+
+
 ##### Python
 
 ```python
@@ -34,6 +58,19 @@ class Solution:
         while val in nums:
             nums.remove(val)
         return len(nums)
+```
+
+
+
+##### JavaScript
+
+```javascript
+var removeElement = function(nums, val) {
+    while(nums.indexOf(val, 0) >= 0) {
+        nums.splice(nums.indexOf(val,0), 1);
+    }
+    return nums.length;
+};
 ```
 
 

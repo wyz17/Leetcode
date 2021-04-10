@@ -56,3 +56,19 @@ class Solution:
                 i=i+1
         return len(nums)
 ```
+
+
+
+##### JavaScript
+
+```javascript
+var removeDuplicates = function(nums) {
+    let i = 0;
+    for (let j = 0; j < nums.length; j++) {
+        if (nums[j] != nums[i]) 
+            nums[++i] = nums[j];
+    }
+    return ++i;
+};
+```
+
