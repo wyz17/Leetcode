@@ -12,13 +12,19 @@ Daily Leetcode
    * [Leetcode](#leetcode)
       * [Contents](#contents)
       * [Problems](#problems)
+      * [Classcification](#classcification)
+         * [Array](#array)
+      * [Frequency](#frequency)
       * [Templates](#templates)
          * [Backtracking](#backtracking)
+         * [Sliding Window](#sliding-window)
+         * [Tree Traversal](#tree-traversal)
       * [Notes](#notes)
          * [Java](#java)
          * [Python](#python)
+         * [JavaScript](#javascript)
 
-<!-- Added by: weiyizhi, at: 2020年12月28日 星期一 16时22分55秒 CST -->
+<!-- Added by: weiyizhi, at: 2021年 4月10日 星期六 16时51分05秒 CST -->
 
 <!--te-->
 
@@ -172,6 +178,8 @@ Daily Leetcode
 ## Classcification
 
 https://cspiration.com/leetcodeClassification
+
+
 
 ### Array
 
