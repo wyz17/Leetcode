@@ -13,7 +13,7 @@
 - 判断num的最大可换算成罗马字符的值
 - 循环减去该值，同时返回的字符串append
 
-最开始的想法就是这个思路，没想到run一遍发现结果出乎意料的好——beats double 100%![image-20201008224118467](/Users/weiyizhi/Library/Application Support/typora-user-images/image-20201008224118467.png)
+最开始的想法就是这个思路，没想到run一遍发现结果出乎意料的好——beats double 100%![image-20201008224118467](https://tva1.sinaimg.cn/large/008i3skNgy1gptvq5huc9j30x20rq0wa.jpg)
 
 顺便吐槽一下这个难度不应该放med里...
 

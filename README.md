@@ -75,7 +75,7 @@ Daily Leetcode
 |38|[Count and Say](Solved/38-Count-and-Say/Count-and-Say.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |39|[Combination Sum](Solved/39-Combination-Sum/Combination-Sum.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:ballot_box_with_check: Complexity|
 |40|[Combination Sum II](Solved/40-Combination-Sum-II/Combination-Sum-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
-|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive)|![](https://img.shields.io/badge/-Hard-red.svg)|:heavy_check_mark:|
+|41|[First Missing Positive](Solved/41-First-Missing-Positive/First-Missing-Positive.md))|![](https://img.shields.io/badge/-Hard-red.svg)|:heavy_check_mark:|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)|![](https://img.shields.io/badge/-Hard-red.svg)|:heavy_check_mark:|
 |43|[Multiply Strings](Solved/43-Multiply-Strings/Multiply-Strings.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |44|[Wild card Matching](https://leetcode.com/problems/wildcard-matching)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
