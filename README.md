@@ -165,11 +165,13 @@ Daily Leetcode
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
 |129|[Sum Root to Leaf Numbers](Solved/129-Sum-Root-to-Leaf-Numbers/Sum-Root-to-Leaf-Numbers.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |130|[Surrounded Regions](Solved/130-Surrounded-Regions/Surrounded-Regions.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
-|134|[Gas Station](Solved/134-Gas-Station/Gas-Station.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)||
+|134|[Gas Station](Solved/134-Gas-Station/Gas-Station.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |141|[Linked List Cycle](Solved/141-Linked-List-Cycle/Linked-List-Cycle.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
+|169|[Majority Element](Solved/169-Majority-Element/Majority-Element.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |189|[Rotate Array](Solved/189-Rotate-Array/Rotate-Array.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |206|[Reverse Linked List](Solved/206-Reverse-Linked-List/Reverse-Linked-List.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |212|[Word Search II](Solved/212-Word-Search-II/Word-Search-II.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
+|229|[Majority Element II](Solved/229-Majority-Element-II/Majority-Element-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)||
 |234|[Palindrome Linked List](Solved/234-Palindrome-Linked-List/Palindrome-Linked-List.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |299|[Bulls and Cows](Solved/299-Bulls-and-Cows/Bulls-and-Cows.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |474|[Ones and Zeroes](Solved/474-Ones-and-Zeroes/Ones-and-Zeroes.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
@@ -193,8 +195,10 @@ https://cspiration.com/leetcodeClassification
 |189|[Rotate Array](Solved/189-Rotate-Array/Rotate-Array.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive)|![](https://img.shields.io/badge/-Hard-red.svg)|
 |299|[Bulls and Cows](Solved/299-Bulls-and-Cows/Bulls-and-Cows.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|
-
-
+|134|[Gas Station](Solved/134-Gas-Station/Gas-Station.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|
+|118|[Pascal's Triangle](Solved/108-Pascals-Triangle/Pascals-Triangle.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|
+|119|[Pascal's Triangle II](Solved/109-Pascals-Triangle-II/Pascals-Triangle-II.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|
+|169|[Majority Element](Solved/169-Majority-Element/Majority-Element.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|
 
 
 ## Frequency
