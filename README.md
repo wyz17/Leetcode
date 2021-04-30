@@ -171,8 +171,9 @@ Daily Leetcode
 |189|[Rotate Array](Solved/189-Rotate-Array/Rotate-Array.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |206|[Reverse Linked List](Solved/206-Reverse-Linked-List/Reverse-Linked-List.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |212|[Word Search II](Solved/212-Word-Search-II/Word-Search-II.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
-|229|[Majority Element II](Solved/229-Majority-Element-II/Majority-Element-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)||
+|229|[Majority Element II](Solved/229-Majority-Element-II/Majority-Element-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
 |234|[Palindrome Linked List](Solved/234-Palindrome-Linked-List/Palindrome-Linked-List.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
+|274|[H-Index](Solved/274-H-Index/H-Index.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)||
 |299|[Bulls and Cows](Solved/299-Bulls-and-Cows/Bulls-and-Cows.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |474|[Ones and Zeroes](Solved/474-Ones-and-Zeroes/Ones-and-Zeroes.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |640|[Solve the Equation](Solved/640-Solve-the-Equation/Solve-the-Equation.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
