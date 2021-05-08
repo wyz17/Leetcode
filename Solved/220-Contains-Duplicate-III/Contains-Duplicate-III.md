@@ -17,6 +17,8 @@
 - 相邻的桶里也有可能有差距不超过t的数字，所以我们还要check一下桶 nums[i] // (t + 1) - 1和桶 nums[i] // (t+1) - 1
 - 实际编程时每个桶用int存而不需要用list存，这是因为每个时刻每个桶里最多只可能有一个数，有两个数的时候已经直接返回True了
 
+Source: https://leetcode.com/problems/contains-duplicate-iii/discuss/61639/JavaPython-one-pass-solution-O(n)-time-O(n)-space-using-buckets
+
 
 
 #### 复杂度

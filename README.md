@@ -76,10 +76,10 @@ Daily Leetcode
 |39|[Combination Sum](Solved/39-Combination-Sum/Combination-Sum.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:ballot_box_with_check: Complexity|
 |40|[Combination Sum II](Solved/40-Combination-Sum-II/Combination-Sum-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |41|[First Missing Positive](Solved/41-First-Missing-Positive/First-Missing-Positive.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:heavy_check_mark:|
-|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)|![](https://img.shields.io/badge/-Hard-red.svg)|:heavy_check_mark:|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
 |43|[Multiply Strings](Solved/43-Multiply-Strings/Multiply-Strings.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |44|[Wild card Matching](https://leetcode.com/problems/wildcard-matching)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
-|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
+|45|[Jump Game II](Solved/45-Jump-Game-II/Jump-Game-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |46|[Permutations](Solved/46-Permutations/Permutations.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:ballot_box_with_check: Complexity|
 |47|[Permutations II](Solved/47-Permutations-II/Permutations-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:ballot_box_with_check: Complexity|
 |48|[Rotate Image](Solved/48-Rotate-Image/Rotate-Image.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
@@ -173,12 +173,13 @@ Daily Leetcode
 |212|[Word Search II](Solved/212-Word-Search-II/Word-Search-II.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
 |217|[Contains Duplicate](Solved/217-Contains-Duplicate/Contains-Duplicate.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |219|[Contains Duplicate II](Solved/219-Contains-Duplicate-II/Contains-Duplicate-II.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
-|220|[Contains Duplicate III](Solved/220-Contains-Duplicate-III/Contains-Duplicate-III.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)||
+|220|[Contains Duplicate III](Solved/220-Contains-Duplicate-III/Contains-Duplicate-III.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
 |229|[Majority Element II](Solved/229-Majority-Element-II/Majority-Element-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
 |234|[Palindrome Linked List](Solved/234-Palindrome-Linked-List/Palindrome-Linked-List.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |274|[H-Index](Solved/274-H-Index/H-Index.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |275|[H-Index-II](Solved/275-H-Index-II/H-Index-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |299|[Bulls and Cows](Solved/299-Bulls-and-Cows/Bulls-and-Cows.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
+|309|[Best Time to Buy and Sell Stock with Cooldown](Solved/309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown/Best-Time-to-Buy-and-Sell-Stock-with-Cooldown.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
 |474|[Ones and Zeroes](Solved/474-Ones-and-Zeroes/Ones-and-Zeroes.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |640|[Solve the Equation](Solved/640-Solve-the-Equation/Solve-the-Equation.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 
@@ -204,11 +205,19 @@ https://cspiration.com/leetcodeClassification
 |118|[Pascal's Triangle](Solved/108-Pascals-Triangle/Pascals-Triangle.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|
 |119|[Pascal's Triangle II](Solved/109-Pascals-Triangle-II/Pascals-Triangle-II.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|
 |169|[Majority Element](Solved/169-Majority-Element/Majority-Element.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|
+|274|[H-Index](Solved/274-H-Index/H-Index.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|
+|275|[H-Index-II](Solved/275-H-Index-II/H-Index-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|
 |217|[Contains Duplicate](Solved/217-Contains-Duplicate/Contains-Duplicate.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|
 |219|[Contains Duplicate II](Solved/219-Contains-Duplicate-II/Contains-Duplicate-II.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|
 |220|[Contains Duplicate III](Solved/220-Contains-Duplicate-III/Contains-Duplicate-III.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|
-|274|[H-Index](Solved/274-H-Index/H-Index.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|
-|275|[H-Index-II](Solved/275-H-Index-II/H-Index-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|
+|55|[Jump Game](Solved/55-Jump-Game/Jump-Game.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|
+|45|[Jump Game II](Solved/45-Jump-Game-II/Jump-Game-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|
+|121|[Best Time to Buy and Sell Stock](Solved/121-Best-Time-to-Buy-and-Sell-Stock/Best-Time-to-Buy-and-Sell-Stock.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|
+|122|[Best Time to Buy and Sell Stock II](Solved/122-Best-Time-to-Buy-and-Sell-Stock-II/Best-Time-to-Buy-and-Sell-Stock-II.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|
+|123|[Best Time to Buy and Sell Stock III](Solved/123-Best-Time-to-Buy-and-Sell-Stock-III/Best-Time-to-Buy-and-Sell-Stock-III.md)|![](https://img.shields.io/badge/-Hard-red.svg)|
+|309|[Best Time to Buy and Sell Stock with Cooldown](Solved/309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown/Best-Time-to-Buy-and-Sell-Stock-with-Cooldown.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|
+|11|[Container With Most Water](Solved/11-Container-With-Most-Water/Container-With-Most-Water.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|
+
 
 
 
