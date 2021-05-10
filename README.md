@@ -178,8 +178,10 @@ Daily Leetcode
 |234|[Palindrome Linked List](Solved/234-Palindrome-Linked-List/Palindrome-Linked-List.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |274|[H-Index](Solved/274-H-Index/H-Index.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |275|[H-Index-II](Solved/275-H-Index-II/H-Index-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
+|287|[Find the Duplicate Number](Solved/287-Find-the-Duplicate-Number/Find-the-Duplicate-Number.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)||
 |299|[Bulls and Cows](Solved/299-Bulls-and-Cows/Bulls-and-Cows.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |309|[Best Time to Buy and Sell Stock with Cooldown](Solved/309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown/Best-Time-to-Buy-and-Sell-Stock-with-Cooldown.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
+|334|[Increasing Triplet Subsequence](Solved/334-Increasing-Triplet-Subsequence/Increasing-Triplet-Subsequence.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |474|[Ones and Zeroes](Solved/474-Ones-and-Zeroes/Ones-and-Zeroes.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |640|[Solve the Equation](Solved/640-Solve-the-Equation/Solve-the-Equation.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 
@@ -217,7 +219,7 @@ https://cspiration.com/leetcodeClassification
 |123|[Best Time to Buy and Sell Stock III](Solved/123-Best-Time-to-Buy-and-Sell-Stock-III/Best-Time-to-Buy-and-Sell-Stock-III.md)|![](https://img.shields.io/badge/-Hard-red.svg)|
 |309|[Best Time to Buy and Sell Stock with Cooldown](Solved/309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown/Best-Time-to-Buy-and-Sell-Stock-with-Cooldown.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|
 |11|[Container With Most Water](Solved/11-Container-With-Most-Water/Container-With-Most-Water.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|
-
+|334|[Increasing Triplet Subsequence](Solved/334-Increasing-Triplet-Subsequence/Increasing-Triplet-Subsequence.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|
 
 
 
