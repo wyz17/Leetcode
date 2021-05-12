@@ -14,6 +14,7 @@ Daily Leetcode
       * [Problems](#problems)
       * [Classcification](#classcification)
          * [Array](#array)
+         * [String](#string)
       * [Frequency](#frequency)
       * [Templates](#templates)
          * [Backtracking](#backtracking)
@@ -24,7 +25,7 @@ Daily Leetcode
          * [Python](#python)
          * [JavaScript](#javascript)
 
-<!-- Added by: weiyizhi, at: 2021年 4月10日 星期六 16时51分05秒 CST -->
+<!-- Added by: weiyizhi, at: 2021年 5月10日 星期一 17时53分23秒 CST -->
 
 <!--te-->
 
@@ -62,7 +63,7 @@ Daily Leetcode
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
 |26|[Remove Duplicates from Sorted Array](Solved/26-Remove-Duplicates-from-Sorted-Array/Remove-Duplicates-from-Sorted-Array.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |27|[Remove Elements](Solved/27-Remove-Elements/Remove-Elements.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
-|28|[Implement strStr()](Solved/28-Implement-strStr()/Implement-strStr().md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:ballot_box_with_check: JAVA|
+|28|[Implement strStr()](Solved/28-Implement-strStr()/Implement-strStr().md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |29|[Divide Two Integers](Solved/29-Divide-Two-Integers/Divide-Two-Integers.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
 |31|[Next Permutation](Solved/31-Next-Permutation/Next-Permutation.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
@@ -225,8 +226,10 @@ https://cspiration.com/leetcodeClassification
 
 
 ### String
-
-
+| No | Solutions | Difficulity |
+| :--: | ------------------------------------------------------------ | :-----------------------------------------------------: |
+|28|[Implement strStr()](Solved/28-Implement-strStr()/Implement-strStr().md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|
+|14|[Longest Common Prefix](Solved/14-Longest-Common-Prefix/Longest-Common-Prefix.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|
 
 
 ## Frequency

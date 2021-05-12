@@ -9,11 +9,14 @@ Source：[LeetCode大佬的post](https://leetcode.com/problems/minimum-window-su
 ### Contents
 
 <!--ts-->
-   * [Backtracking](#backtracking)
+   * [Sliding Window](#sliding-window)
          * [Contents](#contents)
+      * [Template](#template)
+         * [思路](#\xE6\x80\x9D\xE8\xB7\xAF)
+         * [Code](#code)
       * [Combination Sum](#combination-sum)
          * [Solved](#solved)
-         * [Code](#code)
+         * [Code](#code-1)
       * [Combination Sum II](#combination-sum-ii)
       * [Palindrome Partitioning](#palindrome-partitioning)
       * [Permutations](#permutations)
@@ -21,7 +24,7 @@ Source：[LeetCode大佬的post](https://leetcode.com/problems/minimum-window-su
       * [Subsets](#subsets)
       * [Subsets II](#subsets-ii)
 
-<!-- Added by: weiyizhi, at: 2020年12月22日 星期二 19时57分06秒 CST -->
+<!-- Added by: weiyizhi, at: 2021年 5月10日 星期一 17时54分37秒 CST -->
 
 <!--te-->
 
