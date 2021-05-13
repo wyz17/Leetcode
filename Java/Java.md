@@ -170,3 +170,9 @@ res.add(Arrays.asList(nums[i], nums[j], nums[l], nums[r]));
 
 - 避免溢出
 
+
+
+### trim() 方法空间复杂度为 O(n)
+
+- 删除首尾空格后需建立新字符串，最差情况下占用 O(N) 额外空间
+
