@@ -13,19 +13,12 @@ Daily Leetcode
       * [Contents](#contents)
       * [Problems](#problems)
       * [Classcification](#classcification)
-         * [Array](#array)
-         * [String](#string)
       * [Frequency](#frequency)
       * [Templates](#templates)
-         * [Backtracking](#backtracking)
-         * [Sliding Window](#sliding-window)
-         * [Tree Traversal](#tree-traversal)
       * [Notes](#notes)
-         * [Java](#java)
-         * [Python](#python)
-         * [JavaScript](#javascript)
+         * [Language Tips](#language-tips)
 
-<!-- Added by: weiyizhi, at: 2021年 5月10日 星期一 17时53分23秒 CST -->
+<!-- Added by: weiyizhi, at: 2021年 5月13日 星期四 17时57分50秒 CST -->
 
 <!--te-->
 
@@ -195,58 +188,19 @@ Daily Leetcode
 
 ## Classcification
 
-https://cspiration.com/leetcodeClassification
+Source1: https://cspiration.com/leetcodeClassification
 
+Source2: https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=678970&extra=&authorid=682747&page=1
 
+Contents
 
-### Array
-
-| No | Solutions | Difficulity |
-| :--: | ------------------------------------------------------------ | :-----------------------------------------------------: |
-|27|[Remove Elements](Solved/27-Remove-Elements/Remove-Elements.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|
-|26|[Remove Duplicates from Sorted Array](Solved/26-Remove-Duplicates-from-Sorted-Array/Remove-Duplicates-from-Sorted-Array.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|
-|80|[Remove Duplicates from Sorted Array II](Solved/80-Remove-Duplicates-from-Sorted-Array-II/Remove-Duplicates-from-Sorted-Array-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|
-|189|[Rotate Array](Solved/189-Rotate-Array/Rotate-Array.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|
-|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive)|![](https://img.shields.io/badge/-Hard-red.svg)|
-|299|[Bulls and Cows](Solved/299-Bulls-and-Cows/Bulls-and-Cows.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|
-|134|[Gas Station](Solved/134-Gas-Station/Gas-Station.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|
-|118|[Pascal's Triangle](Solved/108-Pascals-Triangle/Pascals-Triangle.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|
-|119|[Pascal's Triangle II](Solved/109-Pascals-Triangle-II/Pascals-Triangle-II.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|
-|169|[Majority Element](Solved/169-Majority-Element/Majority-Element.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|
-|274|[H-Index](Solved/274-H-Index/H-Index.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|
-|275|[H-Index-II](Solved/275-H-Index-II/H-Index-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|
-|217|[Contains Duplicate](Solved/217-Contains-Duplicate/Contains-Duplicate.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|
-|219|[Contains Duplicate II](Solved/219-Contains-Duplicate-II/Contains-Duplicate-II.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|
-|220|[Contains Duplicate III](Solved/220-Contains-Duplicate-III/Contains-Duplicate-III.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|
-|55|[Jump Game](Solved/55-Jump-Game/Jump-Game.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|
-|45|[Jump Game II](Solved/45-Jump-Game-II/Jump-Game-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|
-|121|[Best Time to Buy and Sell Stock](Solved/121-Best-Time-to-Buy-and-Sell-Stock/Best-Time-to-Buy-and-Sell-Stock.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|
-|122|[Best Time to Buy and Sell Stock II](Solved/122-Best-Time-to-Buy-and-Sell-Stock-II/Best-Time-to-Buy-and-Sell-Stock-II.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|
-|123|[Best Time to Buy and Sell Stock III](Solved/123-Best-Time-to-Buy-and-Sell-Stock-III/Best-Time-to-Buy-and-Sell-Stock-III.md)|![](https://img.shields.io/badge/-Hard-red.svg)|
-|309|[Best Time to Buy and Sell Stock with Cooldown](Solved/309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown/Best-Time-to-Buy-and-Sell-Stock-with-Cooldown.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|
-|11|[Container With Most Water](Solved/11-Container-With-Most-Water/Container-With-Most-Water.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|
-|334|[Increasing Triplet Subsequence](Solved/334-Increasing-Triplet-Subsequence/Increasing-Triplet-Subsequence.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|
-|287|[Find the Duplicate Number](Solved/287-Find-the-Duplicate-Number/Find-the-Duplicate-Number.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|
-
-
-
-### String
-| No | Solutions | Difficulity |
-| :--: | ------------------------------------------------------------ | :-----------------------------------------------------: |
-|28|[Implement strStr()](Solved/28-Implement-strStr()/Implement-strStr().md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|
-|14|[Longest Common Prefix](Solved/14-Longest-Common-Prefix/Longest-Common-Prefix.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|
-|58|[Length of Last Word](Solved/58-Length-of-Last-Word/Length-of-Last-Word.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|
-|387|[First Unique Character in a String](Solved/387-First-Unique-Character-in-a-String/First-Unique-Character-in-a-String.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|
-|383|[Ransom Note](Solved/383-Ransom-Note/Ransom-Note.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|
-|344|[Reverse String](Solved/344-Reverse-String/Reverse-String.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|
-|151|[Reverse Words in a String](Solved/151-Reverse-Words-in-a-String/Reverse-Words-in-a-String.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|
-
-
-
-
-
-
-
+- [Binary Search](Classification/Binary-Search.md)
+- [Multi-Pointer](Classification/Multi-Pointer.md)
+- [Data Structure](Classification/Data-Structure.md)
+- [Breath First Search](Classification/BFS.md)
+- [Binary Tree and Recursive](Classification/Binary-Tree-and-Recursive.md)
+- [Depth First Search](Classification/DFS.md)
+- [Dynamic Programming](Classification/DFS.md)
 
 
 
@@ -258,38 +212,20 @@ https://github.com/xizhengszhang/Leetcode_company_frequency#bloomberg
 
 ## Templates
 
-### Backtracking
-
 - [Backtracking](Templates/Backtracking.md)
 
-
-
-### Sliding Window
-
 - [Sliding Window](Templates/Sliding-Window.md)
-
-
-
-### Tree Traversal 
-
-https://leetcode.com/problems/validate-binary-search-tree/discuss/32112/Learn-one-iterative-inorder-traversal-apply-it-to-multiple-tree-questions-(Java-Solution)
+- Tree Traversal：https://leetcode.com/problems/validate-binary-search-tree/discuss/32112/Learn-one-iterative-inorder-traversal-apply-it-to-multiple-tree-questions-(Java-Solution)
 
 
 
 ## Notes
 
-### Java
+### Language Tips
 
-[Java Tips](Java/Java.md)
+- [Java Tips](Java/Java.md)
+- [Python Tips](Python/Python.md)
+- [JavaScript Tips](JavaScript/JavaScript.md)
 
+### 
 
-
-### Python
-
-[Python Tips](Python/Python.md)
-
-
-
-### JavaScript
-
-[JavaScript Tips](JavaScript/JavaScript.md)
