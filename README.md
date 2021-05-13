@@ -49,7 +49,7 @@ Daily Leetcode
 |11|[Container With Most Water](Solved/11-Container-With-Most-Water/Container-With-Most-Water.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |12|[Integer To Roman](Solved/12-Integer-To-Roman/Integer-To-Roman.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:ballot_box_with_check: Python|
 |13|[Roman To Integer](Solved/13-Roman-To-Integer/Roman-To-Integer.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
-|14|[Longest Common Prefix](Solved/14-Longest-Common-Prefix/Longest-Common-Prefix.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|TBC|
+|14|[Longest Common Prefix](Solved/14-Longest-Common-Prefix/Longest-Common-Prefix.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |15|[3 Sum](Solved/15-3Sum/3Sum.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:ballot_box_with_check: Python|
 |16|[3 Sum Closest](Solved/16-3Sum-Closest/3Sum-Closest.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |:ballot_box_with_check: Python|
 |17|[Letter Combinations of a Phone Number](Solved/17-Letter-Combinations-of-a-Phone-Number/Letter-Combinations-of-a-Phone-Number.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
@@ -183,6 +183,7 @@ Daily Leetcode
 |299|[Bulls and Cows](Solved/299-Bulls-and-Cows/Bulls-and-Cows.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |309|[Best Time to Buy and Sell Stock with Cooldown](Solved/309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown/Best-Time-to-Buy-and-Sell-Stock-with-Cooldown.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
 |334|[Increasing Triplet Subsequence](Solved/334-Increasing-Triplet-Subsequence/Increasing-Triplet-Subsequence.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
+|387|[First Unique Character in a String](Solved/387-First-Unique-Character-in-a-String/First-Unique-Character-in-a-String.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)||
 |474|[Ones and Zeroes](Solved/474-Ones-and-Zeroes/Ones-and-Zeroes.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |640|[Solve the Equation](Solved/640-Solve-the-Equation/Solve-the-Equation.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 
@@ -230,6 +231,18 @@ https://cspiration.com/leetcodeClassification
 | :--: | ------------------------------------------------------------ | :-----------------------------------------------------: |
 |28|[Implement strStr()](Solved/28-Implement-strStr()/Implement-strStr().md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|
 |14|[Longest Common Prefix](Solved/14-Longest-Common-Prefix/Longest-Common-Prefix.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|
+|58|[Length of Last Word](Solved/58-Length-of-Last-Word/Length-of-Last-Word.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Frequency
