@@ -37,7 +37,6 @@
            else if nums[m] < target: l = r + 1
            else return m
          ```
-       
    
 3. 移动两个指针（start与end）的含义？移动条件是什么（筛选掉一部分数据的依据）？循环的截止条件？
 
@@ -77,6 +76,8 @@
 
 
 
+一些不错的Binary Search FAQ：https://blog.csdn.net/xiao_jj_jj/article/details/106018702
+
 
 
 ## Binary Search Problems
@@ -85,8 +86,8 @@
 
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
-|704||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star::star:|
-|  34  ||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|704|[Binary Search](../Solved/704-Binary-Search/Binary-Search.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star::star:|
+|34|[Find First and Last Position of Element in Sorted Array](../Solved/34-Find-First-and-Last-Position-of-Element-in-Sorted-Array/Find-First-and-Last-Position-of-Element-in-Sorted-Array.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |702||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 |153||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 |154||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
