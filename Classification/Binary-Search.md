@@ -88,8 +88,8 @@
 | :--: | ------- | :---------: | :------: |
 |704|[Binary Search](../Solved/704-Binary-Search/Binary-Search.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star::star:|
 |34|[Find First and Last Position of Element in Sorted Array](../Solved/34-Find-First-and-Last-Position-of-Element-in-Sorted-Array/Find-First-and-Last-Position-of-Element-in-Sorted-Array.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|702||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
-|153||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
+|702|**Subscribe to unlock**|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
+|153|[Find Minimum in Rotated Sorted Array](../Solved/153-Find-Minimum-in-Rotated-Sorted-Array/Find-Minimum-in-Rotated-Sorted-Array.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 |154||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 |278||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 |658||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
