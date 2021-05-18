@@ -73,6 +73,9 @@
 11. 一些技巧
 
     - if语句中不要出现 else，而是把所有情况用 else if 写清楚，这样可以清楚地展现所有细节
+    - **<=** 和 **<** 对应的情况
+      - **<=** ：对应 + 1 与 - 1
+      - **<**： 对应 +1 与 m 或者 -1 与 m
 
 
 
@@ -91,7 +94,7 @@
 |702|**Subscribe to unlock**|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 |153|[Find Minimum in Rotated Sorted Array](../Solved/153-Find-Minimum-in-Rotated-Sorted-Array/Find-Minimum-in-Rotated-Sorted-Array.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 |154|[Find Minimum in Rotated Sorted Array II](../Solved/154-Find-Minimum-in-Rotated-Sorted-Array-II/Find-Minimum-in-Rotated-Sorted-Array-II.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
-|278||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
+|278|[First Bad Version](../Solved/278-First-Bad-Version/First-Bad-Version.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
 |658||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 
 
