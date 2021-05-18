@@ -190,11 +190,13 @@ Daily Leetcode
 
 
 
-## Classcification
+## Classification
 
 Source1: https://cspiration.com/leetcodeClassification
 
 Source2: https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=678970&extra=&authorid=682747&page=1
+
+
 
 Contents
 
