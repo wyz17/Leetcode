@@ -163,6 +163,7 @@ Daily Leetcode
 |141|[Linked List Cycle](Solved/141-Linked-List-Cycle/Linked-List-Cycle.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |151|[Reverse Words in a String](Solved/151-Reverse-Words-in-a-String/Reverse-Words-in-a-String.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |153|[Find Minimum in Rotated Sorted Array](Solved/153-Find-Minimum-in-Rotated-Sorted-Array/Find-Minimum-in-Rotated-Sorted-Array.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
+|154|[Find Minimum in Rotated Sorted Array II](Solved/154-Find-Minimum-in-Rotated-Sorted-Array-II/Find-Minimum-in-Rotated-Sorted-Array-II.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:heavy_check_mark:|
 |169|[Majority Element](Solved/169-Majority-Element/Majority-Element.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |189|[Rotate Array](Solved/189-Rotate-Array/Rotate-Array.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |206|[Reverse Linked List](Solved/206-Reverse-Linked-List/Reverse-Linked-List.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
