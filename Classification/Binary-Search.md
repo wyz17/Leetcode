@@ -95,7 +95,7 @@
 |153|[Find Minimum in Rotated Sorted Array](../Solved/153-Find-Minimum-in-Rotated-Sorted-Array/Find-Minimum-in-Rotated-Sorted-Array.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 |154|[Find Minimum in Rotated Sorted Array II](../Solved/154-Find-Minimum-in-Rotated-Sorted-Array-II/Find-Minimum-in-Rotated-Sorted-Array-II.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
 |278|[First Bad Version](../Solved/278-First-Bad-Version/First-Bad-Version.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
-|658||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
+|658|[Find K Closest Elements](../Solved/658-Find-K-Closest-Elements/Find-K-Closest-Elements.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 
 
 
@@ -104,8 +104,8 @@
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
 |  33  |[Search in Rotated Sorted Array](../Solved/32-Search-in-Rotated-Sorted-Array/Search-in-Rotated-Sorted-Array.md)|  ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)  | :star::star::star::star: |
-|  4   |           | ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |    :star::star::star:    |
-|  74  |           | ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |    :star::star::star:    |
+|  4   |           | ![](https://img.shields.io/badge/-Hard-red.svg) |    :star::star::star:    |
+|  74  | [Search a 2D Matrix](../Solved/74-Search-a-2D-Matrix/Search-a-2D-Matrix.md) | ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |    :star::star::star:    |
 | 162  |           | ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |    :star::star::star:    |
 | 302  |           | ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |       :star::star:       |
 | 852  |           | ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |       :star::star:       |
@@ -116,6 +116,6 @@
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
 |875||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
-|1283|[Rotate Image](Solved/48-Rotate-Image/Rotate-Image.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|69|[Spiral Matrix](Solved/54-Spiral-Matrix/Spiral-Matrix.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
+|1283||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|69|[Sqrt(x)](../Solved/69-Sqrtx/Sqrtx.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
 

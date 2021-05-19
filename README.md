@@ -12,7 +12,7 @@ Daily Leetcode
    * [Leetcode](#leetcode)
       * [Contents](#contents)
       * [Problems](#problems)
-      * [Classcification](#classcification)
+      * [Classification](#classification)
       * [Frequency](#frequency)
       * [Templates](#templates)
       * [Notes](#notes)
@@ -186,6 +186,7 @@ Daily Leetcode
 |387|[First Unique Character in a String](Solved/387-First-Unique-Character-in-a-String/First-Unique-Character-in-a-String.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |474|[Ones and Zeroes](Solved/474-Ones-and-Zeroes/Ones-and-Zeroes.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |640|[Solve the Equation](Solved/640-Solve-the-Equation/Solve-the-Equation.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
+|658|[Find K Closest Elements](Solved/658-Find-K-Closest-Elements/Find-K-Closest-Elements.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |704|[Binary Search](Solved/704-Binary-Search/Binary-Search.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 
 
