@@ -104,7 +104,7 @@
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
 |  33  |[Search in Rotated Sorted Array](../Solved/32-Search-in-Rotated-Sorted-Array/Search-in-Rotated-Sorted-Array.md)|  ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)  | :star::star::star::star: |
-|  4   |           | ![](https://img.shields.io/badge/-Hard-red.svg) |    :star::star::star:    |
+|  4   | [Median of Two Sorted Arrays](../Solved/4-Median-of-Two-Sorted-Arrays/Median-of-Two-Sorted-Arrays.md) | ![](https://img.shields.io/badge/-Hard-red.svg) |    :star::star::star:    |
 |  74  | [Search a 2D Matrix](../Solved/74-Search-a-2D-Matrix/Search-a-2D-Matrix.md) | ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |    :star::star::star:    |
 | 162  |           | ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |    :star::star::star:    |
 | 302  |           | ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |       :star::star:       |
