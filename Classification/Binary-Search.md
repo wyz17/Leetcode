@@ -113,9 +113,17 @@
 
 
 ### 答案二分法
+
+**Quotes**：
+
+1. 左边指针选择为最小的可以等于的数字，右边指针的选择为题目给出的数组中最大数字
+
+2. 都是另写一个方法获取一个值，从而帮助判断左右区间的移动
+
+
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
 |875|[Koko Eating Bananas](../Solved/875-Koko-Eating-Bananas/Koko-Eating-Bananas.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|1283|[Find the Smallest Divisor Given a Threshold](Solved/1283-Find-the-Smallest-Divisor-Given-a-Threshold/Find-the-Smallest-Divisor-Given-a-Threshold.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|1283|[Find the Smallest Divisor Given a Threshold](../Solved/1283-Find-the-Smallest-Divisor-Given-a-Threshold/Find-the-Smallest-Divisor-Given-a-Threshold.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |69|[Sqrt(x)](../Solved/69-Sqrtx/Sqrtx.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
 
