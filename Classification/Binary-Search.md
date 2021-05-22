@@ -106,16 +106,16 @@
 |  33  |[Search in Rotated Sorted Array](../Solved/32-Search-in-Rotated-Sorted-Array/Search-in-Rotated-Sorted-Array.md)|  ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)  | :star::star::star::star: |
 |  4   | [Median of Two Sorted Arrays](../Solved/4-Median-of-Two-Sorted-Arrays/Median-of-Two-Sorted-Arrays.md) | ![](https://img.shields.io/badge/-Hard-red.svg) |    :star::star::star:    |
 |  74  | [Search a 2D Matrix](../Solved/74-Search-a-2D-Matrix/Search-a-2D-Matrix.md) | ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |    :star::star::star:    |
-| 162  |           | ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |    :star::star::star:    |
-| 302  |           | ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |       :star::star:       |
-| 852  |           | ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |       :star::star:       |
+| 162  | [Find Peak Element](../Solved/162-Find-Peak-Element/Find-Peak-Element.md) | ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |    :star::star::star:    |
+| 302  | **Subscribe to unlock** | ![](https://img.shields.io/badge/-Hard-red.svg) |       :star::star:       |
+| 852  | [Peak Index in a Mountain Array](../Solved/852-Peak Index-in-a-Mountain-Array/Peak Index-in-a-Mountain-Array.md) | ![](https://img.shields.io/badge/-Easy-%235cb85c.svg) |       :star::star:       |
 
 
 
 ### 答案二分法
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
-|875||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
-|1283||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|875|[Koko Eating Bananas](../Solved/875-Koko-Eating-Bananas/Koko-Eating-Bananas.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|1283|[Find the Smallest Divisor Given a Threshold](Solved/1283-Find-the-Smallest-Divisor-Given-a-Threshold/Find-the-Smallest-Divisor-Given-a-Threshold.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |69|[Sqrt(x)](../Solved/69-Sqrtx/Sqrtx.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
 

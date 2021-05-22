@@ -32,7 +32,7 @@ Daily Leetcode
 |1|[Two Sum](Solved/1-Two-Sum/Two-Sum.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:ballot_box_with_check: JAVA|
 |2|[Add Two Numbers](Solved/2-Add-Two-Numbers/Add-Two-Numbers.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:ballot_box_with_check: Code|
 |3||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:ballot_box_with_check:|
-|4|[Median of Two Sorted Arrays](Solved/4-Median-of-Two-Sorted-Arrays/Median-of-Two-Sorted-Arrays.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
+|4|[Median of Two Sorted Arrays](Solved/4-Median-of-Two-Sorted-Arrays/Median-of-Two-Sorted-Arrays.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:heavy_check_mark:|
 |5|[Longest Palindromic Substring](Solved/5-Longest-Palindromic-Substring/Longest-Palindromic-Substring.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |6|[ZigZag Conversion](Solved/6-ZigZag-Conversion/ZigZag-Conversion.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:ballot_box_with_check: Python|
 |7|[Reverse Integer](Solved/7-Reverse-Integer/Reverse-Integer.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:ballot_box_with_check: Python|
@@ -164,6 +164,7 @@ Daily Leetcode
 |151|[Reverse Words in a String](Solved/151-Reverse-Words-in-a-String/Reverse-Words-in-a-String.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |153|[Find Minimum in Rotated Sorted Array](Solved/153-Find-Minimum-in-Rotated-Sorted-Array/Find-Minimum-in-Rotated-Sorted-Array.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |154|[Find Minimum in Rotated Sorted Array II](Solved/154-Find-Minimum-in-Rotated-Sorted-Array-II/Find-Minimum-in-Rotated-Sorted-Array-II.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:heavy_check_mark:|
+|162|[Find Peak Element](Solved/162-Find-Peak-Element/Find-Peak-Element.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |169|[Majority Element](Solved/169-Majority-Element/Majority-Element.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |189|[Rotate Array](Solved/189-Rotate-Array/Rotate-Array.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |206|[Reverse Linked List](Solved/206-Reverse-Linked-List/Reverse-Linked-List.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
@@ -188,6 +189,13 @@ Daily Leetcode
 |640|[Solve the Equation](Solved/640-Solve-the-Equation/Solve-the-Equation.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |658|[Find K Closest Elements](Solved/658-Find-K-Closest-Elements/Find-K-Closest-Elements.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |704|[Binary Search](Solved/704-Binary-Search/Binary-Search.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
+|852|[Peak Index in a Mountain Array](Solved/852-Peak Index-in-a-Mountain-Array/Peak Index-in-a-Mountain-Array.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
+|875|[Koko Eating Bananas](Solved/875-Koko-Eating-Bananas/Koko-Eating-Bananas.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
+|1283|[Find the Smallest Divisor Given a Threshold](Solved/1283-Find-the-Smallest-Divisor-Given-a-Threshold/Find-the-Smallest-Divisor-Given-a-Threshold.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
+
+
+
+
 
 
 
