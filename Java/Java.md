@@ -177,3 +177,11 @@ res.add(Arrays.asList(nums[i], nums[j], nums[l], nums[r]));
 
 - 删除首尾空格后需建立新字符串，最差情况下占用 O(N) 额外空间
 
+
+
+### 处理除法尾数的trick
+
+- ``` java
+  res += (num - 1) / k + 1
+  ```
+
