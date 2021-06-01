@@ -68,7 +68,7 @@
 |80|[Remove Duplicates from Sorted Array II](../Solved/80-Remove-Duplicates-from-Sorted-Array-II/Remove-Duplicates-from-Sorted-Array-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |88|[Merge Sorted Array](../Solved/88-Merge-Sorted-Array/Merge-Sorted-Array.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
 |283|[Move Zeroes](../Solved/283-Move-Zeroes/Move-Zeroes.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
-|215||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|215|[Kth Largest Element in an Array](../Solved/215-Kth-Largest-Element-in-an-Array/Kth-Largest-Element-in-an-Array.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |347||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |349||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
 |350||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
@@ -86,7 +86,7 @@
 |21|[Merge Two Sorted Lists](../Solved/21-Merge-Two-Sorted-Lists/Merge-Two-Sorted-Lists.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star::star:|
 |86|[Partition List](../Solved/86-Partition-List/Partition-List.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |141|[Linked List Cycle](../Solved/141-Linked-List-Cycle/Linked-List-Cycle.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
-|160||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
+|160|[Intersection of Two Linked Lists](../Solved/160-Intersection-of-Two-Linked-Lists/Intersection-of-Two-Linked-Lists.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
 |234|[Palindrome Linked List](../Solved/234-Palindrome-Linked-List/Palindrome-Linked-List.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
 |328||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |142||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
