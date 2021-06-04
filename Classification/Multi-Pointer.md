@@ -88,7 +88,7 @@
 |141|[Linked List Cycle](../Solved/141-Linked-List-Cycle/Linked-List-Cycle.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
 |160|[Intersection of Two Linked Lists](../Solved/160-Intersection-of-Two-Linked-Lists/Intersection-of-Two-Linked-Lists.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
 |234|[Palindrome Linked List](../Solved/234-Palindrome-Linked-List/Palindrome-Linked-List.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
-|328||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|328|[Odd Even Linked List](../Solved/328-Odd-Even-Linked-List/Odd-Even-Linked-List.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |142||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 |287|[Find the Duplicate Number](../Solved/287-Find-the-Duplicate-Number/Find-the-Duplicate-Number.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 |876||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
