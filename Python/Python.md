@@ -84,7 +84,7 @@ del dict          # 删除字典
 - 集合中不可以出现重复的元素
 - 初始化
   - 创建一个空集合必须用 **set()** 而不是 **{ }**，因为 **{ }** 是用来创建一个空字典。
-  - ``` s = {}```
+  - ``` s = set()```
 - 添加元素
   - ``` s.update( x )```
   - 将元素 x 添加到集合 s 中，如果元素已存在，则不进行任何操作。
@@ -317,15 +317,15 @@ c | d                       # 求最大
 
 - join方法
 	- ```python
-  listStr =  ['python', 'tab', '.com'] 
-  website = ''.join(listStr)
+    listStr =  ['python', 'tab', '.com'] 
+    website = ''.join(listStr)
 	  ```
 	- 使用略复杂，但对多个字符进行连接时效率高，只会有一次内存的申请。而且如果是对list的字符进行连接的时候，这种方法必须是首选
 
 - **替换**（pick这个！）
 	
   - ```python
-	website = '%s%s%s' % ('python', 'tab', '.com')
+	  website = '%s%s%s' % ('python', 'tab', '.com')
 	  ```
 	- 字符串格式化，这种方法非常用
 

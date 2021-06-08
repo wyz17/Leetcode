@@ -30,27 +30,6 @@
 
 ## Data Structure
 
-### HashMap
-
-- get()：指定键映射到的值，如果此映射不包含键的映射，则为NULL。
-- put()：当存在这个key的时候,会覆盖掉原来的value并返回oldvalue,也就是旧值。
-- containsKey(Object key)和containsValue(Object value)
-
-
-
-### Queue 队列
-
-- **add**    增加一个元素；如果队列已满，则抛出一个IIIegaISlabEepeplian异常
-- **remove**  移除并返回队列头部的元素 ，如果队列为空，则抛出一个NoSuchElementException异常
-- **element** 返回队列头部的元素；如果队列为空，则抛出一个NoSuchElementException异常
-- **offer**    添加一个元素并返回true；如果队列已满，则返回false
-- **poll**     移除并返问队列头部的元素；如果队列为空，则返回null
-- **peek**    返回队列头部的元素；如果队列为空，则返回null
-- **put**     添加一个元素；如果队列满，则阻塞
-- **take**    移除并返回队列头部的元素；如果队列为空，则阻塞
-
-
-
 ### Deque 双端队列
 
 - 普通队列（一端进另一端出）
@@ -88,6 +67,34 @@ Deque接口扩展（继承）了 Queue 接口。在将双端队列用作队列�
 | peek()       | peekFirst()       |
 
 
+
+### HashMap
+
+- get()：指定键映射到的值，如果此映射不包含键的映射，则为NULL。
+- put()：当存在这个key的时候,会覆盖掉原来的value并返回oldvalue,也就是旧值。
+- containsKey(Object key)和containsValue(Object value)
+
+
+
+### Queue 队列
+
+- **add**    增加一个元素；如果队列已满，则抛出一个IIIegaISlabEepeplian异常
+- **remove**  移除并返回队列头部的元素 ，如果队列为空，则抛出一个NoSuchElementException异常
+- **element** 返回队列头部的元素；如果队列为空，则抛出一个NoSuchElementException异常
+- **offer**    添加一个元素并返回true；如果队列已满，则返回false
+- **poll**     移除并返问队列头部的元素；如果队列为空，则返回null
+- **peek**    返回队列头部的元素；如果队列为空，则返回null
+- **put**     添加一个元素；如果队列满，则阻塞
+- **take**    移除并返回队列头部的元素；如果队列为空，则阻塞
+
+
+
+### Set
+
+- set中的数据不存在重复值
+- **初始化**：**Set\<Integer> set = new HashSet\<Integer>()**
+- **set.contains( x )**：set中是否存在x
+- **set.add(x)**：set中添加x
 
 
 

@@ -91,7 +91,7 @@
 |328|[Odd Even Linked List](../Solved/328-Odd-Even-Linked-List/Odd-Even-Linked-List.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |142|[Linked List Cycle II](../Solved/142-Linked-List-Cycle-II/Linked-List-Cycle-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 |287|[Find the Duplicate Number](../Solved/287-Find-the-Duplicate-Number/Find-the-Duplicate-Number.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
-|876||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
+|876|[Middle of the Linked List](../Solved/876-Middle-of-the-Linked-List/Middle-of-the-Linked-List.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
 
 
 
@@ -101,8 +101,8 @@
 |Lint-391|[Number of Airplanes in the Sky](https://www.lintcode.com/problem ... the-sky/description)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
 |56|[Merge Intervals](../Solved/56-Merge-Intervals/Merge-Intervals.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |57|[Insert Intervals](../Solved/57-Insert-Intervals/Insert-Intervals.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|252||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|253||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|252|Subscribe to unlock|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|253|Subscribe to unlock|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |986||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 
 
@@ -112,7 +112,7 @@
 | :--: | ------- | :---------: | :------: |
 |5|[Longest Palindromic Substring](../Solved/5-Longest-Palindromic-Substring/Longest-Palindromic-Substring.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |345|[Reverse Vowels of a String](../Solved/345-Reverse-Vowels-of-a-String/Reverse-Vowels-of-a-String.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
-|680||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|680|[Valid Palindrome II](../Solved/680-Valid-Palindrome-II/Valid-Palindrome-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |125|[Valid Palindrome](../Solved/125-Valid-Palindrome/Valid-Palindrome.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
 
 
