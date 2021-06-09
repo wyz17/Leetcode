@@ -195,7 +195,7 @@ Daily Leetcode
 |640|[Solve the Equation](Solved/640-Solve-the-Equation/Solve-the-Equation.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |658|[Find K Closest Elements](Solved/658-Find-K-Closest-Elements/Find-K-Closest-Elements.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |704|[Binary Search](Solved/704-Binary-Search/Binary-Search.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
-|852|[Peak Index in a Mountain Array](Solved/852-Peak Index-in-a-Mountain-Array/Peak Index-in-a-Mountain-Array.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
+|852|[Peak Index in a Mountain Array](Solved/852-Peak Index-in-a-Mountain-Array/Peak-Index-in-a-Mountain-Array.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |875|[Koko Eating Bananas](Solved/875-Koko-Eating-Bananas/Koko-Eating-Bananas.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |912|[Sort an Array](Solved/912-Sort-an-Array/Sort-an-Array.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |1283|[Find the Smallest Divisor Given a Threshold](Solved/1283-Find-the-Smallest-Divisor-Given-a-Threshold/Find-the-Smallest-Divisor-Given-a-Threshold.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
