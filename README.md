@@ -31,7 +31,7 @@ Daily Leetcode
 | :--: | ------------------------------------------------------------ | :-----------------------------------------------------: | ------------------------------ |
 |1|[Two Sum](Solved/1-Two-Sum/Two-Sum.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:ballot_box_with_check: JAVA|
 |2|[Add Two Numbers](Solved/2-Add-Two-Numbers/Add-Two-Numbers.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:ballot_box_with_check: Code|
-|3||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:ballot_box_with_check:|
+|3|[Longest Substring Without Repeating Characters](Solved/3-Longest-Substring-Without-Repeating-Characters/Longest-Substring-Without-Repeating-Characters.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:ballot_box_with_check:|
 |4|[Median of Two Sorted Arrays](Solved/4-Median-of-Two-Sorted-Arrays/Median-of-Two-Sorted-Arrays.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:heavy_check_mark:|
 |5|[Longest Palindromic Substring](Solved/5-Longest-Palindromic-Substring/Longest-Palindromic-Substring.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |6|[ZigZag Conversion](Solved/6-ZigZag-Conversion/ZigZag-Conversion.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:ballot_box_with_check: Python|

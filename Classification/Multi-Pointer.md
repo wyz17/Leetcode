@@ -121,7 +121,7 @@
 
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
-|3||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
+|3|[Longest Substring Without Repeating Characters](../Solved/3-Longest-Substring-Without-Repeating-Characters/Longest-Substring-Without-Repeating-Characters.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
 |11|[Container With Most Water](../Solved/11-Container-With-Most-Water/Container-With-Most-Water.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |76|[Minimum Window Substring](../Solved/76-Minimum-Window-Substring/Minimum-Window-Substring.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
 |209||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|

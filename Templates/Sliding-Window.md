@@ -32,6 +32,12 @@ Source：[LeetCode大佬的post](https://leetcode.com/problems/minimum-window-su
 
 ### 思路
 
+- 用i, j表示滑动窗口的左边界和右边界，通过改变i, j来扩展和收缩滑动窗口，可以想象成一个窗口在字符串上游走，当这个窗口包含的元素满足条件，即包含字符串T的所有元素，记录下这个滑动窗口的长度j-i+1，这些长度中的最小值就是要求的结果。
+  - 不断增加j使滑动窗口增大，直到窗口包含了T的所有元素
+  - 不断增加i使滑动窗口缩小，因为是要求最小字串，所以将不必要的元素排除在外，使长度减小，直到碰到一个必须包含的元素，这个时候不能再扔了，再扔就不满足条件了，记录此时滑动窗口的长度，并保存最小值
+  - 让i再增加一个位置，这个时候滑动窗口肯定不满足条件了，那么继续从步骤一开始执行，寻找新的满足条件的滑动窗口，如此反复，直到j超出了字符串S范围。
+
+
 
 
 ### Code
@@ -75,40 +81,4 @@ class Solution {
 }
 ```
 
-
-
-
-## Combination Sum
-
-### Solved
-
-[Combination Sum](../Solved/39-Combination-Sum/Combination-Sum.md)
-
-
-
-### Code
-
-
-
-## Combination Sum II
-
-
-
-## Palindrome Partitioning
-
-
-
-## Permutations
-
-
-
-## Permutations II
-
-
-
-## Subsets
-
-
-
-## Subsets II
 
