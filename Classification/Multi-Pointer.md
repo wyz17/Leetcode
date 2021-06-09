@@ -124,8 +124,8 @@
 |3|[Longest Substring Without Repeating Characters](../Solved/3-Longest-Substring-Without-Repeating-Characters/Longest-Substring-Without-Repeating-Characters.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
 |11|[Container With Most Water](../Solved/11-Container-With-Most-Water/Container-With-Most-Water.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |76|[Minimum Window Substring](../Solved/76-Minimum-Window-Substring/Minimum-Window-Substring.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
-|209||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
-|239||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
+|209|[Minimum Size Subarray Sum](../Solved/209-Minimum-Size-Subarray-Sum/Minimum-Size-Subarray-Sum.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|239||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
 |713||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
 |395||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
 |480||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
@@ -149,7 +149,7 @@
 
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
-|53|[Maximum Subarray](Solved/53-Maximum-Subarray/Maximum-Subarray.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star::star:|
+|53|[Maximum Subarray](../Solved/53-Maximum-Subarray/Maximum-Subarray.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star::star:|
 |238||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |303||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |325||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
