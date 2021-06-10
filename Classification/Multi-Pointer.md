@@ -11,7 +11,7 @@
          * [LinkedList](#linkedlist)
          * [Intervals 区间](#intervals-\xE5\x8C\xBA\xE9\x97\xB4)
          * [Palindrome 回文串](#palindrome-\xE5\x9B\x9E\xE6\x96\x87\xE4\xB8\xB2)
-         * [滑动窗口](#\xE6\xBB\x91\xE5\x8A\xA8\xE7\xAA\x97\xE5\x8F\xA3)
+         * [滑动窗口](#Sliding Window)
          * [Stream 流](#stream-\xE6\xB5\x81)
          * [前项和](#\xE5\x89\x8D\xE9\xA1\xB9\xE5\x92\x8C)
          * [Sum](#sum)
@@ -101,8 +101,8 @@
 |Lint-391|[Number of Airplanes in the Sky](https://www.lintcode.com/problem ... the-sky/description)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
 |56|[Merge Intervals](../Solved/56-Merge-Intervals/Merge-Intervals.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |57|[Insert Intervals](../Solved/57-Insert-Intervals/Insert-Intervals.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|252|Subscribe to unlock|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|253|Subscribe to unlock|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|252|**Subscribe to unlock**|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|253|**Subscribe to unlock**|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |986||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 
 
@@ -117,7 +117,7 @@
 
 
 
-### 滑动窗口
+### Sliding Window
 
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
@@ -126,11 +126,11 @@
 |76|[Minimum Window Substring](../Solved/76-Minimum-Window-Substring/Minimum-Window-Substring.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
 |209|[Minimum Size Subarray Sum](../Solved/209-Minimum-Size-Subarray-Sum/Minimum-Size-Subarray-Sum.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |239||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
-|713||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
-|395||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
-|480||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
-|567||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
-|727||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
+|713|[Subarray Product Less Than K](../Solved/713-Subarray-Product-Less-Than-K/Subarray-Product-Less-Than-K.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|395||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
+|480||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
+|567||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
+|727|**Subscribe to unlock**|![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
 
 
 
