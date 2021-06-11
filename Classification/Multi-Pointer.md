@@ -127,7 +127,7 @@
 |209|[Minimum Size Subarray Sum](../Solved/209-Minimum-Size-Subarray-Sum/Minimum-Size-Subarray-Sum.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |239||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
 |713|[Subarray Product Less Than K](../Solved/713-Subarray-Product-Less-Than-K/Subarray-Product-Less-Than-K.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|395||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
+|395|[Longest Substring with At Least K Repeating Characters](../Solved/395-Longest-Substring-with-At-Least-K-Repeating-Characters/Longest-Substring-with-At-Least-K-Repeating-Characters.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 |480||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
 |567||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 |727|**Subscribe to unlock**|![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
