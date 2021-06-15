@@ -192,3 +192,11 @@ res.add(Arrays.asList(nums[i], nums[j], nums[l], nums[r]));
   res += (num - 1) / k + 1
   ```
 
+
+
+### 判断两个Array是否相等
+
+- ```java
+  Arrays.equals(window, need)
+  ```
+
