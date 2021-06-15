@@ -178,6 +178,7 @@ Daily Leetcode
 |220|[Contains Duplicate III](Solved/220-Contains-Duplicate-III/Contains-Duplicate-III.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
 |229|[Majority Element II](Solved/229-Majority-Element-II/Majority-Element-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
 |234|[Palindrome Linked List](Solved/234-Palindrome-Linked-List/Palindrome-Linked-List.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
+|239|[Sliding Window Maximum](Solved/239-Sliding-Window-Maximum/Sliding-Window-Maximum.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
 |274|[H-Index](Solved/274-H-Index/H-Index.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |275|[H-Index-II](Solved/275-H-Index-II/H-Index-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |278|[First Bad Version](Solved/278-First-Bad-Version/First-Bad-Version.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
