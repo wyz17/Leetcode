@@ -158,6 +158,33 @@ if not list_2:
 
 
 
+### Heap（小根堆）
+
+- 初始化
+
+  - 	```python
+      heap = []
+      for num in nums:
+      heapq.heappush(heap, num)  # 加入堆
+  - 	```python
+  nums = [2, 3, 5, 1, 54, 23, 132]
+  heapq.heapify(nums)
+  print([heapq.heappop(nums) for _ in range(len(nums))])  # 堆排序结果
+
+- 添加一个元素：```heappush(heap, x)```
+
+- 删除一个元素（从堆中弹出最小的元素）：```heappop(heap)```
+
+- 列表初始化成堆：```heapify(heap)```
+
+- 删除最小的元素，并添加x：```heapreplace(heap, x)```
+
+- 返回堆中n个最大的元素：```nlargest(n, iter)```
+
+- 返回堆中n个最小的元素：```nsmallest(n, iter)```
+
+
+
 ### 双端队列（Deque）
 
 - 初始化：``` d = deque()```

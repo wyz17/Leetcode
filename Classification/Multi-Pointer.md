@@ -125,7 +125,7 @@
 |11|[Container With Most Water](../Solved/11-Container-With-Most-Water/Container-With-Most-Water.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |76|[Minimum Window Substring](../Solved/76-Minimum-Window-Substring/Minimum-Window-Substring.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
 |209|[Minimum Size Subarray Sum](../Solved/209-Minimum-Size-Subarray-Sum/Minimum-Size-Subarray-Sum.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|239||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
+|239|[Sliding Window Maximum](../Solved/239-Sliding-Window-Maximum/Sliding-Window-Maximum.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
 |713|[Subarray Product Less Than K](../Solved/713-Subarray-Product-Less-Than-K/Subarray-Product-Less-Than-K.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |395|[Longest Substring with At Least K Repeating Characters](../Solved/395-Longest-Substring-with-At-Least-K-Repeating-Characters/Longest-Substring-with-At-Least-K-Repeating-Characters.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 |480||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
@@ -138,10 +138,10 @@
 
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
-|295||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|346||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
-|352||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
-|703||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
+|295||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
+|346|**Subscribe to unlock**|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
+|352||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
+|703|[Kth Largest Element in a Stream](../Solved/703-Kth-Largest-Element-in-a-Stream/Kth-Largest-Element-in-a-Stream.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
 
 
 

@@ -11,12 +11,12 @@
       * [Contents](#contents)
       * [Data Structure](#data-structure)
          * [HashMap](#hashmap)
-         * [Queue 队列](#queue-\xE9\x98\x9F\xE5\x88\x97)
-         * [Deque 双端队列](#deque-\xE5\x8F\x8C\xE7\xAB\xAF\xE9\x98\x9F\xE5\x88\x97)
+         * [Queue 队列](#queue-队列)
+         * [Deque 双端队列](#deque-双端队列)
       * [Others](#others)
          * [Arrays.sort()](#arrayssort)
-         * [溢出处理](#\xE6\xBA\xA2\xE5\x87\xBA\xE5\xA4\x84\xE7\x90\x86)
-         * [判断int整型溢出处理](#\xE5\x88\xA4\xE6\x96\xADint\xE6\x95\xB4\xE5\x9E\x8B\xE6\xBA\xA2\xE5\x87\xBA\xE5\xA4\x84\xE7\x90\x86)
+         * [溢出处理](#溢出处理)
+         * [判断int整型溢出处理](#判断int整型溢出处理)
          * [判断字符是否是数字的方法](#\xE5\x88\xA4\xE6\x96\xAD\xE5\xAD\x97\xE7\xAC\xA6\xE6\x98\xAF\xE5\x90\xA6\xE6\x98\xAF\xE6\x95\xB0\xE5\xAD\x97\xE7\x9A\x84\xE6\x96\xB9\xE6\xB3\x95)
          * [相似问题返回正负的处理方法](#\xE7\x9B\xB8\xE4\xBC\xBC\xE9\x97\xAE\xE9\xA2\x98\xE8\xBF\x94\xE5\x9B\x9E\xE6\xAD\xA3\xE8\xB4\x9F\xE7\x9A\x84\xE5\xA4\x84\xE7\x90\x86\xE6\x96\xB9\xE6\xB3\x95)
          * [一行新建list的方法](#\xE4\xB8\x80\xE8\xA1\x8C\xE6\x96\xB0\xE5\xBB\xBAlist\xE7\x9A\x84\xE6\x96\xB9\xE6\xB3\x95)
@@ -29,6 +29,19 @@
 
 
 ## Data Structure
+
+### Queue 队列
+
+- **add**    增加一个元素；如果队列已满，则抛出一个IIIegaISlabEepeplian异常
+- **remove**  移除并返回队列头部的元素 ，如果队列为空，则抛出一个NoSuchElementException异常
+- **element** 返回队列头部的元素；如果队列为空，则抛出一个NoSuchElementException异常
+- **offer**    添加一个元素并返回true；如果队列已满，则返回false
+- **poll**     移除并返问队列头部的元素；如果队列为空，则返回null
+- **peek**    返回队列头部的元素；如果队列为空，则返回null
+- **put**     添加一个元素；如果队列满，则阻塞
+- **take**    移除并返回队列头部的元素；如果队列为空，则阻塞
+
+
 
 ### Deque 双端队列
 
@@ -68,24 +81,33 @@ Deque接口扩展（继承）了 Queue 接口。在将双端队列用作队列�
 
 
 
+### Priority Queue 优先队列
+
+- **优先队列的作用是能保证每次取出的元素都是队列中权值最小的**（Java的优先队列每次取最小元素，C++的优先队列每次取最大元素）
+- Java中*PriorityQueue*实现了*Queue*接口，不允许放入`null`元素
+- 其通过堆实现，具体说是通过完全二叉树实现的**小顶堆**（任意一个非叶子节点的权值，都不大于其左右子节点的权值），也就意味着可以通过数组来作为*PriorityQueue*的底层实现。
+- **初始化**：```PriorityQueue<Integer> q = new PriorityQueue<Integer>(nums);```
+- add()：向优先队列中插入元素，插入失败时抛出异常
+- offer()：向优先队列中插入元素，插入失败后则会返回`false`
+- element()：获取但不删除队首元素，也就是队列中权值最小的那个元素，当方法失败时前者抛出异常
+- peek()：获取但不删除队首元素，也就是队列中权值最小的那个元素，当方法失败时返回`null`
+  - 根据小顶堆的性质，堆顶那个元素就是全局最小的那个
+  - 由于堆用数组表示，根据下标关系，`0`下标处的那个元素既是堆顶元素
+  - 所以**直接返回数组`0`下标处的那个元素即可**
+- remove()：获取并删除队首元素，当方法失败时抛出异常
+- poll()：获取并删除队首元素，当方法失败时返回`null`
+- remove(Object o)：删除队列中跟`o`相等的某一个元素（如果有多个相等，只删除一个）
+- reference：https://www.cnblogs.com/Elliott-Su-Faith-change-our-life/p/7472265.html
+
+
+
+
+
 ### HashMap
 
 - get()：指定键映射到的值，如果此映射不包含键的映射，则为NULL。
 - put()：当存在这个key的时候,会覆盖掉原来的value并返回oldvalue,也就是旧值。
 - containsKey(Object key)和containsValue(Object value)
-
-
-
-### Queue 队列
-
-- **add**    增加一个元素；如果队列已满，则抛出一个IIIegaISlabEepeplian异常
-- **remove**  移除并返回队列头部的元素 ，如果队列为空，则抛出一个NoSuchElementException异常
-- **element** 返回队列头部的元素；如果队列为空，则抛出一个NoSuchElementException异常
-- **offer**    添加一个元素并返回true；如果队列已满，则返回false
-- **poll**     移除并返问队列头部的元素；如果队列为空，则返回null
-- **peek**    返回队列头部的元素；如果队列为空，则返回null
-- **put**     添加一个元素；如果队列满，则阻塞
-- **take**    移除并返回队列头部的元素；如果队列为空，则阻塞
 
 
 
