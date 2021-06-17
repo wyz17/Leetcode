@@ -14,7 +14,7 @@
 
 #### 步骤
 
-- 状态方程：``` dp: max( dp[ i ] ) = getMax( max( dp[ i -1 ] ) + arr[ i ] ,arr[ i ] )```
+- 状态方程：``` dp: max( dp[ i ] ) = getMax( max( dp[ i -1 ] ) + arr[ i ], arr[ i ] )```
 
 
 

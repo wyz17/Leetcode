@@ -178,6 +178,7 @@ Daily Leetcode
 |220|[Contains Duplicate III](Solved/220-Contains-Duplicate-III/Contains-Duplicate-III.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
 |229|[Majority Element II](Solved/229-Majority-Element-II/Majority-Element-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
 |234|[Palindrome Linked List](Solved/234-Palindrome-Linked-List/Palindrome-Linked-List.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
+|238|[Product of Array Except Self](Solved/238-Product-of-Array-Except-Self/Product-of-Array-Except-Self.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |239|[Sliding Window Maximum](Solved/239-Sliding-Window-Maximum/Sliding-Window-Maximum.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
 |274|[H-Index](Solved/274-H-Index/H-Index.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |275|[H-Index-II](Solved/275-H-Index-II/H-Index-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
@@ -185,6 +186,7 @@ Daily Leetcode
 |283|[Move Zeroes](Solved/283-Move-Zeroes/Move-Zeroes.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |287|[Find the Duplicate Number](Solved/287-Find-the-Duplicate-Number/Find-the-Duplicate-Number.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |299|[Bulls and Cows](Solved/299-Bulls-and-Cows/Bulls-and-Cows.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
+|303|[Range Sum Query - Immutable](Solved/303-Range-Sum-Query-Immutable/Range-Sum-Query-Immutable.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |309|[Best Time to Buy and Sell Stock with Cooldown](Solved/309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown/Best-Time-to-Buy-and-Sell-Stock-with-Cooldown.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
 |328|[Odd Even Linked List](Solved/328-Odd-Even-Linked-List/Odd-Even-Linked-List.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |334|[Increasing Triplet Subsequence](Solved/334-Increasing-Triplet-Subsequence/Increasing-Triplet-Subsequence.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
@@ -194,6 +196,7 @@ Daily Leetcode
 |387|[First Unique Character in a String](Solved/387-First-Unique-Character-in-a-String/First-Unique-Character-in-a-String.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |395|[Longest Substring with At Least K Repeating Characters](Solved/395-Longest-Substring-with-At-Least-K-Repeating-Characters/Longest-Substring-with-At-Least-K-Repeating-Characters.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
 |474|[Ones and Zeroes](Solved/474-Ones-and-Zeroes/Ones-and-Zeroes.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
+|528|[Random Pick with Weight](Solved/528-Random-Pick-with-Weight/Random-Pick-with-Weight.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |567|[Permutation in String](Solved/567-Permutation-in-String/Permutation-in-String.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |640|[Solve the Equation](Solved/640-Solve-the-Equation/Solve-the-Equation.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |658|[Find K Closest Elements](Solved/658-Find-K-Closest-Elements/Find-K-Closest-Elements.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
