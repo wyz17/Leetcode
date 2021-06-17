@@ -153,7 +153,7 @@
 |238|[Product of Array Except Self](../Solved/238-Product-of-Array-Except-Self/Product-of-Array-Except-Self.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |303|[Range Sum Query - Immutable](../Solved/303-Range-Sum-Query-Immutable/Range-Sum-Query-Immutable.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
 |325|**Subscribe to unlock**|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|528||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|528|[Random Pick with Weight](../Solved/528-Random-Pick-with-Weight/Random-Pick-with-Weight.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |560||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 
 

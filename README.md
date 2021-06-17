@@ -197,6 +197,7 @@ Daily Leetcode
 |395|[Longest Substring with At Least K Repeating Characters](Solved/395-Longest-Substring-with-At-Least-K-Repeating-Characters/Longest-Substring-with-At-Least-K-Repeating-Characters.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
 |474|[Ones and Zeroes](Solved/474-Ones-and-Zeroes/Ones-and-Zeroes.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |528|[Random Pick with Weight](Solved/528-Random-Pick-with-Weight/Random-Pick-with-Weight.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
+|560|[Subarray Sum Equals K](Solved/560-Subarray-Sum-Equals-K/Subarray-Sum-Equals-K.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |567|[Permutation in String](Solved/567-Permutation-in-String/Permutation-in-String.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |640|[Solve the Equation](Solved/640-Solve-the-Equation/Solve-the-Equation.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |658|[Find K Closest Elements](Solved/658-Find-K-Closest-Elements/Find-K-Closest-Elements.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
