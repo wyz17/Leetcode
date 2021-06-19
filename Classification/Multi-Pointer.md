@@ -154,7 +154,7 @@
 |303|[Range Sum Query - Immutable](../Solved/303-Range-Sum-Query-Immutable/Range-Sum-Query-Immutable.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
 |325|**Subscribe to unlock**|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |528|[Random Pick with Weight](../Solved/528-Random-Pick-with-Weight/Random-Pick-with-Weight.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|560||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|560|[Subarray Sum Equals K](../Solved/560-Subarray-Sum-Equals-K/Subarray-Sum-Equals-K.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 
 
 
@@ -164,8 +164,8 @@
 |1|[Two Sum](Solved/1-Two-Sum/Two-Sum.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star::star:|
 |15|[3 Sum](Solved/15-3Sum/3Sum.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |18|[4 Sum](Solved/18-4Sum/4Sum.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|167||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
-|170||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
+|167|[Two Sum II - Input array is sorted](../Solved/167-Two-Sum-II-Input-array-is-sorted/Two-Sum-II-Input-array-is-sorted.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
+|170|**Subscribe to unlock**|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
 |653||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
-|1099||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
-|259||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
+|1099|**Subscribe to unlock**|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
+|259|**Subscribe to unlock**|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
