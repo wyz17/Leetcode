@@ -235,7 +235,7 @@ Contents
 - [Binary Tree and Recursive](Classification/Binary-Tree-and-Recursive.md)
 - [Depth First Search](Classification/DFS.md)
 - [Data Structure](Classification/Data-Structure.md)
-- [Dynamic Programming](Classification/DFS.md)
+- [Dynamic Programming](Classification/DP.md)
 
 
 
