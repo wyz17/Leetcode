@@ -166,6 +166,6 @@
 |18|[4 Sum](Solved/18-4Sum/4Sum.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |167|[Two Sum II - Input array is sorted](../Solved/167-Two-Sum-II-Input-array-is-sorted/Two-Sum-II-Input-array-is-sorted.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
 |170|**Subscribe to unlock**|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
-|653||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
+|653|[Two Sum IV - Input is a BST](../Solved/653-Two-Sum-IV-Input-is-a-BST/Two-Sum-IV-Input-is-a-BST.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
 |1099|**Subscribe to unlock**|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
 |259|**Subscribe to unlock**|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|

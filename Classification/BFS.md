@@ -39,11 +39,12 @@
 
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
-|297||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star::star:|
-|102|[Binary Tree Level Order Traversal](Solved/102-Binary-Tree-Level-Order-Traversal/Binary-Tree-Level-Order-Traversal.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|103|[Binary Tree Zigzag Level Order Traversal](Solved/103-Binary-Tree-Zigzag-Level-Order-Traversal/Binary-Tree-Zigzag-Level-Order-Traversal.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|107|[Binary Tree Level Order Traversal II](Solved/107-Binary-Tree-Level-Order-Traversal-II/Binary-Tree-Level-Order-Traversal-II.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
-|513||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|297|[Serialize and Deserialize Binary Tree](../Solved/297-Serialize-and-Deserialize-Binary-Tree/Serialize-and-Deserialize-Binary-Tree.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star::star:|
+|102|[Binary Tree Level Order Traversal](../Solved/102-Binary-Tree-Level-Order-Traversal/Binary-Tree-Level-Order-Traversal.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|103|[Binary Tree Zigzag Level Order Traversal](../Solved/103-Binary-Tree-Zigzag-Level-Order-Traversal/Binary-Tree-Zigzag-Level-Order-Traversal.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|107|[Binary Tree Level Order Traversal II](../Solved/107-Binary-Tree-Level-Order-Traversal-II/Binary-Tree-Level-Order-Traversal-II.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
+|513|[Find Bottom Left Tree Value](../Solved/513-Find-Bottom-Left-Tree-Value/Find-Bottom-Left-Tree-Value.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|  Lint-242  |https://www.lintcode.com/problem/242/|  ![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
 
 
 
