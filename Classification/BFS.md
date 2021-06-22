@@ -48,12 +48,23 @@
 
 
 
-### 拓扑排序
+### 拓扑排序（Topological Sorting）
+
+拓扑排序：当做一件事情时必须先做某一件事，这样就有了事情实行的先后顺序。比如任务的先后，穿衣服的先后，课程学习的先后等等，为这些先后进行排序就是拓扑排序
+
+BFS实现方法：
+
+- 首先将入度为0的点插入队列中（因为入度为0，没有结点是它的父结点，也就是说没有结点要比它先完成，所以它的顺序一定是第一个）
+- 再将队列队头结点取出并出队
+- 找到此结点的邻接结点，将这些邻接结点的入度减一
+- 如果减一后有结点入度为0，继续插入队列中…….依次往下
+
+
 
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
 |  Lint-127  |https://www.lintcode.com/problem/topological-sorting/description|  ![](https://img.shields.io/badge/-Easy-%235cb85c.svg)  | :star::star::star::star: |
-|  207  |           | ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |    :star::star::star:    |
+|  207  | [Course Schedule](../Solved/207-Course-Schedule/Course-Schedule.md) | ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |    :star::star::star:    |
 |  210  |           | ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |    :star::star::star:    |
 | 269 |           | ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |    :star::star::star:    |
 | 444 |           | ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |       :star::star:       |

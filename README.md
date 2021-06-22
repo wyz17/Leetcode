@@ -171,7 +171,9 @@ Daily Leetcode
 |169|[Majority Element](Solved/169-Majority-Element/Majority-Element.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |189|[Rotate Array](Solved/189-Rotate-Array/Rotate-Array.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |206|[Reverse Linked List](Solved/206-Reverse-Linked-List/Reverse-Linked-List.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
+|207|[Course Schedule](Solved/207-Course-Schedule/Course-Schedule.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button: DFS|
 |209|[Minimum Size Subarray Sum](Solved/209-Minimum-Size-Subarray-Sum/Minimum-Size-Subarray-Sum.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
+|210|[Course Schedule II](Solved/210-Course-Schedule-II/Course-Schedule-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)||
 |212|[Word Search II](Solved/212-Word-Search-II/Word-Search-II.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
 |215|[Kth Largest Element in an Array](Solved/215-Kth-Largest-Element-in-an-Array/Kth-Largest-Element-in-an-Array.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
 |217|[Contains Duplicate](Solved/217-Contains-Duplicate/Contains-Duplicate.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
