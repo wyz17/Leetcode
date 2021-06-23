@@ -78,7 +78,7 @@ BFS实现方法：
 |490|**Subscribe to unlock**|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |505|**Subscribe to unlock**|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |542|[01 Matrix](../Solved/542-01-Matrix/01-Matrix.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|733||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|733|[Flood Fill](../Solved/733-Flood-Fill/Flood-Fill.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
 |994||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |305||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 |773||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
