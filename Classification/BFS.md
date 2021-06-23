@@ -48,7 +48,7 @@
 
 
 
-### 拓扑排序（Topological Sorting）
+### Topological Sorting（拓扑排序）
 
 拓扑排序：当做一件事情时必须先做某一件事，这样就有了事情实行的先后顺序。比如任务的先后，穿衣服的先后，课程学习的先后等等，为这些先后进行排序就是拓扑排序
 
@@ -63,21 +63,21 @@ BFS实现方法：
 
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
-|  Lint-127  |https://www.lintcode.com/problem/topological-sorting/description|  ![](https://img.shields.io/badge/-Easy-%235cb85c.svg)  | :star::star::star::star: |
+|  Lint-127  |[Topological Sorting](../Solved/Lint127-Topological-Sorting/Topological-Sorting.md)|  ![](https://img.shields.io/badge/-Medium-%23FFA500.svg)  | :star::star::star::star: |
 |  207  | [Course Schedule](../Solved/207-Course-Schedule/Course-Schedule.md) | ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |    :star::star::star:    |
-|  210  |           | ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |    :star::star::star:    |
-| 269 |           | ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |    :star::star::star:    |
-| 444 |           | ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |       :star::star:       |
+|  210  | [Course Schedule II](Solved/210-Course-Schedule-II/Course-Schedule-II.md) | ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |    :star::star::star:    |
+| 269 | **Subscribe to unlock** | ![](https://img.shields.io/badge/-Hard-red.svg) |    :star::star::star:    |
+| 444 | **Subscribe to unlock** | ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |       :star::star:       |
 
 
 
 ### Matrix
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
-|200||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star::star:|
-|490||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|505||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|542||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|200|[Number of Islands](../Solved/200-Number-of-Islands/Number-of-Islands.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
+|490|**Subscribe to unlock**|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|505|**Subscribe to unlock**|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|542|[01 Matrix](../Solved/542-01-Matrix/01-Matrix.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |733||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |994||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |305||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
