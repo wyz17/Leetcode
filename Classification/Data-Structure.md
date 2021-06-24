@@ -20,7 +20,7 @@
          * [Binary Index Tree &amp; Segment Tree](#binary-index-tree--segment-tree)
          * [Complex Data Structure](#complex-data-structure)
 
-<!-- Added by: weiyizhi, at: 2021年 5月13日 星期四 17时57分58秒 CST -->
+<!-- Added by: weiyizhi, at: Thu Jun 24 20:24:44 CST 2021 -->
 
 <!--te-->
 

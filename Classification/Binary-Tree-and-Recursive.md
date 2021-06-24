@@ -10,13 +10,13 @@
          * [Binary Tree Traversal](#binary-tree-traversal)
          * [Reconstruct Binary Tree](#reconstruct-binary-tree)
          * [Iterator Problems](#iterator-problems)
-         * [判断树的形态](#\xE5\x88\xA4\xE6\x96\xAD\xE6\xA0\x91\xE7\x9A\x84\xE5\xBD\xA2\xE6\x80\x81)
+         * [判断树的形态](#判断树的形态)
          * [SubTree Problems](#subtree-problems)
          * [Path Problems](#path-problems)
          * [LCA Problems](#lca-problems)
          * [Others](#others)
 
-<!-- Added by: weiyizhi, at: 2021年 5月13日 星期四 17时58分00秒 CST -->
+<!-- Added by: weiyizhi, at: Thu Jun 24 20:24:47 CST 2021 -->
 
 <!--te-->
 

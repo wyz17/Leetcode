@@ -3,19 +3,15 @@
 ## Contents
 
 <!--ts-->
-   * [Dynamic Programming](#dynamic-programming)
+   * [Depth First Search](#depth-first-search)
       * [Contents](#contents)
       * [Key Concepts](#key-concepts)
-      * [Dynamic Programming Problems](#dynamic-programming-problems)
-         * [Backpack](#backpack)
-         * [Single Sequence](#single-sequence)
-         * [Double Sequences](#double-sequences)
-         * [Sections](#sections)
-         * [Matrix](#matrix)
-         * [Others](#others)
-         * [Greedy](#greedy)
+      * [Depth First Search Problems](#depth-first-search-problems)
+         * [Combination](#combination)
+         * [Binary Tree](#binary-tree)
+         * [Graph](#graph)
 
-<!-- Added by: weiyizhi, at: 2021年 5月13日 星期四 17时57分59秒 CST -->
+<!-- Added by: weiyizhi, at: Thu Jun 24 20:24:45 CST 2021 -->
 
 <!--te-->
 

@@ -8,11 +8,11 @@
       * [Key Concepts](#key-concepts)
       * [Breath First Search Problems](#breath-first-search-problems)
          * [Binary Tree](#binary-tree)
-         * [拓扑排序](#\xE6\x8B\x93\xE6\x89\x91\xE6\x8E\x92\xE5\xBA\x8F)
+         * [Topological Sorting](#topological-sorting)
          * [Matrix](#matrix)
          * [Graph](#graph)
 
-<!-- Added by: weiyizhi, at: 2021年 5月13日 星期四 17时57分59秒 CST -->
+<!-- Added by: weiyizhi, at: Thu Jun 24 20:28:06 CST 2021 -->
 
 <!--te-->
 
@@ -48,7 +48,7 @@
 
 
 
-### Topological Sorting（拓扑排序）
+### Topological Sorting
 
 拓扑排序：当做一件事情时必须先做某一件事，这样就有了事情实行的先后顺序。比如任务的先后，穿衣服的先后，课程学习的先后等等，为这些先后进行排序就是拓扑排序
 
@@ -79,9 +79,9 @@ BFS实现方法：
 |505|**Subscribe to unlock**|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |542|[01 Matrix](../Solved/542-01-Matrix/01-Matrix.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |733|[Flood Fill](../Solved/733-Flood-Fill/Flood-Fill.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
-|994||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|305||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
-|773||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
+|994|[Rotting Oranges](../Solved/994-Rotting-Oranges/Rotting-Oranges.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|305|**Subscribe to unlock**|![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
+|773|[Sliding Puzzle](../Solved/773-Sliding-Puzzle/Sliding-Puzzle.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
 
 
 
@@ -89,10 +89,10 @@ BFS实现方法：
 
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
-|133||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star::star:|
-|127||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|261||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|133||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
+|127||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
+|261|**Subscribe to unlock**|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |841||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|323||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
+|323|**Subscribe to unlock**|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 |1306||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 

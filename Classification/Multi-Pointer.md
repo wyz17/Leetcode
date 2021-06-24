@@ -9,14 +9,14 @@
       * [Multi-Pointer Problems](#multi-pointer-problems)
          * [Array](#array)
          * [LinkedList](#linkedlist)
-         * [Intervals 区间](#intervals-\xE5\x8C\xBA\xE9\x97\xB4)
-         * [Palindrome 回文串](#palindrome-\xE5\x9B\x9E\xE6\x96\x87\xE4\xB8\xB2)
-         * [滑动窗口](#Sliding Window)
-         * [Stream 流](#stream-\xE6\xB5\x81)
-         * [前项和](#\xE5\x89\x8D\xE9\xA1\xB9\xE5\x92\x8C)
+         * [Intervals](#intervals)
+         * [Palindrome](#palindrome)
+         * [Sliding Window](#sliding-window)
+         * [Stream](#stream)
+         * [前项和](#前项和)
          * [Sum](#sum)
 
-<!-- Added by: weiyizhi, at: 2021年 5月13日 星期四 17时57分57秒 CST -->
+<!-- Added by: weiyizhi, at: Thu Jun 24 20:27:24 CST 2021 -->
 
 <!--te-->
 
@@ -95,7 +95,7 @@
 
 
 
-### Intervals 区间
+### Intervals
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
 |Lint-391|[Number of Airplanes in the Sky](https://www.lintcode.com/problem ... the-sky/description)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
@@ -107,7 +107,7 @@
 
 
 
-### Palindrome 回文串
+### Palindrome
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
 |5|[Longest Palindromic Substring](../Solved/5-Longest-Palindromic-Substring/Longest-Palindromic-Substring.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
@@ -134,7 +134,7 @@
 
 
 
-### Stream 流
+### Stream
 
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |

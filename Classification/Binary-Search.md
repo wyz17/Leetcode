@@ -3,7 +3,6 @@
 ## Contents
 
 <!--ts-->
-
    * [Binary Search](#binary-search)
       * [Contents](#contents)
       * [Key Concepts](#key-concepts)
@@ -12,7 +11,7 @@
          * [条件二分法](#条件二分法)
          * [答案二分法](#答案二分法)
 
-<!-- Added by: weiyizhi, at: 2021年 5月13日 星期四 17时57分56秒 CST -->
+<!-- Added by: weiyizhi, at: Thu Jun 24 20:24:42 CST 2021 -->
 
 <!--te-->
 
