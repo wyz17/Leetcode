@@ -121,6 +121,7 @@ Deque接口扩展（继承）了 Queue 接口。在将双端队列用作队列�
 - **初始化**：**Set\<Integer> set = new HashSet\<Integer>()**
 - **set.contains( x )**：set中是否存在x
 - **set.add(x)**：set中添加x
+- **set.size()**：set的长度
 
 
 
