@@ -92,7 +92,7 @@ BFS实现方法：
 |133|[Clone Graph](../Solved/133-Clone-Graph/Clone-Graph.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
 |127||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
 |261|**Subscribe to unlock**|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|841||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|841|[Keys and Rooms](../Solved/841-Keys-and-Rooms/Keys-and-Rooms.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |323|**Subscribe to unlock**|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
-|1306||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
+|1306|[Jump Game III](../Solved/1306-Jump-Game-III/Jump-Game-III.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 

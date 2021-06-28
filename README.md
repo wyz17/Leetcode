@@ -159,7 +159,7 @@ Daily Leetcode
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
 |125|[Valid Palindrome](Solved/125-Valid-Palindrome/Valid-Palindrome.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
-|127|[Word Ladder](https://leetcode.com/problems/word-ladder)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
+|127|[Word Ladder](Solved/127-Word-Ladder/Word-Ladder.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
 |129|[Sum Root to Leaf Numbers](Solved/129-Sum-Root-to-Leaf-Numbers/Sum-Root-to-Leaf-Numbers.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |130|[Surrounded Regions](Solved/130-Surrounded-Regions/Surrounded-Regions.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
@@ -225,6 +225,7 @@ Daily Leetcode
 |912|[Sort an Array](Solved/912-Sort-an-Array/Sort-an-Array.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |994|[Rotting Oranges](Solved/994-Rotting-Oranges/Rotting-Oranges.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |1283|[Find the Smallest Divisor Given a Threshold](Solved/1283-Find-the-Smallest-Divisor-Given-a-Threshold/Find-the-Smallest-Divisor-Given-a-Threshold.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
+|1306|[Jump Game III](Solved/1306-Jump-Game-III/Jump-Game-III.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button: DFS|
 
 
 
