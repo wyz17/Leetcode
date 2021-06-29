@@ -224,6 +224,7 @@ Daily Leetcode
 |841|[Keys and Rooms](Solved/841-Keys-and-Rooms/Keys-and-Rooms.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button: DFS|
 |852|[Peak Index in a Mountain Array](Solved/852-Peak Index-in-a-Mountain-Array/Peak-Index-in-a-Mountain-Array.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |875|[Koko Eating Bananas](Solved/875-Koko-Eating-Bananas/Koko-Eating-Bananas.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
+|889|[Construct Binary Tree from Preorder and Postorder Traversal](Solved/889-Construct-Binary-Tree-from-Preorder-and-Postorder-Traversal/Construct-Binary-Tree-from-Preorder-and-Postorder-Traversal.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)||
 |912|[Sort an Array](Solved/912-Sort-an-Array/Sort-an-Array.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |994|[Rotting Oranges](Solved/994-Rotting-Oranges/Rotting-Oranges.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |1283|[Find the Smallest Divisor Given a Threshold](Solved/1283-Find-the-Smallest-Divisor-Given-a-Threshold/Find-the-Smallest-Divisor-Given-a-Threshold.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|

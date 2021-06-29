@@ -44,7 +44,7 @@
 | :--: | ------- | :---------: | :------: |
 |94|[Binary Tree Inorder Traversal](Solved/94-Binary-Tree-Inorder-Traversal/Binary-Tree-Inorder-Traversal.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
 |144|[Binary Tree Preorder Traversal](../Solved/144-Binary-Tree-Preorder-Traversal/Binary-Tree-Preorder-Traversal.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star::star:|
-|145||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
+|145|[Binary Tree Postorder Traversal](../Solved/145-Binary-Tree-Postorder-Traversal/Binary-Tree-Postorder-Traversal.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star::star:|
 
 
 
