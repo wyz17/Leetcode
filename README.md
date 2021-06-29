@@ -167,6 +167,8 @@ Daily Leetcode
 |134|[Gas Station](Solved/134-Gas-Station/Gas-Station.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |141|[Linked List Cycle](Solved/141-Linked-List-Cycle/Linked-List-Cycle.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |142|[Linked List Cycle II](Solved/142-Linked-List-Cycle-II/Linked-List-Cycle-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
+|144|[Binary Tree Preorder Traversal](Solved/144-Binary-Tree-Preorder-Traversal/Binary-Tree-Preorder-Traversal.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
+|145|[Binary Tree Postorder Traversal](Solved/145-Binary-Tree-Postorder-Traversal/Binary-Tree-Postorder-Traversal.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |151|[Reverse Words in a String](Solved/151-Reverse-Words-in-a-String/Reverse-Words-in-a-String.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |153|[Find Minimum in Rotated Sorted Array](Solved/153-Find-Minimum-in-Rotated-Sorted-Array/Find-Minimum-in-Rotated-Sorted-Array.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |154|[Find Minimum in Rotated Sorted Array II](Solved/154-Find-Minimum-in-Rotated-Sorted-Array-II/Find-Minimum-in-Rotated-Sorted-Array-II.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:heavy_check_mark:|
