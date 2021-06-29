@@ -12,7 +12,7 @@
 #### 步骤
 
 - BFS经典思路
-- 注意用visited记录一下访问状态
+- 利用队列保存每个遍历的有效的字符串，然后对队列中的每个字符串再次遍历，保存每次遍历的长度即可。
 
 
 
@@ -30,53 +30,47 @@
 
 ```java
 class Solution {
-    public boolean canReach(int[] arr, int start) {
-        Queue<Integer> q = new LinkedList<>();
-        q.offer(start);
-        boolean[] visited = new boolean[arr.length];
+    public int ladderLength(String beginWord, String endWord, List<String> wordList) {
+        Set<String> set = new HashSet<>();
+        for(String i : wordList) set.add(i);
+        
+        if (!set.contains(endWord)) return 0;
+        if (beginWord.equals(endWord)) return 1;
+        
+        Queue<String> q = new LinkedList<>();
+        Set<String> visited = new HashSet<>();
+        int steps = 0;
+        q.offer(beginWord);
+        visited.add(beginWord);
+        int step = 0;
         
         while(!q.isEmpty()) {
-            int cur = q.poll();
-            if(arr[cur] == 0) return true;
-            int idx1 = cur + arr[cur];
-            int idx2 = cur - arr[cur];
-            if(idx1 >= 0 && idx1 < arr.length && !visited[idx1]) {
-                q.offer(idx1);
-                visited[idx1] = true;
-            }
-            if(idx2 >= 0 && idx2 < arr.length && !visited[idx2]) {
-                q.offer(idx2);
-                visited[idx2] = true;
+            int size = q.size();
+            step++;
+            for(int i = 0; i < size; i++) {
+                char[] chs = q.poll().toCharArray();
+                for(int j = 0; j < chs.length; j++) {
+                    char ch = chs[j];
+                    for(char c = 'a'; c <= 'z'; c++) {
+                        if (c == ch) continue;
+                        chs[j] = c;
+                        String next = new String(chs);
+                        if(next.equals(endWord)) return step + 1;
+                        if (!set.contains(next) || visited.contains(next)) continue;
+                        q.add(next);
+                        visited.add(next);
+                    }
+                    chs[j] = ch;
+                }
             }
         }
-        return false;
+        return 0;
     }
 }
 ```
 
 
 
-##### Python
+### 思路1优化 - 双向BFS
 
-```python
-class Solution:
-    def canReach(self, arr: List[int], start: int) -> bool:
-        q = []
-        q.append(start)
-        visited = [False] * len(arr)
-        
-        while q:
-            cur = q.pop(0)
-            if arr[cur] == 0:
-                return True
-            idx1 = cur + arr[cur]
-            if len(arr) > idx1 >= 0 and not visited[idx1]:
-                q.append(idx1)
-                visited[idx1] = True
-            idx2 = cur - arr[cur]
-            if len(arr) > idx2 >= 0 and not visited[idx2]:
-                q.append(idx2)
-                visited[idx2] = True
-        return False;
-```
-
+source：https://leetcode.com/problems/word-ladder/discuss/40711/Two-end-BFS-in-Java-31ms.
