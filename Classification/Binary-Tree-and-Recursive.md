@@ -42,7 +42,7 @@
 
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
-|94|[Binary Tree Inorder Traversal](Solved/94-Binary-Tree-Inorder-Traversal/Binary-Tree-Inorder-Traversal.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
+|94|[Binary Tree Inorder Traversal](../Solved/94-Binary-Tree-Inorder-Traversal/Binary-Tree-Inorder-Traversal.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
 |144|[Binary Tree Preorder Traversal](../Solved/144-Binary-Tree-Preorder-Traversal/Binary-Tree-Preorder-Traversal.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star::star:|
 |145|[Binary Tree Postorder Traversal](../Solved/145-Binary-Tree-Postorder-Traversal/Binary-Tree-Postorder-Traversal.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star::star:|
 
@@ -52,9 +52,9 @@
 
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
-|105|[Construct Binary Tree from Preorder and Inorder Traversal](Solved/105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal/Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
-|106|[Construct Binary Tree from Inorder and Postorder Traversal](Solved/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|889||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal](../Solved/105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal/Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
+|106|[Construct Binary Tree from Inorder and Postorder Traversal](../Solved/106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|889|[Construct Binary Tree from Preorder and Postorder Traversal](../Solved/889-Construct-Binary-Tree-from-Preorder-and-Postorder-Traversal/Construct-Binary-Tree-from-Preorder-and-Postorder-Traversal.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 
 
 
@@ -62,12 +62,12 @@
 ### Iterator Problems
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
-|173||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star::star:|
-|230||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|285||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|270||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
-|272||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
-|510||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
+|173|[Binary Search Tree Iterator](../Solved/173-Binary-Search-Tree-Iterator/Binary-Search-Tree-Iterator.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
+|230|[Kth Smallest Element in a BST](../Solved/230-Kth-Smallest-Element-in-a-BST/Kth-Smallest-Element-in-a-BST.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|285|**Subscribe to unlock**|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|270|**Subscribe to unlock**|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
+|272|**Subscribe to unlock**|![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
+|510|**Subscribe to unlock**|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 
 
 
@@ -75,10 +75,10 @@
 
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
-|98|[Validate Binary Search Tree](Solved/98-Validate-Binary-Search-Tree/Validate-Binary-Search-Tree.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|100|[Same Tree](Solved/100-Same-Tree/Same-Tree.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
-|101|[Symmetric Tree](Solved/101-Symmetric-Tree/Symmetric-Tree.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
-|110|[Balanced Binary Tree](Solved/110-Balanced-Binary-Tree/Balanced-Binary-Tree.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
+|98|[Validate Binary Search Tree](../Solved/98-Validate-Binary-Search-Tree/Validate-Binary-Search-Tree.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|100|[Same Tree](../Solved/100-Same-Tree/Same-Tree.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
+|101|[Symmetric Tree](../Solved/101-Symmetric-Tree/Symmetric-Tree.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
+|110|[Balanced Binary Tree](../Solved/110-Balanced-Binary-Tree/Balanced-Binary-Tree.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
 
 
 
@@ -86,13 +86,11 @@
 
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
-|111|[Minimum Depth of Binary Tree](Solved/111-Minimum-Depth-of-Binary-Tree/Minimum-Depth-of-Binary-Tree.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
-|104|[Maximum Depth of Binary Tree](Solved/104-Maximum-Depth-of-Binary-Tree/Maximum-Depth-of-Binary-Tree.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
+|111|[Minimum Depth of Binary Tree](../Solved/111-Minimum-Depth-of-Binary-Tree/Minimum-Depth-of-Binary-Tree.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
+|104|[Maximum Depth of Binary Tree](../Solved/104-Maximum-Depth-of-Binary-Tree/Maximum-Depth-of-Binary-Tree.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
 |333||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
-Lint-596. Minimum Subtree
-https://www.lintcode.com/problem/minimum-subtree/description
-Lint-597. Subtree with Maximum Average
-https://www.lintcode.com/problem...average/description
+|Lint - 596| Minimum Subtree |![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
+|Lint - 597| Subtree with Maximum Average |![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
 
 
 
@@ -105,12 +103,9 @@ https://www.lintcode.com/problem...average/description
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)|![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
 |298||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 |549||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
+|Lint - 475|Binary Tree Maximum Path Sum II|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
+|Lint - 619|Binary Tree Longest Consecutive Sequence III|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 
-Lint-475. Binary Tree Maximum Path Sum II
-https://www.lintcode.com/problem...-sum-ii/description
-
-Lint-619. Binary Tree Longest Consecutive Sequence III
-https://www.lintcode.com/problem...nce-iii/description
 
 
 ### LCA Problems
@@ -118,8 +113,9 @@ https://www.lintcode.com/problem...nce-iii/description
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
 |236||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|Lint-474| https://www.lintcode.com/problem/lowest-common-ancestor-ii/description |![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
-|Lint-578| https://www.lintcode.com/problem/lowest-common-ancestor-iii/solution |![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
+|Lint - 474| https://www.lintcode.com/problem/lowest-common-ancestor-ii/description |![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
+|Lint - 578| https://www.lintcode.com/problem/lowest-common-ancestor-iii/solution |![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
+
 
 
 ### Others
