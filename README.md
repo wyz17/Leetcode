@@ -191,6 +191,7 @@ Daily Leetcode
 |229|[Majority Element II](Solved/229-Majority-Element-II/Majority-Element-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
 |230|[Kth Smallest Element in a BST](Solved/230-Kth-Smallest-Element-in-a-BST/Kth-Smallest-Element-in-a-BST.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |234|[Palindrome Linked List](Solved/234-Palindrome-Linked-List/Palindrome-Linked-List.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
+|236|[Lowest Common Ancestor of a Binary Tree](Solved/236-Lowest-Common-Ancestor-of-a-Binary-Tree/Lowest-Common-Ancestor-of-a-Binary-Tree.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |238|[Product of Array Except Self](Solved/238-Product-of-Array-Except-Self/Product-of-Array-Except-Self.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |239|[Sliding Window Maximum](Solved/239-Sliding-Window-Maximum/Sliding-Window-Maximum.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
 |274|[H-Index](Solved/274-H-Index/H-Index.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|

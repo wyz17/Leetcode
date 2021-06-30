@@ -88,7 +88,7 @@
 | :--: | ------- | :---------: | :------: |
 |111|[Minimum Depth of Binary Tree](../Solved/111-Minimum-Depth-of-Binary-Tree/Minimum-Depth-of-Binary-Tree.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
 |104|[Maximum Depth of Binary Tree](../Solved/104-Maximum-Depth-of-Binary-Tree/Maximum-Depth-of-Binary-Tree.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
-|333||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
+|333|**Subscribe to unlock**|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 |Lint - 596| Minimum Subtree |![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
 |Lint - 597| Subtree with Maximum Average |![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
 
@@ -101,18 +101,18 @@
 |112|[Path Sum](Solved/112-Path-Sum/Path-Sum.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
 |113|[Path Sum II](Solved/113-Path-Sum-II/Path-Sum-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)|![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
-|298||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
-|549||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
+|298|**Subscribe to unlock**|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
+|549|**Subscribe to unlock**|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 |Lint - 475|Binary Tree Maximum Path Sum II|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 |Lint - 619|Binary Tree Longest Consecutive Sequence III|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 
 
 
-### LCA Problems
+### Lowest Common Ancestor Problems
 
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
-|236||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|236|[Lowest Common Ancestor of a Binary Tree](../Solved/236-Lowest-Common-Ancestor-of-a-Binary-Tree/Lowest-Common-Ancestor-of-a-Binary-Tree.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |Lint - 474| https://www.lintcode.com/problem/lowest-common-ancestor-ii/description |![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 |Lint - 578| https://www.lintcode.com/problem/lowest-common-ancestor-iii/solution |![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 
