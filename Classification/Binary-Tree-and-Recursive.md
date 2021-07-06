@@ -45,6 +45,7 @@
 |94|[Binary Tree Inorder Traversal](../Solved/94-Binary-Tree-Inorder-Traversal/Binary-Tree-Inorder-Traversal.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
 |144|[Binary Tree Preorder Traversal](../Solved/144-Binary-Tree-Preorder-Traversal/Binary-Tree-Preorder-Traversal.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star::star:|
 |145|[Binary Tree Postorder Traversal](../Solved/145-Binary-Tree-Postorder-Traversal/Binary-Tree-Postorder-Traversal.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star::star:|
+|102|[Binary Tree Level Order Traversal](../Solved/102-Binary-Tree-Level-Order-Traversal/Binary-Tree-Level-Order-Traversal.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
 
 
 
@@ -122,7 +123,7 @@
 
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
-|199||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|199|[Binary Tree Right Side View](../Solved/199-Binary-Tree-Right-Side-View/Binary-Tree-Right-Side-View.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |513||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |331||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |449||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|

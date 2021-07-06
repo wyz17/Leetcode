@@ -178,6 +178,7 @@ Daily Leetcode
 |169|[Majority Element](Solved/169-Majority-Element/Majority-Element.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |173|[Binary Search Tree Iterator](Solved/173-Binary-Search-Tree-Iterator/Binary-Search-Tree-Iterator.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |189|[Rotate Array](Solved/189-Rotate-Array/Rotate-Array.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
+|199|[Binary Tree Right Side View](Solved/199-Binary-Tree-Right-Side-View/Binary-Tree-Right-Side-View.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |200|[Number of Islands](Solved/200-Number-of-Islands/Number-of-Islands.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |206|[Reverse Linked List](Solved/206-Reverse-Linked-List/Reverse-Linked-List.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |207|[Course Schedule](Solved/207-Course-Schedule/Course-Schedule.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button: DFS|
