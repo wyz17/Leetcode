@@ -35,11 +35,11 @@
 
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
-|39||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
-|40||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
-|46||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
-|47||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
-|77||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
+|39|[Combination Sum](../Solved/39-Combination-Sum/Combination-Sum.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
+|40|[Combination Sum II](../Solved/40-Combination-Sum-II/Combination-Sum-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
+|46|[Permutations](../Solved/46-Permutations/Permutations.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
+|47|[Permutations II](../Solved/47-Permutations-II/Permutations-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
+|77|[Combinations](../Solved/77-Combinations/Combinations.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
 |78||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
 |90||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
 |17| |![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |:star::star::star:|

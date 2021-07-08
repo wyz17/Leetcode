@@ -19,9 +19,9 @@
 
 #### 复杂度
 
-时间：` O(N^target)`
+时间：` O(n!)`
 
-空间：` O(target)`
+空间：` O(n)`
 
 
 
@@ -31,22 +31,23 @@
 
 ```java
 class Solution {
-    public List<List<Integer>> combinationSum(int[] candidates, int target) {
+    public List<List<Integer>> combinationSum2(int[] candidates, int target) {
         Arrays.sort(candidates);
-        List<List<Integer>> list = new ArrayList<>();
-        backtrack(list, new ArrayList<>(), candidates, target, 0);
-        return list;
+        List<List<Integer>> res = new ArrayList<>();
+        dfs(res, new ArrayList<>(), candidates, target, 0);
+        return res;
     }
     
-    private void backtrack(List<List<Integer>> list, List<Integer> tempList, int [] nums, int remain, int start){
+    private void dfs(List<List<Integer>> res, List<Integer> tmp, int[] nums, int remain, int start) {
         if(remain < 0) return;
-        else if(remain == 0)
-            list.add(new ArrayList<>(tempList));
+        else if(remain == 0) res.add(new ArrayList<>(tmp));
         else {
             for(int i = start; i < nums.length; i++) {
-                tempList.add(nums[i]);
-                backtrack(list, tempList, nums, remain - nums[i], i); // not i + 1 because we can reuse same elements
-                tempList.remove(tempList.size() - 1);
+                if (remain < nums[i]) return;
+                if(i > start && nums[i] == nums[i - 1]) continue;  // skip continue
+                tmp.add(nums[i]);
+                dfs(res, tmp, nums, remain - nums[i], i + 1); // i + 1 to avoid duplicate
+                tmp.remove(tmp.size() - 1);
             }
         }
     }
@@ -72,6 +73,9 @@ class Solution:
             res.append(tmp)
         else:
             for i in range(len(nums)):
+                # 剪枝
+                if remain < nums[i]: continue
+                # 这里的nums[i:] 就等价于使用了start 
                 self.dfs(res, tmp + [nums[i]], nums[i:], remain - nums[i])
 ```
 

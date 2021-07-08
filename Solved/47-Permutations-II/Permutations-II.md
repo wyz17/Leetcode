@@ -1,6 +1,6 @@
 
 
-# 46. Permutations II
+# 47. Permutations II
 
 ### 题目
 
@@ -12,18 +12,16 @@
 
 #### 步骤
 
-- 递归遍历就好
-- 指路lc大佬的template模板
+- dfs遍历
+- 剪枝的条件：**和前一个元素值相同（此处隐含这个元素的index>0），并且前一个元素还没有被使用过**
 
 
 
 #### 复杂度
 
-可以参考这个link：https://medium.com/@vasanths294/permutation-combination-subset-time-complexity-eca924e00071
+时间：` O(N!)`
 
-时间：` O(？)`
-
-空间：` O(？)`
+空间：` O(N)`
 
 
 
@@ -80,15 +78,16 @@ class Solution:
     def permuteUnique(self, nums: List[int]) -> List[List[int]]:
         res = []
         nums.sort()
-        self.dfs(nums, [], res)
+        self.dfs(res, [], nums)
         return res
-        
-    def dfs(self, nums, tempList, res):
+    
+    def dfs(self, res, tmp, nums):
+        # nums被裁减为空 就说明tmp中包含了所有的数
         if not nums:
-            res.append(tempList)
-        
-        for i, num in enumerate(nums):
-            if i > 0 and nums[i] == nums[i - 1]:
-                continue
-            self.dfs(nums[:i] + nums[i+1:], tempList + [nums[i]], res)
+            res.append(tmp)
+        else:
+            for i, num in enumerate(nums):
+                if i > 0 and nums[i] == nums[i - 1]:
+                    continue
+                self.dfs(res, tmp + [nums[i]], nums[:i] + nums[i+1:])
 ```

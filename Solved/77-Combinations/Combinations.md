@@ -8,20 +8,19 @@
 
 
 
-### 思路1 - Backtracking
+### 思路1 - DFS
 
 #### 步骤
 
 - 递归遍历就好
-- 指路lc大佬的template模板
 
 
 
 #### 复杂度
 
-时间：` O(?)`
+时间：` O(N!)`
 
-空间：` O(?)`
+空间：` O(N)`
 
 
 
@@ -37,15 +36,16 @@ class Solution {
         return res;
     }
     
-    private void backtracking(List<List<Integer>> list, List<Integer> tmpList, int n, int start, int k) {
+    private void backtracking(List<List<Integer>> list, List<Integer> tmp, int n, int start, int k) {
         if(k == 0) {
-            list.add(new ArrayList<Integer>(tmpList));
+            list.add(new ArrayList<Integer>(tmp));
             return;
         } else {
             for(int i = start; i <= n - k + 1; i++) {
-                tmpList.add(i);
-                backtracking(list, tmpList, n, i + 1, k - 1);
-                tmpList.remove(tmpList.size() - 1);
+                if(tmp.contains(i)) continue;
+                tmp.add(i);
+                backtracking(list, tmp, n, i + 1, k - 1);
+                tmp.remove(tmp.size() - 1);
             }
         }
     }
@@ -60,17 +60,16 @@ class Solution {
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
         res = []
-        self.backtracking(res, list(range(1, n+1)), [], k)
+        self.dfs(res, [], n, k, 1)
         return res
     
-    def backtracking(self, res, nums, tmpList, k):
-        if len(tmpList) == k:
-            res.append(tmpList)
-            return
+    def dfs(self, res, tmp, n, k, idx):
+        if len(tmp) == k:
+            res.append(tmp)
         else:
-            for i in range(len(nums)):
-                self.backtracking(res, nums[i + 1:], tmpList + [nums[i]], k)
-        
+            for i in range(idx, n + 1):
+                if i in tmp: continue
+                self.dfs(res, tmp + [i], n, k, i + 1) 
 ```
 
 

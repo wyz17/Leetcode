@@ -71,14 +71,14 @@ Daily Leetcode
 |36|[Valid Sudoku](Solved/36-Valid-Sudoku/Valid-Sudoku.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
 |38|[Count and Say](Solved/38-Count-and-Say/Count-and-Say.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
-|39|[Combination Sum](Solved/39-Combination-Sum/Combination-Sum.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:ballot_box_with_check: Complexity|
+|39|[Combination Sum](Solved/39-Combination-Sum/Combination-Sum.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |40|[Combination Sum II](Solved/40-Combination-Sum-II/Combination-Sum-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |41|[First Missing Positive](Solved/41-First-Missing-Positive/First-Missing-Positive.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:heavy_check_mark:|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
 |43|[Multiply Strings](Solved/43-Multiply-Strings/Multiply-Strings.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |44|[Wild card Matching](https://leetcode.com/problems/wildcard-matching)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
 |45|[Jump Game II](Solved/45-Jump-Game-II/Jump-Game-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
-|46|[Permutations](Solved/46-Permutations/Permutations.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:ballot_box_with_check: Complexity|
+|46|[Permutations](Solved/46-Permutations/Permutations.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |47|[Permutations II](Solved/47-Permutations-II/Permutations-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:ballot_box_with_check: Complexity|
 |48|[Rotate Image](Solved/48-Rotate-Image/Rotate-Image.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |49|[Group Anagrams](Solved/49-Group-Anagrams/Group-Anagrams.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|

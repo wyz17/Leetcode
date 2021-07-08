@@ -8,12 +8,11 @@
 
 
 
-### 思路1 - Backtracking
+### 思路 - DFS
 
 #### 步骤
 
 - 递归遍历就好
-- 指路lc大佬的template模板
 
 
 
@@ -21,9 +20,9 @@
 
 可以参考这个link：https://medium.com/@vasanths294/permutation-combination-subset-time-complexity-eca924e00071
 
-时间：` O(？)`
+时间：` O(N!)`
 
-空间：` O(？)`
+空间：` O(N)`
 
 
 
@@ -35,22 +34,20 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> res = new ArrayList<>();
-        backtracking(nums, new ArrayList<>(), res);
+        dfs(res, new ArrayList<>(), nums);
         return res;
     }
     
-    public void backtracking(int[] nums, List<Integer> tempList, List<List<Integer>> res) {
-        if(tempList.size() == nums.length) {
-            res.add(new ArrayList<>(tempList));
-        } else {
+    private void dfs(List<List<Integer>> res, List<Integer> tmp, int[] nums) {
+        if(tmp.size() == nums.length) res.add(new ArrayList<>(tmp));
+        else {
             for(int i = 0; i < nums.length; i++) {
-                if(tempList.contains(nums[i])) continue;
-                tempList.add(nums[i]);
-                backtracking(nums, tempList, res);
-                tempList.remove(tempList.size() - 1);
+                if(tmp.contains(nums[i])) continue;
+                tmp.add(nums[i]);
+                dfs(res, tmp, nums);
+                tmp.remove(tmp.size() - 1);
             }
         }
-        
     }
 }
 ```
@@ -60,6 +57,22 @@ class Solution {
 ##### Python
 
 ```python
+class Solution:
+    def permute(self, nums: List[int]) -> List[List[int]]:
+        res = []
+        self.dfs(res, [], nums)
+        return res
+    
+    def dfs(self, res, tmp, nums):
+        if len(nums) == len(tmp):
+            res.append(tmp)
+        else:
+            for i in range(len(nums)):
+                if nums[i] in tmp: continue
+                self.dfs(res, tmp + [nums[i]], nums)
+ 
+
+
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         res = []
@@ -88,41 +101,3 @@ res.append(tempList[:])
 **这个语句要高亮！！！！**
 
 作用是避免python的浅拷贝，如果不加的话就会一直添加一样的list进res
-
-
-
-### 思路2 - DFS
-
-#### 步骤
-
-- dfs遍历就好
-
-
-
-#### 复杂度
-
-时间：` O(？)`
-
-空间：` O(？)`
-
-
-
-#### 代码
-
-##### Python
-
-```python
-class Solution:
-    def permute(self, nums: List[int]) -> List[List[int]]:
-        res = []
-        self.dfs(nums, [], res)
-        return res
-        
-    def dfs(self, nums, tempList, res):
-        if not nums:
-            res.append(tempList[:])
-        else:
-            for i, num in enumerate(nums):
-                self.dfs(nums[:i] + nums[i+1:], tempList + [num], res)
-```
-
