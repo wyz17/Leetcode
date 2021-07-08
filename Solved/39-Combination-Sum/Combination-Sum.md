@@ -19,9 +19,9 @@
 
 #### 复杂度
 
-时间：` O(?)`
+时间：` O(N^target)`
 
-空间：` O(?)`
+空间：` O(target)`
 
 
 
@@ -60,20 +60,18 @@ class Solution {
 ```python
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        candidates.sort()
         res = []
-        tmpList = [[]]
-        self.backtracking(candidates,[], res, target)
+        candidates.sort()
+        self.dfs(res, [], candidates, target)
         return res
     
-    def backtracking(self, candidates, tmpList, res, remain):
+    def dfs(self, res, tmp, nums, remain):
         if remain < 0:
             return
-        if remain == 0:
-            res.append(tmpList)
+        elif remain == 0:
+            res.append(tmp)
         else:
-            for i in range(len(candidates)):
-                self.backtracking(candidates[i:], tmpList + [candidates[i]], res, remain-candidates[i]) 
+            for i in range(len(nums)):
+                self.dfs(res, tmp + [nums[i]], nums[i:], remain - nums[i])
 ```
-
 
