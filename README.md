@@ -110,7 +110,7 @@ Daily Leetcode
 |75|[Sort Colors](Solved/75-Sort-Colors/Sort-Colors.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |76|[Minimum Window Substring](Solved/76-Minimum-Window-Substring/Minimum-Window-Substring.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
 |77|[Combinations](Solved/77-Combinations/Combinations.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:ballot_box_with_check: Complexity|
-|78|[Subsets](Solved/78-Subsets/Subsets.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:ballot_box_with_check: Complexity|
+|78|[Subsets](Solved/78-Subsets/Subsets.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |79|[Word Search](Solved/79-Word-Search/Word-Search.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:ballot_box_with_check: Complexity|
 |80|[Remove Duplicates from Sorted Array II](Solved/80-Remove-Duplicates-from-Sorted-Array-II/Remove-Duplicates-from-Sorted-Array-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |81|[Search in Rotated Sorted Array II](Solved/81-Search-in-Rotated-Sorted-Array-II/Search-in-Rotated-Sorted-Array-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
@@ -122,7 +122,7 @@ Daily Leetcode
 |87|[Scramble String](https://leetcode.com/problems/scramble-string)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
 |88|[Merge Sorted Array](Solved/88-Merge-Sorted-Array/Merge-Sorted-Array.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |89|[Gray Code](Solved/89-Gray-Code/Gray-Code.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:ballot_box_with_check:|
-|90|[Subsets II](Solved/90-Subsets-II/Subsets-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:ballot_box_with_check: Complexity|
+|90|[Subsets II](Solved/90-Subsets-II/Subsets-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |91|[Decode Ways](Solved/91-Decode-Ways/Decode-Ways.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |92|[Reverse LinkedList II](Solved/92-Reverse-Linked-List-II/Reverse-Linked-List-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |93|[Restore IP Addresses](Solved/93-Restore-IP-Addresses/Restore-IP-Addresses.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|

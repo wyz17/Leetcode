@@ -4,24 +4,23 @@
 
 ### 题目
 
-链接：https://leetcode.com/problems/combinations/
+链接：https://leetcode.com/problems/subsets/
 
 
 
-### 思路1 - Backtracking
+### 思路
 
 #### 步骤
 
-- 递归遍历就好
-- 指路lc大佬的template模板
+- dfs递归遍历就好
 
 
 
 #### 复杂度
 
-时间：` O(?)`
+时间：` O(2^N)`
 
-空间：` O(?)`
+空间：` O(N)`
 
 
 

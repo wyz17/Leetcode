@@ -1,5 +1,3 @@
-
-
 # 90. Subsets II
 
 ### 题目
@@ -8,20 +6,19 @@
 
 
 
-### 思路1 - Backtracking
+### 思路
 
 #### 步骤
 
-- 递归遍历就好
-- 指路lc大佬的template模板
+- dfs递归遍历就好
 
 
 
 #### 复杂度
 
-时间：` O(?)`
+时间：` O(2^N)`
 
-空间：` O(?)`
+空间：` O(N)`
 
 
 
@@ -77,3 +74,4 @@ class Solution:
 https://leetcode.com/problems/subsets-ii/discuss/30166/Simple-python-solution-without-extra-space
 
 有空来整理啦
+

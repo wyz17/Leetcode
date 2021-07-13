@@ -22,6 +22,7 @@
 1. DFS中递归的基本要素
 2. 终止条件的选择；回溯；剪枝
 3. 什么时候需要排序？
+   - 集合中存在**重复元素**的时候需要排序
 4. 如何去除重复元素？一个元素允许使用多次的情况？
 5. 在图上进行DFS如何避免回到重复节点
 6. 识别一个隐式图，并使用DFS
@@ -40,9 +41,9 @@
 |46|[Permutations](../Solved/46-Permutations/Permutations.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
 |47|[Permutations II](../Solved/47-Permutations-II/Permutations-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
 |77|[Combinations](../Solved/77-Combinations/Combinations.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
-|78||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
-|90||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
-|17| |![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |:star::star::star:|
+|78|[Subsets](../Solved/78-Subsets/Subsets.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
+|90|[Subsets II](../Solved/90-Subsets-II/Subsets-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
+|17| [Letter Combinations of a Phone Number](../Solved/17-Letter-Combinations-of-a-Phone-Number/Letter-Combinations-of-a-Phone-Number.md) |![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |:star::star::star:|
 |22| |![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |:star::star::star:|
 |51| |![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |:star::star::star:|
 |254| |![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |:star::star::star:|
