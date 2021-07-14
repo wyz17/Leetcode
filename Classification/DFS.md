@@ -44,10 +44,10 @@
 |78|[Subsets](../Solved/78-Subsets/Subsets.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
 |90|[Subsets II](../Solved/90-Subsets-II/Subsets-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
 |17| [Letter Combinations of a Phone Number](../Solved/17-Letter-Combinations-of-a-Phone-Number/Letter-Combinations-of-a-Phone-Number.md) |![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |:star::star::star:|
-|22| |![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |:star::star::star:|
-|51| |![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |:star::star::star:|
-|254| |![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |:star::star::star:|
-|301| |![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |:star::star::star:|
+|22| [Generate Parentheses](../Solved/22-Generate-Parentheses/Generate-Parentheses.md) |![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |:star::star::star:|
+|51| [N-Queens](../Solved/51-N-Queens/N-Queens.md) |![](https://img.shields.io/badge/-Hard-red.svg) |:star::star::star:|
+|254| **Subscribe to unlock** |![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |:star::star::star:|
+|301| [Remove Invalid Parentheses](../Solved/301-Remove-Invalid-Parentheses/Remove-Invalid-Parentheses.md) |![](https://img.shields.io/badge/-Hard-red.svg) |:star::star::star:|
 |491| |![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |:star::star::star:|
 |37||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
 |52||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|

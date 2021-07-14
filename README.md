@@ -83,7 +83,7 @@ Daily Leetcode
 |48|[Rotate Image](Solved/48-Rotate-Image/Rotate-Image.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |49|[Group Anagrams](Solved/49-Group-Anagrams/Group-Anagrams.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |50|[Pow (x,n)](Solved/50-powx-n/powx-n.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
-|51|[N-Queens](https://leetcode.com/problems/n-queens)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
+|51|[N-Queens](Solved/51-N-Queens/N-Queens.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:heavy_check_mark:|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
 |53|[Maximum Subarray](Solved/53-Maximum-Subarray/Maximum-Subarray.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:ballot_box_with_check: Solution|
 |54|[Spiral Matrix](Solved/54-Spiral-Matrix/Spiral-Matrix.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
@@ -202,6 +202,7 @@ Daily Leetcode
 |287|[Find the Duplicate Number](Solved/287-Find-the-Duplicate-Number/Find-the-Duplicate-Number.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |297|[Serialize and Deserialize Binary Tree](Solved/297-Serialize-and-Deserialize-Binary-Tree/Serialize-and-Deserialize-Binary-Tree.md)|![](https://img.shields.io/badge/-Hard-red.svg)||
 |299|[Bulls and Cows](Solved/299-Bulls-and-Cows/Bulls-and-Cows.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
+|301|[Remove Invalid Parentheses](Solved/301-Remove-Invalid-Parentheses/Remove-Invalid-Parentheses.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:heavy_check_mark:|
 |303|[Range Sum Query - Immutable](Solved/303-Range-Sum-Query-Immutable/Range-Sum-Query-Immutable.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |309|[Best Time to Buy and Sell Stock with Cooldown](Solved/309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown/Best-Time-to-Buy-and-Sell-Stock-with-Cooldown.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
 |328|[Odd Even Linked List](Solved/328-Odd-Even-Linked-List/Odd-Even-Linked-List.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
