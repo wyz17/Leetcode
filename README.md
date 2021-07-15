@@ -69,7 +69,7 @@ Daily Leetcode
 |34|[Find First and Last Position of Element in Sorted Array](Solved/34-Find-First-and-Last-Position-of-Element-in-Sorted-Array/Find-First-and-Last-Position-of-Element-in-Sorted-Array.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |35|[SearchInsertPosition](Solved/35-Search-Insert-Position/Search-Insert-Position.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |36|[Valid Sudoku](Solved/36-Valid-Sudoku/Valid-Sudoku.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
-|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
+|37|[Sudoku Solver](Solved/37-Sudoku-Solver/Sudoku-Solver.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:heavy_check_mark:|
 |38|[Count and Say](Solved/38-Count-and-Say/Count-and-Say.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |39|[Combination Sum](Solved/39-Combination-Sum/Combination-Sum.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |40|[Combination Sum II](Solved/40-Combination-Sum-II/Combination-Sum-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
@@ -163,6 +163,7 @@ Daily Leetcode
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
 |129|[Sum Root to Leaf Numbers](Solved/129-Sum-Root-to-Leaf-Numbers/Sum-Root-to-Leaf-Numbers.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |130|[Surrounded Regions](Solved/130-Surrounded-Regions/Surrounded-Regions.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
+|131|[Palindrome Partitioning](Solved/131-Palindrome-Partitioning/Palindrome-Partitioning.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |133|[Clone Graph](Solved/133-Clone-Graph/Clone-Graph.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button: DFS​|
 |134|[Gas Station](Solved/134-Gas-Station/Gas-Station.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |141|[Linked List Cycle](Solved/141-Linked-List-Cycle/Linked-List-Cycle.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
@@ -215,6 +216,7 @@ Daily Leetcode
 |395|[Longest Substring with At Least K Repeating Characters](Solved/395-Longest-Substring-with-At-Least-K-Repeating-Characters/Longest-Substring-with-At-Least-K-Repeating-Characters.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
 |449|[Serialize and Deserialize BST](Solved/449-Serialize-and-Deserialize-BST/Serialize-and-Deserialize-BST.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button: BFS​|
 |474|[Ones and Zeroes](Solved/474-Ones-and-Zeroes/Ones-and-Zeroes.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
+|491|[Increasing Subsequences](Solved/491-Increasing-Subsequences/Increasing-Subsequences.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |513|[Find Bottom Left Tree Value](Solved/513-Find-Bottom-Left-Tree-Value/Find-Bottom-Left-Tree-Value.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |528|[Random Pick with Weight](Solved/528-Random-Pick-with-Weight/Random-Pick-with-Weight.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |542|[01 Matrix](Solved/542-01-Matrix/01-Matrix.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
