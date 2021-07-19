@@ -7,20 +7,21 @@
 
 
 
-### 思路 - DFS
+### 思路 - Backtracking
 
 #### 步骤
 
-- It picks an element as pivot and partitions the given array around the picked pivot
-- 通过一趟排序将要排序的数据分割成独立的两部分，其中一部分的所有数据比另一部分的所有数据要小，再按这种方法对这两部分数据分别进行快速排序，整个排序过程可以递归进行，使整个数据变成有序序列
+- 从行开始遍历，行内循环遍历列
+- 使用三个Boolean数组来判断当前组合是否valid：标记是否被占有
+- 当列遍历到n的时候就回退
 
 
 
 #### 复杂度
 
-时间： `O((n^3) * n!)`
+时间： `O(n!)`
 
-空间：` O(n^2)`
+空间：` O(n)`
 
 
 
@@ -30,53 +31,31 @@
 
 ```java
 class Solution {
-    public List<List<String>> solveNQueens(int n) {
-        char[][] board = new char[n][n];
-        for(int i = 0; i < n; i++)
-            for(int j = 0; j < n; j++)
-                board[i][j] = '.';
+    int count = 0;
+    public int totalNQueens(int n) {
+        boolean[] cols = new boolean[n];     // columns   |
+        boolean[] d1 = new boolean[2 * n];   // diagonals \
+        boolean[] d2 = new boolean[2 * n];   // diagonals /
+        backtracking(0, cols, d1, d2, n);
+        return count;
+    }
+    
+    private void backtracking(int row, boolean[] cols, boolean[] d1, boolean []d2, int n) {
+        if(row == n) count++;
         
-        List<List<String>> res = new ArrayList<List<String>>();
-        dfs(board, 0, res);
-        return res;
-    }
-    
-    private void dfs(char[][] board, int colIndex, List<List<String>> res) {
-        if(colIndex == board.length) {
-            res.add(construct(board));
+        for(int col = 0; col < n; col++) {
+            int id1 = col - row + n; 
+            int id2 = col + row;
+            if(cols[col] || d1[id1] || d2[id2]) continue;
+            
+            cols[col] = true;
+            d1[id1] = true;
+            d2[id2] = true;
+            backtracking(row + 1, cols, d1, d2, n);
+            cols[col] = false;
+            d1[id1] = false;
+            d2[id2] = false;
         }
-        
-        for(int i = 0; i < board.length; i++) {
-            if(validate(board, i, colIndex)) {
-                board[i][colIndex] = 'Q';
-                dfs(board, colIndex + 1, res);
-                board[i][colIndex] = '.';
-            }
-        }
-    }
-    
-    private boolean validate(char[][] board, int x, int y) {
-        for(int i = 0; i < board.length; i++) {
-            for(int j = 0; j < y; j++) {
-                // check for queen
-                // 1. no confict in columns: self explanatory as we put 'Q' col by col
-                // 2. no confict in rows: x == i
-                // 3. no conflict in diagonals: Math.abs(x-i) == Math.abs(y-j)
-                if(board[i][j] == 'Q' && (x + j == y + i || x + y == i + j || x == i))
-                    return false;
-            }
-        }
-        return true;
-    }
-    
-    
-    private List<String> construct(char[][] board) {
-        List<String> res = new LinkedList<String>();
-        for(int i = 0; i < board.length; i++) {
-            String s = new String(board[i]);
-            res.add(s);
-        }
-        return res;
     }
 }
 ```
@@ -84,11 +63,6 @@ class Solution {
 
 
 ##### Python
-
-- N皇后问题有个技巧的关键在于棋盘的表示方法，这里使用一个数组就可以表达了
-  - 比如 board = [1, 3, 0, 2]，这是4皇后问题的一个解
-  - 意思是：在第0行，皇后放在第1列；在第1行，皇后放在第3列；在第2行，皇后放在第0列；在第3行，皇后放在第2列
-- valid函数用来检查第n个queen是否可以放在那一行
 
 ```python
 class Solution:

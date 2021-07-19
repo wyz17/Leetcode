@@ -84,7 +84,7 @@ Daily Leetcode
 |49|[Group Anagrams](Solved/49-Group-Anagrams/Group-Anagrams.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |50|[Pow (x,n)](Solved/50-powx-n/powx-n.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |51|[N-Queens](Solved/51-N-Queens/N-Queens.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:heavy_check_mark:|
-|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
+|52|[N-Queens II](Solved/52-N-Queens-II/N-Queens-II.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:heavy_check_mark:|
 |53|[Maximum Subarray](Solved/53-Maximum-Subarray/Maximum-Subarray.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:ballot_box_with_check: Solution|
 |54|[Spiral Matrix](Solved/54-Spiral-Matrix/Spiral-Matrix.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |55|[Jump Game](Solved/55-Jump-Game/Jump-Game.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
