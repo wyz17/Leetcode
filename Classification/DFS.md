@@ -50,7 +50,7 @@
 |301| [Remove Invalid Parentheses](../Solved/301-Remove-Invalid-Parentheses/Remove-Invalid-Parentheses.md) |![](https://img.shields.io/badge/-Hard-red.svg) |:star::star::star:|
 |491| [Increasing Subsequences](../Solved/491-Increasing-Subsequences/Increasing-Subsequences.md) |![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |:star::star::star:|
 |37|[Sudoku Solver](../Solved/37-Sudoku-Solver/Sudoku-Solver.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
-|52||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
+|52|[N-Queens II](Solved/52-N-Queens-II/N-Queens-II.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
 |93|[Restore IP Addresses](../Solved/93-Restore-IP-Addresses/Restore-IP-Addresses.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 |131|[Palindrome Partitioning](../Solved/131-Palindrome-Partitioning/Palindrome-Partitioning.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 |Lint-10||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
@@ -63,8 +63,8 @@
 
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
-|113||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|257||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
+|113|[Path Sum II](../Solved/113-Path-Sum-II/Path-Sum-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|257|[Binary Tree Paths](../Solved/257-Binary-Tree-Paths/Binary-Tree-Paths.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
 |Lint-246||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
 |Lint-376||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
 |Lint-472||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|

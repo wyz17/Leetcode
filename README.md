@@ -145,7 +145,7 @@ Daily Leetcode
 |110|[Balanced Binary Tree](Solved/110-Balanced-Binary-Tree/Balanced-Binary-Tree.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |111|[Minimum Depth of Binary Tree](Solved/111-Minimum-Depth-of-Binary-Tree/Minimum-Depth-of-Binary-Tree.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:ballot_box_with_check: Solutions|
 |112|[Path Sum](Solved/112-Path-Sum/Path-Sum.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:ballot_box_with_check: Solutions|
-|113|[Path Sum II](Solved/113-Path-Sum-II/Path-Sum-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:ballot_box_with_check: Solutions|
+|113|[Path Sum II](Solved/113-Path-Sum-II/Path-Sum-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |114|[Flatten Binary Tree to Linked List](Solved/114-Flatten-Binary-Tree-to-Linked-List/Flatten-Binary-Tree-to-Linked-List.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:ballot_box_with_check: Complexity|
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
@@ -196,6 +196,7 @@ Daily Leetcode
 |236|[Lowest Common Ancestor of a Binary Tree](Solved/236-Lowest-Common-Ancestor-of-a-Binary-Tree/Lowest-Common-Ancestor-of-a-Binary-Tree.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |238|[Product of Array Except Self](Solved/238-Product-of-Array-Except-Self/Product-of-Array-Except-Self.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |239|[Sliding Window Maximum](Solved/239-Sliding-Window-Maximum/Sliding-Window-Maximum.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
+|257|[Binary Tree Paths](Solved/257-Binary-Tree-Paths/Binary-Tree-Paths.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |274|[H-Index](Solved/274-H-Index/H-Index.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |275|[H-Index-II](Solved/275-H-Index-II/H-Index-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |278|[First Bad Version](Solved/278-First-Bad-Version/First-Bad-Version.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
