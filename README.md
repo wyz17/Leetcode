@@ -166,6 +166,7 @@ Daily Leetcode
 |131|[Palindrome Partitioning](Solved/131-Palindrome-Partitioning/Palindrome-Partitioning.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |133|[Clone Graph](Solved/133-Clone-Graph/Clone-Graph.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button: DFS​|
 |134|[Gas Station](Solved/134-Gas-Station/Gas-Station.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
+|140|[Word Break II](Solved/140-Word-Break-II/Word-Break-II.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
 |141|[Linked List Cycle](Solved/141-Linked-List-Cycle/Linked-List-Cycle.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |142|[Linked List Cycle II](Solved/142-Linked-List-Cycle-II/Linked-List-Cycle-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |144|[Binary Tree Preorder Traversal](Solved/144-Binary-Tree-Preorder-Traversal/Binary-Tree-Preorder-Traversal.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
@@ -202,7 +203,8 @@ Daily Leetcode
 |278|[First Bad Version](Solved/278-First-Bad-Version/First-Bad-Version.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |283|[Move Zeroes](Solved/283-Move-Zeroes/Move-Zeroes.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |287|[Find the Duplicate Number](Solved/287-Find-the-Duplicate-Number/Find-the-Duplicate-Number.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
-|297|[Serialize and Deserialize Binary Tree](Solved/297-Serialize-and-Deserialize-Binary-Tree/Serialize-and-Deserialize-Binary-Tree.md)|![](https://img.shields.io/badge/-Hard-red.svg)||
+|290|[Word Pattern](Solved/290-Word-Pattern/Word-Pattern.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
+|297|[Serialize and Deserialize Binary Tree](Solved/297-Serialize-and-Deserialize-Binary-Tree/Serialize-and-Deserialize-Binary-Tree.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:heavy_check_mark:|
 |299|[Bulls and Cows](Solved/299-Bulls-and-Cows/Bulls-and-Cows.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |301|[Remove Invalid Parentheses](Solved/301-Remove-Invalid-Parentheses/Remove-Invalid-Parentheses.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:heavy_check_mark:|
 |303|[Range Sum Query - Immutable](Solved/303-Range-Sum-Query-Immutable/Range-Sum-Query-Immutable.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
@@ -218,6 +220,7 @@ Daily Leetcode
 |449|[Serialize and Deserialize BST](Solved/449-Serialize-and-Deserialize-BST/Serialize-and-Deserialize-BST.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button: BFS​|
 |474|[Ones and Zeroes](Solved/474-Ones-and-Zeroes/Ones-and-Zeroes.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |491|[Increasing Subsequences](Solved/491-Increasing-Subsequences/Increasing-Subsequences.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
+|494|[Target Sum](Solved/494-Target-Sum/Target-Sum.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |513|[Find Bottom Left Tree Value](Solved/513-Find-Bottom-Left-Tree-Value/Find-Bottom-Left-Tree-Value.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |528|[Random Pick with Weight](Solved/528-Random-Pick-with-Weight/Random-Pick-with-Weight.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |542|[01 Matrix](Solved/542-01-Matrix/01-Matrix.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
@@ -247,6 +250,9 @@ Daily Leetcode
 | No | Solutions | Difficulity | TBC |
 | :--: | ------------------------------------------------------------ | :-----------------------------------------------------: | ---- |
 | 127  | [Topological Sorting](Solved/Lint127-Topological-Sorting/Topological-Sorting.md) | ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) | :radio_button: DFS |
+| 570  | [Find the Missing Number II](Solved/Lint570-Find-the-Missing-Number-II/Find-the-Missing-Number-II.md) | ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) | :heavy_check_mark: |
+
+
 
 
 

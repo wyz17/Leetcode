@@ -20,6 +20,9 @@
 基本问题：
 
 1. DFS中递归的基本要素
+   - **：明确这个函数要干什么**
+   - **寻找递归结束条件**
+   - **找出函数的等价关系式**
 2. 终止条件的选择；回溯；剪枝
 3. 什么时候需要排序？
    - 集合中存在**重复元素**的时候需要排序
@@ -50,10 +53,10 @@
 |301| [Remove Invalid Parentheses](../Solved/301-Remove-Invalid-Parentheses/Remove-Invalid-Parentheses.md) |![](https://img.shields.io/badge/-Hard-red.svg) |:star::star::star:|
 |491| [Increasing Subsequences](../Solved/491-Increasing-Subsequences/Increasing-Subsequences.md) |![](https://img.shields.io/badge/-Medium-%23FFA500.svg) |:star::star::star:|
 |37|[Sudoku Solver](../Solved/37-Sudoku-Solver/Sudoku-Solver.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
-|52|[N-Queens II](Solved/52-N-Queens-II/N-Queens-II.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
+|52|[N-Queens II](../Solved/52-N-Queens-II/N-Queens-II.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
 |93|[Restore IP Addresses](../Solved/93-Restore-IP-Addresses/Restore-IP-Addresses.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 |131|[Palindrome Partitioning](../Solved/131-Palindrome-Partitioning/Palindrome-Partitioning.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
-|Lint-10||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
+|Lint-10|**Subscribe to unlock**|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 |Lint-570||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 |Lint-680||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 
@@ -74,12 +77,12 @@
 ### Graph
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
-|140||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
-|494||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
+|140|[Word Break II](../Solved/140-Word-Break-II/Word-Break-II.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
+|494|[Target Sum](../Solved/494-Target-Sum/Target-Sum.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |1192||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
 |126||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
-|290||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
-|291||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
+|290|[Word Pattern](../Solved/290-Word-Pattern/Word-Pattern.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
+|291|**Subscribe to unlock**|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 
 
 
