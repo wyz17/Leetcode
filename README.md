@@ -249,8 +249,10 @@ Daily Leetcode
 
 | No | Solutions | Difficulity | TBC |
 | :--: | ------------------------------------------------------------ | :-----------------------------------------------------: | ---- |
-| 127  | [Topological Sorting](Solved/Lint127-Topological-Sorting/Topological-Sorting.md) | ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) | :radio_button: DFS |
-| 570  | [Find the Missing Number II](Solved/Lint570-Find-the-Missing-Number-II/Find-the-Missing-Number-II.md) | ![](https://img.shields.io/badge/-Medium-%23FFA500.svg) | :heavy_check_mark: |
+|127|[Topological Sorting](Solved/Lint127-Topological-Sorting/Topological-Sorting.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button: DFS|
+|570|[Find the Missing Number II](Solved/Lint570-Find-the-Missing-Number-II/Find-the-Missing-Number-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
+|570|[Find the Missing Number II](Solved/Lint570-Find-the-Missing-Number-II/Find-the-Missing-Number-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
+|680|[Split String](Solved/Lint680-Split-String/Split-String.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 
 
 

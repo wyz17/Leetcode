@@ -20,16 +20,21 @@
 基本问题：
 
 1. DFS中递归的基本要素
-   - **：明确这个函数要干什么**
+   - **明确这个函数要干什么**
    - **寻找递归结束条件**
    - **找出函数的等价关系式**
-2. 终止条件的选择；回溯；剪枝
+2. 终止条件的选择
+   - 回溯
+   - 剪枝
 3. 什么时候需要排序？
    - 集合中存在**重复元素**的时候需要排序
 4. 如何去除重复元素？一个元素允许使用多次的情况？
+   - 参考代码：```if(i > start && nums[i] == nums[i - 1]) continue; ```
 5. 在图上进行DFS如何避免回到重复节点
 6. 识别一个隐式图，并使用DFS
 7. 在某些情况下，利用记忆化搜索进行优化
+   - 记忆化搜索适合于对于状态可以一次性遍历而确定的类型
+   - 一般额外用一个数组 ( f[], f\[][] ) 来记录当前位置的状态。
 
 
 
@@ -57,8 +62,8 @@
 |93|[Restore IP Addresses](../Solved/93-Restore-IP-Addresses/Restore-IP-Addresses.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 |131|[Palindrome Partitioning](../Solved/131-Palindrome-Partitioning/Palindrome-Partitioning.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 |Lint-10|**Subscribe to unlock**|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
-|Lint-570||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
-|Lint-680||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
+|Lint-570|[Find the Missing Number II](../Solved/Lint570-Find-the-Missing-Number-II/Find-the-Missing-Number-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
+|Lint-680|[Split String](../Solved/Lint680-Split-String/Split-String.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 
 
 
@@ -68,9 +73,9 @@
 | :--: | ------- | :---------: | :------: |
 |113|[Path Sum II](../Solved/113-Path-Sum-II/Path-Sum-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |257|[Binary Tree Paths](../Solved/257-Binary-Tree-Paths/Binary-Tree-Paths.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
-|Lint-246||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
-|Lint-376||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
-|Lint-472||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
+|Lint-246|**Subscribe to unlock**|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|Lint-376|**Subscribe to unlock**|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
+|Lint-472|**Subscribe to unlock**|![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
 
 
 
