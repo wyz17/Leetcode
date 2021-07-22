@@ -192,6 +192,7 @@ Daily Leetcode
 |217|[Contains Duplicate](Solved/217-Contains-Duplicate/Contains-Duplicate.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |219|[Contains Duplicate II](Solved/219-Contains-Duplicate-II/Contains-Duplicate-II.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |220|[Contains Duplicate III](Solved/220-Contains-Duplicate-III/Contains-Duplicate-III.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
+|221|[Maximal Square](Solved/221-Maximal-Square/Maximal-Square.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |229|[Majority Element II](Solved/229-Majority-Element-II/Majority-Element-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
 |230|[Kth Smallest Element in a BST](Solved/230-Kth-Smallest-Element-in-a-BST/Kth-Smallest-Element-in-a-BST.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |234|[Palindrome Linked List](Solved/234-Palindrome-Linked-List/Palindrome-Linked-List.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
@@ -223,6 +224,7 @@ Daily Leetcode
 |491|[Increasing Subsequences](Solved/491-Increasing-Subsequences/Increasing-Subsequences.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |494|[Target Sum](Solved/494-Target-Sum/Target-Sum.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |513|[Find Bottom Left Tree Value](Solved/513-Find-Bottom-Left-Tree-Value/Find-Bottom-Left-Tree-Value.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
+|516|[Longest Palindromic Subsequence](Solved/516-Longest-Palindromic-Subsequence/Longest-Palindromic-Subsequence.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |528|[Random Pick with Weight](Solved/528-Random-Pick-with-Weight/Random-Pick-with-Weight.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |542|[01 Matrix](Solved/542-01-Matrix/01-Matrix.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |560|[Subarray Sum Equals K](Solved/560-Subarray-Sum-Equals-K/Subarray-Sum-Equals-K.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|

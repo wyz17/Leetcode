@@ -74,9 +74,9 @@
 |10||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
 |44||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
 |72||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
-|97|[Interleaving String](Solved/97-Interleaving-String/Interleaving-String.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
+|97|[Interleaving String](../Solved/97-Interleaving-String/Interleaving-String.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 |115||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
-|1143||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
+|1143||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 
 
 
@@ -85,7 +85,7 @@
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
 |312||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
-|516||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
+|516|[Longest Palindromic Subsequence](../Solved/516-Longest-Palindromic-Subsequence/Longest-Palindromic-Subsequence.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |87||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
 
 
@@ -94,12 +94,12 @@
 
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
-|62|[Unique Paths](Solved/62-Unique-Paths/Unique-Paths.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
-|63|[Unique Paths II](Solved/63-Unique-Paths-II/Unique-Paths-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
-|64|[Minimum Path Sum](Solved/64-Minimum-Path-Sum/Minimum-Path-Sum.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|62|[Unique Paths](../Solved/62-Unique-Paths/Unique-Paths.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
+|63|[Unique Paths II](../Solved/63-Unique-Paths-II/Unique-Paths-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
+|64|[Minimum Path Sum](../Solved/64-Minimum-Path-Sum/Minimum-Path-Sum.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |85||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
-|221||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
-|361||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
+|221|[Maximal Square](Solved/221-Maximal-Square/Maximal-Square.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|361|**Subscribe to unlock**|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 
 
 
@@ -107,10 +107,10 @@
 
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
-|91|[Decode Ways](Solved/91-Decode-Ways/Decode-Ways.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|91|[Decode Ways](../Solved/91-Decode-Ways/Decode-Ways.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |Lint-394||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
 |132||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
-|279||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
+|279||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 |639||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
 |Lint-395||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
 |Lint-396||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
