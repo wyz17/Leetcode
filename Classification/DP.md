@@ -98,7 +98,7 @@
 |63|[Unique Paths II](../Solved/63-Unique-Paths-II/Unique-Paths-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
 |64|[Minimum Path Sum](../Solved/64-Minimum-Path-Sum/Minimum-Path-Sum.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |85||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
-|221|[Maximal Square](Solved/221-Maximal-Square/Maximal-Square.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|221|[Maximal Square](../Solved/221-Maximal-Square/Maximal-Square.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |361|**Subscribe to unlock**|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 
 
@@ -110,7 +110,7 @@
 |91|[Decode Ways](../Solved/91-Decode-Ways/Decode-Ways.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |Lint-394||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
 |132||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
-|279||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
+|279|[Perfect Squares](../Solved/279-Perfect-Squares/Perfect-Squares.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 |639||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
 |Lint-395||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
 |Lint-396||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
