@@ -206,6 +206,7 @@ Daily Leetcode
 |279|[Perfect Squares](Solved/279-Perfect-Squares/Perfect-Squares.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |283|[Move Zeroes](Solved/283-Move-Zeroes/Move-Zeroes.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |287|[Find the Duplicate Number](Solved/287-Find-the-Duplicate-Number/Find-the-Duplicate-Number.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
+|289|[Game of Life](Solved/289-Game-of-Life/Game-of-Life.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |290|[Word Pattern](Solved/290-Word-Pattern/Word-Pattern.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |297|[Serialize and Deserialize Binary Tree](Solved/297-Serialize-and-Deserialize-Binary-Tree/Serialize-and-Deserialize-Binary-Tree.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:heavy_check_mark:|
 |299|[Bulls and Cows](Solved/299-Bulls-and-Cows/Bulls-and-Cows.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
@@ -220,6 +221,7 @@ Daily Leetcode
 |383|[Ransom Note](Solved/383-Ransom-Note/Ransom-Note.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |387|[First Unique Character in a String](Solved/387-First-Unique-Character-in-a-String/First-Unique-Character-in-a-String.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |395|[Longest Substring with At Least K Repeating Characters](Solved/395-Longest-Substring-with-At-Least-K-Repeating-Characters/Longest-Substring-with-At-Least-K-Repeating-Characters.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
+|442|[Find All Duplicates in an Array](Solved/442-Find-All-Duplicates-in-an-Array/Find-All-Duplicates-in-an-Array.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |449|[Serialize and Deserialize BST](Solved/449-Serialize-and-Deserialize-BST/Serialize-and-Deserialize-BST.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button: BFS​|
 |474|[Ones and Zeroes](Solved/474-Ones-and-Zeroes/Ones-and-Zeroes.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |491|[Increasing Subsequences](Solved/491-Increasing-Subsequences/Increasing-Subsequences.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|

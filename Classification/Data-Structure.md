@@ -42,13 +42,18 @@
 
 ### Array & Matrix
 
+- 题目中要求空间复杂度的都可以在原数组上进行修改
+- 一些方法
+  - 289 - 多设置状态码：题中只有0/1，新增至0/1/2/3
+  - 442 - 将 nums[i] 的值作为新的index去搜索，并且将访问过的 nums[i] 置为负数
+
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
-|442||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
-|48|[Rotate Image](Solved/48-Rotate-Image/Rotate-Image.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|54|[Spiral Matrix](Solved/54-Spiral-Matrix/Spiral-Matrix.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|73|[Set Matrix Zeroes](Solved/73-Set-Matrix-Zeroes/Set-Matrix-Zeroes.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|289||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|442|[Find All Duplicates in an Array](../Solved/442-Find-All-Duplicates-in-an-Array/Find-All-Duplicates-in-an-Array.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|48|[Rotate Image](../Solved/48-Rotate-Image/Rotate-Image.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|54|[Spiral Matrix](../Solved/54-Spiral-Matrix/Spiral-Matrix.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|73|[Set Matrix Zeroes](../Solved/73-Set-Matrix-Zeroes/Set-Matrix-Zeroes.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|289|[Game of Life](../Solved/289-Game-of-Life/Game-of-Life.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 
 
 
@@ -56,11 +61,11 @@
 
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
-|6|[ZigZag Conversion](Solved/6-ZigZag-Conversion/ZigZag-Conversion.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|13|[Roman To Integer](Solved/13-Roman-To-Integer/Roman-To-Integer.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
-|14|[Longest Common Prefix](Solved/14-Longest-Common-Prefix/Longest-Common-Prefix.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
-|68|                                                              |![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
-|443|                                                              |![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
+|6|[ZigZag Conversion](../Solved/6-ZigZag-Conversion/ZigZag-Conversion.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|13|[Roman To Integer](../Solved/13-Roman-To-Integer/Roman-To-Integer.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
+|14|[Longest Common Prefix](../Solved/14-Longest-Common-Prefix/Longest-Common-Prefix.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
+|68|                                                              |![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
+|443|                                                              |![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 
 
 
@@ -102,7 +107,7 @@
 
 ### Heap
 | No | Solutions | Difficulity | Priority |
-| :--: | :-----: | :---------: | :------: |
+| :--: | ------- | :---------: | :------: |
 |23||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star::star:|
 |295||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
 |347||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
@@ -116,7 +121,7 @@
 
 ### Stack
 | No | Solutions | Difficulity | Priority |
-| :--: | :-----: | :---------: | :------: |
+| :--: | ------- | :---------: | :------: |
 |155||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star::star:|
 |20|[Valid Parentheses](Solved/20-Valid-Parentheses/Valid-Parentheses.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
 |85||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
