@@ -237,7 +237,7 @@ Daily Leetcode
 |704|[Binary Search](Solved/704-Binary-Search/Binary-Search.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |713|[Subarray Product Less Than K](Solved/713-Subarray-Product-Less-Than-K/Subarray-Product-Less-Than-K.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |733|[Flood Fill](Solved/733-Flood-Fill/Flood-Fill.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
-|773|[Sliding Puzzle](Solved/773-Sliding-Puzzle/Sliding-Puzzle.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:heavy_check_mark:|
+|763|[Partition Labels](Solved/763-Partition-Labels/Partition-Labels.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |841|[Keys and Rooms](Solved/841-Keys-and-Rooms/Keys-and-Rooms.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button: DFS|
 |852|[Peak Index in a Mountain Array](Solved/852-Peak Index-in-a-Mountain-Array/Peak-Index-in-a-Mountain-Array.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |875|[Koko Eating Bananas](Solved/875-Koko-Eating-Bananas/Koko-Eating-Bananas.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|

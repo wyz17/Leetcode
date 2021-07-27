@@ -123,7 +123,7 @@
 | :--: | ------- | :---------: | :------: |
 |55|[Jump Game](Solved/55-Jump-Game/Jump-Game.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |45|[Jump Game II](Solved/45-Jump-Game-II/Jump-Game-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|763||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
+|763|[Partition Labels](../Solved/763-Partition-Labels/Partition-Labels.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 
 
 
