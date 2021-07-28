@@ -79,16 +79,16 @@
 |83|[Remove Duplicates from Sorted List](../Solved/83-Remove-Duplicates-from-Sorted-List/Remove-Duplicates-from-Sorted-List.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
 |86|[Partition List](../Solved/86-Partition-List/Partition-List.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |92|[Reverse LinkedList II](../Solved/92-Reverse-Linked-List-II/Reverse-Linked-List-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|138||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|138|[Copy List with Random Pointer](../Solved/138-Copy-List-with-Random-Pointer/Copy-List-with-Random-Pointer.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |141|[Linked List Cycle](../Solved/141-Linked-List-Cycle/Linked-List-Cycle.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
-|148||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
-|160||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
+|148||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|160|[Intersection of Two Linked Lists](../Solved/160-Intersection-of-Two-Linked-Lists/Intersection-of-Two-Linked-Lists.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
 |203||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
 |206|[Reverse Linked List](../Solved/206-Reverse-Linked-List/Reverse-Linked-List.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
-|234||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
-|328||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
-|445||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
-|142||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
+|234|[Palindrome Linked List](../Solved/234-Palindrome-Linked-List/Palindrome-Linked-List.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
+|328|[Odd Even Linked List](../Solved/328-Odd-Even-Linked-List/Odd-Even-Linked-List.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|445||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|142|[Linked List Cycle II](../Solved/142-Linked-List-Cycle-II/Linked-List-Cycle-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 |876||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
 
 

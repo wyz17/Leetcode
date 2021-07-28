@@ -166,6 +166,7 @@ Daily Leetcode
 |131|[Palindrome Partitioning](Solved/131-Palindrome-Partitioning/Palindrome-Partitioning.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |133|[Clone Graph](Solved/133-Clone-Graph/Clone-Graph.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button: DFS​|
 |134|[Gas Station](Solved/134-Gas-Station/Gas-Station.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
+|138|[Copy List with Random Pointer](Solved/138-Copy-List-with-Random-Pointer/Copy-List-with-Random-Pointer.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |139|[Word Break](Solved/139-Word-Break/Word-Break.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |140|[Word Break II](Solved/140-Word-Break-II/Word-Break-II.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:radio_button:|
 |141|[Linked List Cycle](Solved/141-Linked-List-Cycle/Linked-List-Cycle.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
