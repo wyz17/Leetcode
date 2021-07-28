@@ -222,6 +222,7 @@ Daily Leetcode
 |387|[First Unique Character in a String](Solved/387-First-Unique-Character-in-a-String/First-Unique-Character-in-a-String.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |395|[Longest Substring with At Least K Repeating Characters](Solved/395-Longest-Substring-with-At-Least-K-Repeating-Characters/Longest-Substring-with-At-Least-K-Repeating-Characters.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
 |442|[Find All Duplicates in an Array](Solved/442-Find-All-Duplicates-in-an-Array/Find-All-Duplicates-in-an-Array.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
+|443|[String Compression](Solved/443-String-Compression/String-Compression.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |449|[Serialize and Deserialize BST](Solved/449-Serialize-and-Deserialize-BST/Serialize-and-Deserialize-BST.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button: BFS​|
 |474|[Ones and Zeroes](Solved/474-Ones-and-Zeroes/Ones-and-Zeroes.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |491|[Increasing Subsequences](Solved/491-Increasing-Subsequences/Increasing-Subsequences.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
