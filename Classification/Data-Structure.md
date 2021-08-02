@@ -96,12 +96,12 @@
 ### Hash
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
-|706||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star::star:|
+|706|[Design HashMap](../Solved/706-Design-HashMap/Design-HashMap.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star::star:|
 |49|[Group Anagrams](Solved/49-Group-Anagrams/Group-Anagrams.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |128||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
-|560||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|953||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
-|290||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
+|560|[Subarray Sum Equals K](../Solved/560-Subarray-Sum-Equals-K/Subarray-Sum-Equals-K.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|953|[Verifying an Alien Dictionary](../Solved/953-Verifying-an-Alien-Dictionary/Verifying-an-Alien-Dictionary.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
+|290|[Word Pattern](../Solved/290-Word-Pattern/Word-Pattern.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
 
 
 

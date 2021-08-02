@@ -241,6 +241,7 @@ Daily Leetcode
 |658|[Find K Closest Elements](Solved/658-Find-K-Closest-Elements/Find-K-Closest-Elements.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |703|[Kth Largest Element in a Stream](Solved/703-Kth-Largest-Element-in-a-Stream/Kth-Largest-Element-in-a-Stream.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |704|[Binary Search](Solved/704-Binary-Search/Binary-Search.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
+|706|[Design HashMap](Solved/706-Design-HashMap/Design-HashMap.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:radio_button:|
 |713|[Subarray Product Less Than K](Solved/713-Subarray-Product-Less-Than-K/Subarray-Product-Less-Than-K.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |733|[Flood Fill](Solved/733-Flood-Fill/Flood-Fill.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |763|[Partition Labels](Solved/763-Partition-Labels/Partition-Labels.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
@@ -250,6 +251,7 @@ Daily Leetcode
 |876|[Middle of the Linked List](Solved/876-Middle-of-the-Linked-List/Middle-of-the-Linked-List.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |889|[Construct Binary Tree from Preorder and Postorder Traversal](Solved/889-Construct-Binary-Tree-from-Preorder-and-Postorder-Traversal/Construct-Binary-Tree-from-Preorder-and-Postorder-Traversal.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |912|[Sort an Array](Solved/912-Sort-an-Array/Sort-an-Array.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
+|953|[Verifying an Alien Dictionary](Solved/953-Verifying-an-Alien-Dictionary/Verifying-an-Alien-Dictionary.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |994|[Rotting Oranges](Solved/994-Rotting-Oranges/Rotting-Oranges.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |1283|[Find the Smallest Divisor Given a Threshold](Solved/1283-Find-the-Smallest-Divisor-Given-a-Threshold/Find-the-Smallest-Divisor-Given-a-Threshold.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |1306|[Jump Game III](Solved/1306-Jump-Game-III/Jump-Game-III.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button: DFS|
