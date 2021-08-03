@@ -110,12 +110,12 @@
 | :--: | ------- | :---------: | :------: |
 |23||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star::star:|
 |295||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
-|347||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|692||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|767||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|973||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|347|[Top K Frequent Elements](../Solved/347-Top-K-Frequent-Elements/Top-K-Frequent-Elements.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|692|[Top K Frequent Words](../Solved/692-Top-K-Frequent-Words/Top-K-Frequent-Words.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|767|[Reorganize String](../Solved/767-Reorganize-String/Reorganize-String.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|973|[K Closest Points to Origin](../Solved/973-K-Closest-Points-to-Origin/K-Closest-Points-to-Origin.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |480||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star:|
-|703||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
+|703|[Kth Largest Element in a Stream](../Solved/703-Kth-Largest-Element-in-a-Stream/Kth-Largest-Element-in-a-Stream.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star:|
 
 
 
