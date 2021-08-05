@@ -176,6 +176,7 @@ Daily Leetcode
 |151|[Reverse Words in a String](Solved/151-Reverse-Words-in-a-String/Reverse-Words-in-a-String.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |153|[Find Minimum in Rotated Sorted Array](Solved/153-Find-Minimum-in-Rotated-Sorted-Array/Find-Minimum-in-Rotated-Sorted-Array.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |154|[Find Minimum in Rotated Sorted Array II](Solved/154-Find-Minimum-in-Rotated-Sorted-Array-II/Find-Minimum-in-Rotated-Sorted-Array-II.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:heavy_check_mark:|
+|155|[Min Stack](Solved/155-Min-Stack/Min-Stack.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |160|[Intersection of Two Linked Lists](Solved/160-Intersection-of-Two-Linked-Lists/Intersection-of-Two-Linked-Lists.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |162|[Find Peak Element](Solved/162-Find-Peak-Element/Find-Peak-Element.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |167|[Two Sum II - Input array is sorted](Solved/167-Two-Sum-II-Input-array-is-sorted/Two-Sum-II-Input-array-is-sorted.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
@@ -195,6 +196,8 @@ Daily Leetcode
 |219|[Contains Duplicate II](Solved/219-Contains-Duplicate-II/Contains-Duplicate-II.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |220|[Contains Duplicate III](Solved/220-Contains-Duplicate-III/Contains-Duplicate-III.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
 |221|[Maximal Square](Solved/221-Maximal-Square/Maximal-Square.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
+|224|[Basic Calculator](Solved/224-Basic-Calculator/Basic-Calculator.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:heavy_check_mark:|
+|227|[Basic Calculator II](Solved/227-Basic-Calculator-II/Basic-Calculator-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |229|[Majority Element II](Solved/229-Majority-Element-II/Majority-Element-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
 |230|[Kth Smallest Element in a BST](Solved/230-Kth-Smallest-Element-in-a-BST/Kth-Smallest-Element-in-a-BST.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |234|[Palindrome Linked List](Solved/234-Palindrome-Linked-List/Palindrome-Linked-List.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
@@ -223,6 +226,7 @@ Daily Leetcode
 |347|[Top K Frequent Elements](Solved/347-Top-K-Frequent-Elements/Top-K-Frequent-Elements.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |383|[Ransom Note](Solved/383-Ransom-Note/Ransom-Note.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
 |387|[First Unique Character in a String](Solved/387-First-Unique-Character-in-a-String/First-Unique-Character-in-a-String.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:heavy_check_mark:|
+|394|[Decode String](Solved/394-Decode-String/Decode-String.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |395|[Longest Substring with At Least K Repeating Characters](Solved/395-Longest-Substring-with-At-Least-K-Repeating-Characters/Longest-Substring-with-At-Least-K-Repeating-Characters.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button:|
 |442|[Find All Duplicates in an Array](Solved/442-Find-All-Duplicates-in-an-Array/Find-All-Duplicates-in-an-Array.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |443|[String Compression](Solved/443-String-Compression/String-Compression.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
@@ -258,6 +262,7 @@ Daily Leetcode
 |973|[K Closest Points to Origin](Solved/973-K-Closest-Points-to-Origin/K-Closest-Points-to-Origin.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button: O(n)|
 |994|[Rotting Oranges](Solved/994-Rotting-Oranges/Rotting-Oranges.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |1283|[Find the Smallest Divisor Given a Threshold](Solved/1283-Find-the-Smallest-Divisor-Given-a-Threshold/Find-the-Smallest-Divisor-Given-a-Threshold.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
+|1249|[Minimum Remove to Make Valid Parentheses](Solved/1249-Minimum-Remove-to-Make-Valid-Parentheses/Minimum-Remove-to-Make-Valid-Parentheses.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:heavy_check_mark:|
 |1306|[Jump Game III](Solved/1306-Jump-Game-III/Jump-Game-III.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:radio_button: DFS|
 
 

@@ -122,12 +122,12 @@
 ### Stack
 | No | Solutions | Difficulity | Priority |
 | :--: | ------- | :---------: | :------: |
-|155||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star::star:|
+|155|[Min Stack](../Solved/155-Min-Stack/Min-Stack.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star::star:|
 |20|[Valid Parentheses](Solved/20-Valid-Parentheses/Valid-Parentheses.md)|![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star:|
 |85||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
-|224||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
-|227||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|394||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|224|[Basic Calculator](../Solved/224-Basic-Calculator/Basic-Calculator.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
+|227|[Basic Calculator II](../Solved/227-Basic-Calculator-II/Basic-Calculator-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
+|394|[Decode String](../Solved/394-Decode-String/Decode-String.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |1249||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 
 
@@ -135,7 +135,7 @@
 ### Monotonic Stack
 | No | Solutions | Difficulity | Priority |
 | :--: | :-----: | :---------: | :------: |
-|300||![](https://img.shields.io/badge/-Easy-%235cb85c.svg)|:star::star::star::star:|
+|300||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star::star:|
 |84||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
 |239||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
 |1019||![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
