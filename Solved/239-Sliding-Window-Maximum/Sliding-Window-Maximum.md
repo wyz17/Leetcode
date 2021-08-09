@@ -84,3 +84,4 @@ class Solution:
                 res.append(nums[window[0]])
         return res
 ```
+

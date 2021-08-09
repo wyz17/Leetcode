@@ -64,3 +64,4 @@ class Solution:
             pB = headA if not pB else pB.next
         return pA
 ```
+

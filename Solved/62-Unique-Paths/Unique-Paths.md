@@ -126,3 +126,4 @@ class Solution:
             return 0
         return int(math.factorial(m+n-2) / (math.factorial(n-1) * math.factorial(m-1)))
 ```
+

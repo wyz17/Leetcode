@@ -74,3 +74,4 @@ class Solution:
             time += (p - 1) // k + 1
         return time <= h
 ```
+

@@ -95,3 +95,4 @@ class Solution:
             res[j] = res[j] * right
         return res
 ```
+

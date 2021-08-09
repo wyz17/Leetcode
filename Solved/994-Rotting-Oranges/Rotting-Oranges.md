@@ -104,3 +104,4 @@ class Solution:
                         fresh -= 1
         return count - 1 if fresh == 0 else -1;
 ```
+

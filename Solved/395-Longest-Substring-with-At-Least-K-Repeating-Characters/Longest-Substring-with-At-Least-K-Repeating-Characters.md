@@ -90,8 +90,6 @@ class Solution {
 
 #### 代码
 
-
-
 ##### Python
 
 ```python
@@ -102,3 +100,4 @@ class Solution(object):
                 return max(self.longestSubstring(t, k) for t in s.split(c))
         return len(s)
 ```
+

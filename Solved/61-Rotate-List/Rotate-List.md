@@ -77,3 +77,4 @@ class Solution:
         cur.next = None
         return res
 ```
+

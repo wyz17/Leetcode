@@ -79,3 +79,4 @@ class Solution:
             if i + 1 <= len(s):
                 self.dfs(res, s[i+1:], path + [s[:i+1]])
 ```
+

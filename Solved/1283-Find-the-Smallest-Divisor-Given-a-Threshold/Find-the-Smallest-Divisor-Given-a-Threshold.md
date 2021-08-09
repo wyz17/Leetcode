@@ -74,3 +74,4 @@ class Solution:
             res += (num - 1) // divisor + 1
         return res
 ```
+

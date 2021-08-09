@@ -128,7 +128,7 @@
 |224|[Basic Calculator](../Solved/224-Basic-Calculator/Basic-Calculator.md)|![](https://img.shields.io/badge/-Hard-red.svg)|:star::star::star:|
 |227|[Basic Calculator II](../Solved/227-Basic-Calculator-II/Basic-Calculator-II.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
 |394|[Decode String](../Solved/394-Decode-String/Decode-String.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star::star:|
-|1249||![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
+|1249|[Minimum Remove to Make Valid Parentheses](../Solved/1249-Minimum-Remove-to-Make-Valid-Parentheses/Minimum-Remove-to-Make-Valid-Parentheses.md)|![](https://img.shields.io/badge/-Medium-%23FFA500.svg)|:star::star:|
 
 
 

@@ -96,3 +96,4 @@ class Solution:
             res += stk.pop()
         return res
 ```
+

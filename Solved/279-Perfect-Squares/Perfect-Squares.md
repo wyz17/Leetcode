@@ -64,3 +64,4 @@ class Solution:
                 dp[i] = min(dp[i], dp[i - j * j] + 1)
         return dp[-1]
 ```
+

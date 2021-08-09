@@ -65,3 +65,4 @@ class Solution:
                 right = mid - 1
         return arr[left : left + k]
 ```
+

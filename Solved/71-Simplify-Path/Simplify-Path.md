@@ -80,3 +80,4 @@ class Solution:
                 stk.pop()
         return '/' + '/'.join(stk)
 ```
+

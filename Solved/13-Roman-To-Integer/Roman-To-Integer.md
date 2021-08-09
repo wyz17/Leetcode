@@ -234,3 +234,4 @@ class Solution:
             number += translations[char]
         return number
 ```
+

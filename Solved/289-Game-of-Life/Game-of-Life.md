@@ -87,3 +87,4 @@ class Solution:
             for j in range(len(board[0])):
                 board[i][j] %= 2
 ```
+

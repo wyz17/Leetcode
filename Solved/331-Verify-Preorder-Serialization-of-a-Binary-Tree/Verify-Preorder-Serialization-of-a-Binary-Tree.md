@@ -66,3 +66,4 @@ class Solution:
                 diff += 2
         return diff == 0
 ```
+

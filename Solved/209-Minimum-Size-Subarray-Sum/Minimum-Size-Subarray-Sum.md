@@ -62,3 +62,4 @@ class Solution:
                 left += 1
         return 0 if res == float("inf") else res
 ```
+

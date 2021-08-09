@@ -55,3 +55,4 @@ class Solution:
             slow = slow.next
         return slow
 ```
+
